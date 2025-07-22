@@ -1,0 +1,9 @@
+.Rproj.user/*
+dados_caged_antigo/*
+dados_novo_caged/*
+resultados_divididos/*
+.Rdata
+.RHistory
+analise_desastres.db
+cache_resultado_query.rds
+Mestrado.Rproj

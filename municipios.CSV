@@ -1,0 +1,5660 @@
+Código;Descrição
+110001;Ro-Alta Floresta D Oeste
+110002;Ro-Ariquemes
+110003;Ro-Cabixi
+110004;Ro-Cacoal
+110005;Ro-Cerejeiras
+110006;Ro-Colorado do Oeste
+110007;Ro-Corumbiara
+110008;Ro-Costa Marques
+110009;Ro-Espigao D Oeste
+110010;Ro-Guajara-Mirim
+110011;Ro-Jaru
+110012;Ro-Ji-Parana
+110013;Ro-Machadinho D Oeste
+110014;Ro-Nova Brasilandia D Oeste
+110015;Ro-Ouro Preto do Oeste
+110018;Ro-Pimenta Bueno
+110020;Ro-Porto Velho
+110025;Ro-Presidente Medici
+110026;Ro-Rio Crespo
+110028;Ro-Rolim de Moura
+110029;Ro-Santa Luzia D Oeste
+110030;Ro-Vilhena
+110032;Ro-Sao Miguel do Guapore
+110033;Ro-Nova Mamore
+110034;Ro-Alvorada D Oeste
+110037;Ro-Alto Alegre dos Parecis
+110040;Ro-Alto Paraiso
+110045;Ro-Buritis
+110050;Ro-Novo Horizonte do Oeste
+110060;Ro-Cacaulandia
+110070;Ro-Campo Novo de Rondonia
+110080;Ro-Candeias do Jamari
+110090;Ro-Castanheiras
+110092;Ro-Chupinguaia
+110094;Ro-Cujubim
+110100;Ro-Governador Jorge Teixeira
+110110;Ro-Itapua do Oeste
+110120;Ro-Ministro Andreazza
+110130;Ro-Mirante da Serra
+110140;Ro-Monte Negro
+110143;Ro-Nova Uniao
+110145;Ro-Parecis
+110146;Ro-Pimenteiras do Oeste
+110147;Ro-Primavera da Rondonia
+110148;Ro-Sao Felipe D Oeste
+110149;Ro-Sao Francisco do Guapore
+110150;Ro-Seringueiras
+110155;Ro-Teixeiropolis
+110160;Ro-Theobroma
+110170;Ro-Urupa
+110175;Ro-Vale do Anari
+110180;Ro-Vale do Paraiso
+119999;Ro-Ignorado
+120001;Ac-Acrelandia
+120005;Ac-Assis Brasil
+120010;Ac-Brasileia
+120013;Ac-Bujari
+120017;Ac-Capixaba
+120020;Ac-Cruzeiro do Sul
+120025;Ac-Epitaciolandia
+120030;Ac-Feijo
+120032;Ac-Jordao
+120033;Ac-Mancio Lima
+120034;Ac-Manoel Urbano
+120035;Ac-Marechal Thaumaturgo
+120038;Ac-Placido de Castro
+120039;Ac-Porto Walter
+120040;Ac-Rio Branco
+120042;Ac-Rodrigues Alves
+120043;Ac-Santa Rosa do Purus
+120045;Ac-Senador Guiomard
+120050;Ac-Sena Madureira
+120060;Ac-Tarauaca
+120070;Ac-Xapuri
+120080;Ac-Porto Acre
+129999;Ac-Ignorado
+130002;Am-Alvaraes
+130006;Am-Amatura
+130008;Am-Anama
+130010;Am-Anori
+130014;Am-Apui
+130020;Am-Atalaia do Norte
+130030;Am-Autazes
+130040;Am-Barcelos
+130050;Am-Barreirinha
+130060;Am-Benjamin Constant
+130063;Am-Beruri
+130068;Am-Boa Vista do Ramos
+130070;Am-Boca do Acre
+130080;Am-Borba
+130083;Am-Caapiranga
+130090;Am-Canutama
+130100;Am-Carauari
+130110;Am-Careiro
+130115;Am-Careiro da Varzea
+130120;Am-Coari
+130130;Am-Codajas
+130140;Am-Eirunepe
+130150;Am-Envira
+130160;Am-Fonte Boa
+130165;Am-Guajara
+130170;Am-Humaita
+130180;Am-Ipixuna
+130185;Am-Iranduba
+130190;Am-Itacoatiara
+130195;Am-Itamarati
+130200;Am-Itapiranga
+130210;Am-Japura
+130220;Am-Jurua
+130230;Am-Jutai
+130240;Am-Labrea
+130250;Am-Manacapuru
+130255;Am-Manaquiri
+130260;Am-Manaus
+130270;Am-Manicore
+130280;Am-Maraa
+130290;Am-Maues
+130300;Am-Nhamunda
+130310;Am-Nova Olinda do Norte
+130320;Am-Novo Airao
+130330;Am-Novo Aripuana
+130340;Am-Parintins
+130350;Am-Pauini
+130353;Am-Presidente Figueiredo
+130356;Am-Rio Preto da Eva
+130360;Am-Santa Isabel do Rio Negro
+130370;Am-Santo Antonio do Ica
+130380;Am-Sao Gabriel da Cachoeira
+130390;Am-Sao Paulo de Olivenca
+130395;Am-Sao Sebastiao do Uatuma
+130400;Am-Silves
+130406;Am-Tabatinga
+130410;Am-Tapaua
+130420;Am-Tefe
+130423;Am-Tonantins
+130426;Am-Uarini
+130430;Am-Urucara
+130440;Am-Urucurituba
+139999;Am-Ignorado
+140002;Rr-Amajari
+140005;Rr-Alto Alegre
+140010;Rr-Boa Vista
+140015;Rr-Bonfim
+140017;Rr-Canta
+140020;Rr-Caracarai
+140023;Rr-Caroebe
+140028;Rr-Iracema
+140030;Rr-Mucajai
+140040;Rr-Normandia
+140045;Rr-Pacaraima
+140047;Rr-Rorainopolis
+140050;Rr-Sao Joao da Baliza
+140060;Rr-Sao Luiz
+140070;Rr-Uiramuta
+149999;Rr-Ignorado
+150010;Pa-Abaetetuba
+150013;Pa-Abel Figueiredo
+150020;Pa-Acara
+150030;Pa-Afua
+150034;Pa-Agua Azul do Norte
+150040;Pa-Alenquer
+150050;Pa-Almeirim
+150060;Pa-Altamira
+150070;Pa-Anajas
+150080;Pa-Ananindeua
+150085;Pa-Anapu
+150090;Pa-Augusto Correa
+150095;Pa-Aurora do Para
+150100;Pa-Aveiro
+150110;Pa-Bagre
+150120;Pa-Baiao
+150125;Pa-Bannach
+150130;Pa-Barcarena
+150140;Pa-Belem
+150145;Pa-Belterra
+150150;Pa-Benevides
+150157;Pa-Bom Jesus do Tocantins
+150160;Pa-Bonito
+150170;Pa-Braganca
+150172;Pa-Brasil Novo
+150175;Pa-Brejo Grande do Araguaia
+150178;Pa-Breu Branco
+150180;Pa-Breves
+150190;Pa-Bujaru
+150195;Pa-Cachoeira do Piria
+150200;Pa-Cachoeira do Arari
+150210;Pa-Cameta
+150215;Pa-Canaa dos Carajas
+150220;Pa-Capanema
+150230;Pa-Capitao Poco
+150240;Pa-Castanhal
+150250;Pa-Chaves
+150260;Pa-Colares
+150270;Pa-Conceicao do Araguaia
+150275;Pa-Concordia do Para
+150276;Pa-Cumaru do Norte
+150277;Pa-Curionopolis
+150280;Pa-Curralinho
+150285;Pa-Curua
+150290;Pa-Curuca
+150293;Pa-Dom Eliseu
+150295;Pa-Eldorado dos Carajas
+150300;Pa-Faro
+150304;Pa-Floresta do Araguaia
+150307;Pa-Garrafao do Norte
+150309;Pa-Goianesia do Para
+150310;Pa-Gurupa
+150320;Pa-Igarape-Acu
+150330;Pa-Igarape-Miri
+150340;Pa-Inhangapi
+150345;Pa-Ipixuna do Para
+150350;Pa-Irituia
+150360;Pa-Itaituba
+150370;Pa-Itupiranga
+150375;Pa-Jacareacanga
+150380;Pa-Jacunda
+150390;Pa-Juruti
+150400;Pa-Limoeiro do Ajuru
+150405;Pa-Mae do Rio
+150410;Pa-Magalhaes Barata
+150420;Pa-Maraba
+150430;Pa-Maracana
+150440;Pa-Marapanim
+150442;Pa-Marituba
+150445;Pa-Medicilandia
+150450;Pa-Melgaco
+150460;Pa-Mocajuba
+150470;Pa-Moju
+150475;Pa-Mojui dos Campos
+150480;Pa-Monte Alegre
+150490;Pa-Muana
+150495;Pa-Nova Esperanca do Piria
+150497;Pa-Nova Ipixuna
+150500;Pa-Nova Timboteua
+150503;Pa-Novo Progresso
+150506;Pa-Novo Repartimento
+150510;Pa-Obidos
+150520;Pa-Oeiras do Para
+150530;Pa-Oriximina
+150540;Pa-Ourem
+150543;Pa-Ourilandia do Norte
+150548;Pa-Pacaja
+150549;Pa-Palestina do Para
+150550;Pa-Paragominas
+150553;Pa-Parauapebas
+150555;Pa-Pau D Arco
+150560;Pa-Peixe-Boi
+150563;Pa-Picarra
+150565;Pa-Placas
+150570;Pa-Ponta de Pedras
+150580;Pa-Portel
+150590;Pa-Porto de Moz
+150600;Pa-Prainha
+150610;Pa-Primavera
+150611;Pa-Quatipuru
+150613;Pa-Redencao
+150616;Pa-Rio Maria
+150618;Pa-Rondon do Para
+150619;Pa-Ruropolis
+150620;Pa-Salinopolis
+150630;Pa-Salvaterra
+150635;Pa-Santa Barbara do Para
+150640;Pa-Santa Cruz do Arari
+150650;Pa-Santa Isabel do Para
+150655;Pa-Santa Luzia do Para
+150658;Pa-Santa Maria das Barreiras
+150660;Pa-Santa Maria do Para
+150670;Pa-Santana do Araguaia
+150680;Pa-Santarem
+150690;Pa-Santarem Novo
+150700;Pa-Santo Antonio do Taua
+150710;Pa-Sao Caetano de Odivelas
+150715;Pa-Sao Domingos do Araguaia
+150720;Pa-Sao Domingos do Capim
+150730;Pa-Sao Felix do Xingu
+150740;Pa-Sao Francisco do Para
+150745;Pa-Sao Geraldo do Araguaia
+150746;Pa-Sao Joao da Ponta
+150747;Pa-Sao Joao de Pirabas
+150750;Pa-Sao Joao do Araguaia
+150760;Pa-Sao Miguel do Guama
+150770;Pa-Sao Sebastiao da Boa Vista
+150775;Pa-Sapucaia
+150780;Pa-Senador Jose Porfirio
+150790;Pa-Soure
+150795;Pa-Tailandia
+150796;Pa-Terra Alta
+150797;Pa-Terra Santa
+150800;Pa-Tome-Acu
+150803;Pa-Tracuateua
+150805;Pa-Trairao
+150808;Pa-Tucuma
+150810;Pa-Tucurui
+150812;Pa-Ulianopolis
+150815;Pa-Uruara
+150820;Pa-Vigia
+150830;Pa-Viseu
+150835;Pa-Vitoria do Xingu
+150840;Pa-Xinguara
+159999;Pa-Ignorado
+160005;Ap-Serra do Navio
+160010;Ap-Amapa
+160015;Ap-Pedra Branca do Amapari
+160020;Ap-Calcoene
+160021;Ap-Cutias
+160023;Ap-Ferreira Gomes
+160025;Ap-Itaubal
+160027;Ap-Laranjal do Jari
+160030;Ap-Macapa
+160040;Ap-Mazagao
+160050;Ap-Oiapoque
+160053;Ap-Porto Grande
+160055;Ap-Pracuuba
+160060;Ap-Santana
+160070;Ap-Tartarugalzinho
+160080;Ap-Vitoria do Jari
+169999;Ap-Ignorado
+170025;To-Abreulandia
+170030;To-Aguiarnopolis
+170035;To-Alianca do Tocantins
+170040;To-Almas
+170070;To-Alvorada
+170100;To-Ananas
+170105;To-Angico
+170110;To-Aparecida do Rio Negro
+170130;To-Aragominas
+170190;To-Araguacema
+170200;To-Araguacu
+170210;To-Araguaina
+170215;To-Araguana
+170220;To-Araguatins
+170230;To-Arapoema
+170240;To-Arraias
+170255;To-Augustinopolis
+170270;To-Aurora do Tocantins
+170290;To-Axixa do Tocantins
+170300;To-Babaculandia
+170305;To-Bandeirantes do Tocantins
+170307;To-Barra do Ouro
+170310;To-Barrolandia
+170320;To-Bernardo Sayao
+170330;To-Bom Jesus do Tocantins
+170360;To-Brasilandia do Tocantins
+170370;To-Brejinho de Nazare
+170380;To-Buriti do Tocantins
+170382;To-Cachoeirinha
+170384;To-Campos Lindos
+170386;To-Cariri do Tocantins
+170388;To-Carmolandia
+170389;To-Carrasco Bonito
+170390;To-Caseara
+170410;To-Centenario
+170460;To-Chapada de Areia
+170510;To-Chapada da Natividade
+170550;To-Colinas do Tocantins
+170555;To-Combinado
+170560;To-Conceicao do Tocantins
+170600;To-Couto de Magalhaes
+170610;To-Cristalandia
+170625;To-Crixas do Tocantins
+170650;To-Darcinopolis
+170700;To-Dianopolis
+170710;To-Divinopolis do Tocantins
+170720;To-Dois Irmaos do Tocantins
+170730;To-Duere
+170740;To-Esperantina
+170755;To-Fatima
+170765;To-Figueiropolis
+170770;To-Filadelfia
+170820;To-Formoso do Araguaia
+170825;To-Fortaleza do Tabocao
+170830;To-Goianorte
+170900;To-Goiatins
+170930;To-Guarai
+170950;To-Gurupi
+170980;To-Ipueiras
+171050;To-Itacaja
+171070;To-Itaguatins
+171090;To-Itapiratins
+171110;To-Itapora do Tocantins
+171150;To-Jau do Tocantins
+171180;To-Juarina
+171190;To-Lagoa da Confusao
+171195;To-Lagoa do Tocantins
+171200;To-Lajeado
+171215;To-Lavandeira
+171240;To-Lizarda
+171245;To-Luzinopolis
+171250;To-Marianopolis do Tocantins
+171270;To-Mateiros
+171280;To-Maurilandia do Tocantins
+171320;To-Miracema do Tocantins
+171330;To-Miranorte
+171360;To-Monte do Carmo
+171370;To-Monte Santo do Tocantins
+171380;To-Palmeiras do Tocantins
+171395;To-Muricilandia
+171420;To-Natividade
+171430;To-Nazare
+171488;To-Nova Olinda
+171500;To-Nova Rosalandia
+171510;To-Novo Acordo
+171515;To-Novo Alegre
+171525;To-Novo Jardim
+171550;To-Oliveira de Fatima
+171570;To-Palmeirante
+171575;To-Palmeiropolis
+171610;To-Paraiso do Tocantins
+171620;To-Parana
+171630;To-Pau D Arco
+171650;To-Pedro Afonso
+171660;To-Peixe
+171665;To-Pequizeiro
+171670;To-Colmeia
+171700;To-Pindorama do Tocantins
+171720;To-Piraque
+171750;To-Pium
+171780;To-Ponte Alta do Bom Jesus
+171790;To-Ponte Alta do Tocantins
+171800;To-Porto Alegre do Tocantins
+171820;To-Porto Nacional
+171830;To-Praia Norte
+171840;To-Presidente Kennedy
+171845;To-Pugmil
+171850;To-Recursolandia
+171855;To-Riachinho
+171865;To-Rio da Conceicao
+171870;To-Rio dos Bois
+171875;To-Rio Sono
+171880;To-Sampaio
+171884;To-Sandolandia
+171886;To-Santa Fe do Araguaia
+171888;To-Santa Maria do Tocantins
+171889;To-Santa Rita do Tocantins
+171890;To-Santa Rosa do Tocantins
+171900;To-Santa Tereza do Tocantins
+172000;To-Santa Terezinha do Tocantins
+172010;To-Sao Bento do Tocantins
+172015;To-Sao Felix do Tocantins
+172020;To-Sao Miguel do Tocantins
+172025;To-Sao Salvador do Tocantins
+172030;To-Sao Sebastiao do Tocantins
+172049;To-Sao Valerio da Natividade
+172065;To-Silvanopolis
+172080;To-Sitio Novo do Tocantins
+172085;To-Sucupira
+172090;To-Taguatinga
+172093;To-Taipas do Tocantins
+172097;To-Talisma
+172100;To-Palmas
+172110;To-Tocantinia
+172120;To-Tocantinopolis
+172125;To-Tupirama
+172130;To-Tupiratins
+172208;To-Wanderlandia
+172210;To-Xambioa
+179999;To-Ignorado
+210005;Ma-Acailandia
+210010;Ma-Afonso Cunha
+210015;Ma-Agua Doce do Maranhao
+210020;Ma-Alcantara
+210030;Ma-Aldeias Altas
+210040;Ma-Altamira do Maranhao
+210043;Ma-Alto Alegre do Maranhao
+210047;Ma-Alto Alegre do Pindare
+210050;Ma-Alto Parnaiba
+210055;Ma-Amapa do Maranhao
+210060;Ma-Amarante do Maranhao
+210070;Ma-Anajatuba
+210080;Ma-Anapurus
+210083;Ma-Apicum-Acu
+210087;Ma-Araguana
+210090;Ma-Araioses
+210095;Ma-Arame
+210100;Ma-Arari
+210110;Ma-Axixa
+210120;Ma-Bacabal
+210125;Ma-Bacabeira
+210130;Ma-Bacuri
+210135;Ma-Bacurituba
+210140;Ma-Balsas
+210150;Ma-Barao de Grajau
+210160;Ma-Barra do Corda
+210170;Ma-Barreirinhas
+210173;Ma-Belagua
+210177;Ma-Bela Vista do Maranhao
+210180;Ma-Benedito Leite
+210190;Ma-Bequimao
+210193;Ma-Bernardo do Mearim
+210197;Ma-Boa Vista do Gurupi
+210200;Ma-Bom Jardim
+210203;Ma-Bom Jesus das Selvas
+210207;Ma-Bom Lugar
+210210;Ma-Brejo
+210215;Ma-Brejo de Areia
+210220;Ma-Buriti
+210230;Ma-Buriti Bravo
+210232;Ma-Buriticupu
+210235;Ma-Buritirana
+210237;Ma-Cachoeira Grande
+210240;Ma-Cajapio
+210250;Ma-Cajari
+210255;Ma-Campestre do Maranhao
+210260;Ma-Candido Mendes
+210270;Ma-Cantanhede
+210275;Ma-Capinzal do Norte
+210280;Ma-Carolina
+210290;Ma-Carutapera
+210300;Ma-Caxias
+210310;Ma-Cedral
+210312;Ma-Central do Maranhao
+210315;Ma-Centro do Guilherme
+210317;Ma-Centro Novo do Maranhao
+210320;Ma-Chapadinha
+210325;Ma-Cidelandia
+210330;Ma-Codo
+210340;Ma-Coelho Neto
+210350;Ma-Colinas
+210355;Ma-Conceicao do Lago-Acu
+210360;Ma-Coroata
+210370;Ma-Cururupu
+210375;Ma-Davinopolis
+210380;Ma-Dom Pedro
+210390;Ma-Duque Bacelar
+210400;Ma-Esperantinopolis
+210405;Ma-Estreito
+210407;Ma-Feira Nova do Maranhao
+210408;Ma-Fernando Falcao
+210409;Ma-Formosa da Serra Negra
+210410;Ma-Fortaleza dos Nogueiras
+210420;Ma-Fortuna
+210430;Ma-Godofredo Viana
+210440;Ma-Goncalves Dias
+210450;Ma-Governador Archer
+210455;Ma-Governador Edison Lobao
+210460;Ma-Governador Eugenio Barros
+210462;Ma-Governador Luiz Rocha
+210465;Ma-Governador Newton Bello
+210467;Ma-Governador Nunes Freire
+210470;Ma-Graca Aranha
+210480;Ma-Grajau
+210490;Ma-Guimaraes
+210500;Ma-Humberto de Campos
+210510;Ma-Icatu
+210515;Ma-Igarape do Meio
+210520;Ma-Igarape Grande
+210530;Ma-Imperatriz
+210535;Ma-Itaipava do Grajau
+210540;Ma-Itapecuru Mirim
+210542;Ma-Itinga do Maranhao
+210545;Ma-Jatoba
+210547;Ma-Jenipapo dos Vieiras
+210550;Ma-Joao Lisboa
+210560;Ma-Joselandia
+210565;Ma-Junco do Maranhao
+210570;Ma-Lago da Pedra
+210580;Ma-Lago do Junco
+210590;Ma-Lago Verde
+210592;Ma-Lagoa do Mato
+210594;Ma-Lago dos Rodrigues
+210596;Ma-Lagoa Grande do Maranhao
+210598;Ma-Lajeado Novo
+210600;Ma-Lima Campos
+210610;Ma-Loreto
+210620;Ma-Luis Domingues
+210630;Ma-Magalhaes de Almeida
+210632;Ma-Maracacume
+210635;Ma-Maraja do Sena
+210637;Ma-Maranhaozinho
+210640;Ma-Mata Roma
+210650;Ma-Matinha
+210660;Ma-Matoes
+210663;Ma-Matoes do Norte
+210667;Ma-Milagres do Maranhao
+210670;Ma-Mirador
+210675;Ma-Miranda do Norte
+210680;Ma-Mirinzal
+210690;Ma-Moncao
+210700;Ma-Montes Altos
+210710;Ma-Morros
+210720;Ma-Nina Rodrigues
+210725;Ma-Nova Colinas
+210730;Ma-Nova Iorque
+210735;Ma-Nova Olinda do Maranhao
+210740;Ma-Olho D Agua das Cunhas
+210745;Ma-Olinda Nova do Maranhao
+210750;Ma-Paco do Lumiar
+210760;Ma-Palmeirandia
+210770;Ma-Paraibano
+210780;Ma-Parnarama
+210790;Ma-Passagem Franca
+210800;Ma-Pastos Bons
+210805;Ma-Paulino Neves
+210810;Ma-Paulo Ramos
+210820;Ma-Pedreiras
+210825;Ma-Pedro do Rosario
+210830;Ma-Penalva
+210840;Ma-Peri Mirim
+210845;Ma-Peritoro
+210850;Ma-Pindare Mirim
+210860;Ma-Pinheiro
+210870;Ma-Pio Xii
+210880;Ma-Pirapemas
+210890;Ma-Pocao de Pedras
+210900;Ma-Porto Franco
+210905;Ma-Porto Rico do Maranhao
+210910;Ma-Presidente Dutra
+210920;Ma-Presidente Juscelino
+210923;Ma-Presidente Medici
+210927;Ma-Presidente Sarney
+210930;Ma-Presidente Vargas
+210940;Ma-Primeira Cruz
+210945;Ma-Raposa
+210950;Ma-Riachao
+210955;Ma-Ribamar Fiquene
+210960;Ma-Rosario
+210970;Ma-Sambaiba
+210975;Ma-Santa Filomena do Maranhao
+210980;Ma-Santa Helena
+210990;Ma-Santa Ines
+211000;Ma-Santa Luzia
+211003;Ma-Santa Luzia do Parua
+211010;Ma-Santa Quiteria do Maranhao
+211020;Ma-Santa Rita
+211023;Ma-Santana do Maranhao
+211027;Ma-Santo Amaro do Maranhao
+211030;Ma-Santo Antonio dos Lopes
+211040;Ma-Sao Benedito do Rio Preto
+211050;Ma-Sao Bento
+211060;Ma-Sao Bernardo
+211065;Ma-Sao Domingos do Azeitao
+211070;Ma-Sao Domingos do Maranhao
+211080;Ma-Sao Felix de Balsas
+211085;Ma-Sao Francisco do Brejao
+211090;Ma-Sao Francisco do Maranhao
+211100;Ma-Sao Joao Batista
+211102;Ma-Sao Joao do Caru
+211105;Ma-Sao Joao do Paraiso
+211107;Ma-Sao Joao do Soter
+211110;Ma-Sao Joao dos Patos
+211120;Ma-Sao Jose de Ribamar
+211125;Ma-Sao Jose dos Basilios
+211130;Ma-Sao Luis
+211140;Ma-Sao Luis Gonzaga do Maranhao
+211150;Ma-Sao Mateus do Maranhao
+211153;Ma-Sao Pedro da Agua Branca
+211157;Ma-Sao Pedro dos Crentes
+211160;Ma-Sao Raimundo das Mangabeiras
+211163;Ma-Sao Raimundo do Doca Bezerra
+211167;Ma-Sao Roberto
+211170;Ma-Sao Vicente Ferrer
+211172;Ma-Satubinha
+211174;Ma-Senador Alexandre Costa
+211176;Ma-Senador La Rocque
+211178;Ma-Serrano do Maranhao
+211180;Ma-Sitio Novo
+211190;Ma-Sucupira do Norte
+211195;Ma-Sucupira do Riachao
+211200;Ma-Tasso Fragoso
+211210;Ma-Timbiras
+211220;Ma-Timon
+211223;Ma-Trizidela do Vale
+211227;Ma-Tufilandia
+211230;Ma-Tuntum
+211240;Ma-Turiacu
+211245;Ma-Turilandia
+211250;Ma-Tutoia
+211260;Ma-Urbano Santos
+211270;Ma-Vargem Grande
+211280;Ma-Viana
+211285;Ma-Vila Nova dos Martirios
+211290;Ma-Vitoria do Mearim
+211300;Ma-Vitorino Freire
+211400;Ma-Ze Doca
+219999;Ma-Ignorado
+220005;Pi-Acaua
+220010;Pi-Agricolandia
+220020;Pi-Agua Branca
+220025;Pi-Alagoinha do Piaui
+220027;Pi-Alegrete do Piaui
+220030;Pi-Alto Longa
+220040;Pi-Altos
+220045;Pi-Alvorada do Gurgueia
+220050;Pi-Amarante
+220060;Pi-Angical do Piaui
+220070;Pi-Anisio de Abreu
+220080;Pi-Antonio Almeida
+220090;Pi-Aroazes
+220095;Pi-Aroeiras do Itaim
+220100;Pi-Arraial
+220105;Pi-Assuncao do Piaui
+220110;Pi-Avelino Lopes
+220115;Pi-Baixa Grande do Ribeiro
+220117;Pi-Barra D Alcantara
+220120;Pi-Barras
+220130;Pi-Barreiras do Piaui
+220140;Pi-Barro Duro
+220150;Pi-Batalha
+220155;Pi-Bela Vista do Piaui
+220157;Pi-Belem do Piaui
+220160;Pi-Beneditinos
+220170;Pi-Bertolinia
+220173;Pi-Betania do Piaui
+220177;Pi-Boa Hora
+220180;Pi-Bocaina
+220190;Pi-Bom Jesus
+220191;Pi-Bom Principio do Piaui
+220192;Pi-Bonfim do Piaui
+220194;Pi-Boqueirao do Piaui
+220196;Pi-Brasileira
+220198;Pi-Brejo do Piaui
+220200;Pi-Buriti dos Lopes
+220202;Pi-Buriti dos Montes
+220205;Pi-Cabeceiras do Piaui
+220207;Pi-Cajazeiras do Piaui
+220208;Pi-Cajueiro da Praia
+220209;Pi-Caldeirao Grande do Piaui
+220210;Pi-Campinas do Piaui
+220211;Pi-Campo Alegre do Fidalgo
+220213;Pi-Campo Grande do Piaui
+220217;Pi-Campo Largo do Piaui
+220220;Pi-Campo Maior
+220225;Pi-Canavieira
+220230;Pi-Canto do Buriti
+220240;Pi-Capitao de Campos
+220245;Pi-Capitao Gervasio Oliveira
+220250;Pi-Caracol
+220253;Pi-Caraubas do Piaui
+220255;Pi-Caridade do Piaui
+220260;Pi-Castelo do Piaui
+220265;Pi-Caxingo
+220270;Pi-Cocal
+220271;Pi-Cocal de Telha
+220272;Pi-Cocal dos Alves
+220273;Pi-Coivaras
+220275;Pi-Colonia do Gurgueia
+220277;Pi-Colonia do Piaui
+220280;Pi-Conceicao do Caninde
+220285;Pi-Coronel Jose Dias
+220290;Pi-Corrente
+220300;Pi-Cristalandia do Piaui
+220310;Pi-Cristino Castro
+220320;Pi-Curimata
+220323;Pi-Currais
+220325;Pi-Curralinhos
+220327;Pi-Curral Novo do Piaui
+220330;Pi-Demerval Lobao
+220335;Pi-Dirceu Arcoverde
+220340;Pi-Dom Expedito Lopes
+220342;Pi-Domingos Mourao
+220345;Pi-Dom Inocencio
+220350;Pi-Elesbao Veloso
+220360;Pi-Eliseu Martins
+220370;Pi-Esperantina
+220375;Pi-Fartura do Piaui
+220380;Pi-Flores do Piaui
+220385;Pi-Floresta do Piaui
+220390;Pi-Floriano
+220400;Pi-Francinopolis
+220410;Pi-Francisco Ayres
+220415;Pi-Francisco Macedo
+220420;Pi-Francisco Santos
+220430;Pi-Fronteiras
+220435;Pi-Geminiano
+220440;Pi-Gilbues
+220450;Pi-Guadalupe
+220455;Pi-Guaribas
+220460;Pi-Hugo Napoleao
+220465;Pi-Ilha Grande
+220470;Pi-Inhuma
+220480;Pi-Ipiranga do Piaui
+220490;Pi-Isaias Coelho
+220500;Pi-Itainopolis
+220510;Pi-Itaueira
+220515;Pi-Jacobina do Piaui
+220520;Pi-Jaicos
+220525;Pi-Jardim do Mulato
+220527;Pi-Jatoba do Piaui
+220530;Pi-Jerumenha
+220535;Pi-Joao Costa
+220540;Pi-Joaquim Pires
+220545;Pi-Joca Marques
+220550;Pi-Jose de Freitas
+220551;Pi-Juazeiro do Piaui
+220552;Pi-Julio Borges
+220553;Pi-Jurema
+220554;Pi-Lagoinha do Piaui
+220555;Pi-Lagoa Alegre
+220556;Pi-Lagoa do Barro do Piaui
+220557;Pi-Lagoa de Sao Francisco
+220558;Pi-Lagoa do Piaui
+220559;Pi-Lagoa do Sitio
+220560;Pi-Landri Sales
+220570;Pi-Luis Correia
+220580;Pi-Luzilandia
+220585;Pi-Madeiro
+220590;Pi-Manoel Emidio
+220595;Pi-Marcolandia
+220600;Pi-Marcos Parente
+220605;Pi-Massape do Piaui
+220610;Pi-Matias Olimpio
+220620;Pi-Miguel Alves
+220630;Pi-Miguel Leao
+220635;Pi-Milton Brandao
+220640;Pi-Monsenhor Gil
+220650;Pi-Monsenhor Hipolito
+220660;Pi-Monte Alegre do Piaui
+220665;Pi-Morro Cabeca no Tempo
+220667;Pi-Morro do Chapeu do Piaui
+220669;Pi-Murici dos Portelas
+220670;Pi-Nazare do Piaui
+220672;Pi-Nazaria
+220675;Pi-Nossa Senhora de Nazare
+220680;Pi-Nossa Senhora dos Remedios
+220690;Pi-Novo Oriente do Piaui
+220695;Pi-Novo Santo Antonio
+220700;Pi-Oeiras
+220710;Pi-Olho D Agua do Piaui
+220720;Pi-Padre Marcos
+220730;Pi-Paes Landim
+220735;Pi-Pajeu do Piaui
+220740;Pi-Palmeira do Piaui
+220750;Pi-Palmeirais
+220755;Pi-Paqueta
+220760;Pi-Parnagua
+220770;Pi-Parnaiba
+220775;Pi-Passagem Franca do Piaui
+220777;Pi-Patos do Piaui
+220779;Pi-Pau D Arco do Piaui
+220780;Pi-Paulistana
+220785;Pi-Pavussu
+220790;Pi-Pedro Ii
+220793;Pi-Pedro Laurentino
+220795;Pi-Nova Santa Rita
+220800;Pi-Picos
+220810;Pi-Pimenteiras
+220820;Pi-Pio Ix
+220830;Pi-Piracuruca
+220840;Pi-Piripiri
+220850;Pi-Porto
+220855;Pi-Porto Alegre do Piaui
+220860;Pi-Prata do Piaui
+220865;Pi-Queimada Nova
+220870;Pi-Redencao do Gurgueia
+220880;Pi-Regeneracao
+220885;Pi-Riacho Frio
+220887;Pi-Ribeira do Piaui
+220890;Pi-Ribeiro Goncalves
+220900;Pi-Rio Grande do Piaui
+220910;Pi-Santa Cruz do Piaui
+220915;Pi-Santa Cruz dos Milagres
+220920;Pi-Santa Filomena
+220930;Pi-Santa Luz
+220935;Pi-Santana do Piaui
+220937;Pi-Santa Rosa do Piaui
+220940;Pi-Santo Antonio de Lisboa
+220945;Pi-Santo Antonio dos Milagres
+220950;Pi-Santo Inacio do Piaui
+220955;Pi-Sao Braz do Piaui
+220960;Pi-Sao Felix do Piaui
+220965;Pi-Sao Francisco Assis do Piaui
+220970;Pi-Sao Francisco do Piaui
+220975;Pi-Sao Goncalo do Gurgeia
+220980;Pi-Sao Goncalo do Piaui
+220985;Pi-Sao Joao da Canabrava
+220987;Pi-Sao Joao da Fronteira
+220990;Pi-Sao Joao da Serra
+220995;Pi-Sao Joao da Varjota
+220997;Pi-Sao Joao do Arraial
+221000;Pi-Sao Joao do Piaui
+221005;Pi-Sao Jose do Divino
+221010;Pi-Sao Jose do Peixe
+221020;Pi-Sao Jose do Piaui
+221030;Pi-Sao Juliao
+221035;Pi-Sao Lourenco do Piaui
+221037;Pi-Sao Luis do Piaui
+221038;Pi-Sao Miguel da Baixa Grande
+221039;Pi-Sao Miguel do Fidalgo
+221040;Pi-Sao Miguel do Tapuio
+221050;Pi-Sao Pedro do Piaui
+221060;Pi-Sao Raimundo Nonato
+221062;Pi-Sebastiao Barros
+221063;Pi-Sebastiao Leal
+221065;Pi-Sigefredo Pacheco
+221070;Pi-Simoes
+221080;Pi-Simplicio Mendes
+221090;Pi-Socorro do Piaui
+221093;Pi-Sussuapara
+221095;Pi-Tamboril do Piaui
+221097;Pi-Tanque do Piaui
+221100;Pi-Teresina
+221110;Pi-Uniao
+221120;Pi-Urucui
+221130;Pi-Valenca do Piaui
+221135;Pi-Varzea Branca
+221140;Pi-Varzea Grande
+221150;Pi-Vera Mendes
+221160;Pi-Vila Nova do Piaui
+221170;Pi-Wall Ferraz
+229999;Pi-Ignorado
+230010;Ce-Abaiara
+230015;Ce-Acarape
+230020;Ce-Acarau
+230030;Ce-Acopiara
+230040;Ce-Aiuaba
+230050;Ce-Alcantaras
+230060;Ce-Altaneira
+230070;Ce-Alto Santo
+230075;Ce-Amontada
+230080;Ce-Antonina do Norte
+230090;Ce-Apuiares
+230100;Ce-Aquiraz
+230110;Ce-Aracati
+230120;Ce-Aracoiaba
+230125;Ce-Ararenda
+230130;Ce-Araripe
+230140;Ce-Aratuba
+230150;Ce-Arneiroz
+230160;Ce-Assare
+230170;Ce-Aurora
+230180;Ce-Baixio
+230185;Ce-Banabuiu
+230190;Ce-Barbalha
+230195;Ce-Barreira
+230200;Ce-Barro
+230205;Ce-Barroquinha
+230210;Ce-Baturite
+230220;Ce-Beberibe
+230230;Ce-Bela Cruz
+230240;Ce-Boa Viagem
+230250;Ce-Brejo Santo
+230260;Ce-Camocim
+230270;Ce-Campos Sales
+230280;Ce-Caninde
+230290;Ce-Capistrano
+230300;Ce-Caridade
+230310;Ce-Carire
+230320;Ce-Caririacu
+230330;Ce-Carius
+230340;Ce-Carnaubal
+230350;Ce-Cascavel
+230360;Ce-Catarina
+230365;Ce-Catunda
+230370;Ce-Caucaia
+230380;Ce-Cedro
+230390;Ce-Chaval
+230393;Ce-Choro
+230395;Ce-Chorozinho
+230400;Ce-Coreau
+230410;Ce-Crateus
+230420;Ce-Crato
+230423;Ce-Croata
+230425;Ce-Cruz
+230426;Ce-Deputado Irapuan Pinheiro
+230427;Ce-Erere
+230428;Ce-Eusebio
+230430;Ce-Farias Brito
+230435;Ce-Forquilha
+230440;Ce-Fortaleza
+230445;Ce-Fortim
+230450;Ce-Frecheirinha
+230460;Ce-General Sampaio
+230465;Ce-Graca
+230470;Ce-Granja
+230480;Ce-Granjeiro
+230490;Ce-Groairas
+230495;Ce-Guaiuba
+230500;Ce-Guaraciaba do Norte
+230510;Ce-Guaramiranga
+230520;Ce-Hidrolandia
+230523;Ce-Horizonte
+230526;Ce-Ibaretama
+230530;Ce-Ibiapina
+230533;Ce-Ibicuitinga
+230535;Ce-Icapui
+230540;Ce-Ico
+230550;Ce-Iguatu
+230560;Ce-Independencia
+230565;Ce-Ipaporanga
+230570;Ce-Ipaumirim
+230580;Ce-Ipu
+230590;Ce-Ipueiras
+230600;Ce-Iracema
+230610;Ce-Iraucuba
+230620;Ce-Itaicaba
+230625;Ce-Itaitinga
+230630;Ce-Itapage
+230640;Ce-Itapipoca
+230650;Ce-Itapiuna
+230655;Ce-Itarema
+230660;Ce-Itatira
+230670;Ce-Jaguaretama
+230680;Ce-Jaguaribara
+230690;Ce-Jaguaribe
+230700;Ce-Jaguaruana
+230710;Ce-Jardim
+230720;Ce-Jati
+230725;Ce-Jijoca de Jericoacoara
+230730;Ce-Juazeiro do Norte
+230740;Ce-Jucas
+230750;Ce-Lavras da Mangabeira
+230760;Ce-Limoeiro do Norte
+230763;Ce-Madalena
+230765;Ce-Maracanau
+230770;Ce-Maranguape
+230780;Ce-Marco
+230790;Ce-Martinopole
+230800;Ce-Massape
+230810;Ce-Mauriti
+230820;Ce-Meruoca
+230830;Ce-Milagres
+230835;Ce-Milha
+230837;Ce-Miraima
+230840;Ce-Missao Velha
+230850;Ce-Mombaca
+230860;Ce-Monsenhor Tabosa
+230870;Ce-Morada Nova
+230880;Ce-Moraujo
+230890;Ce-Morrinhos
+230900;Ce-Mucambo
+230910;Ce-Mulungu
+230920;Ce-Nova Olinda
+230930;Ce-Nova Russas
+230940;Ce-Novo Oriente
+230945;Ce-Ocara
+230950;Ce-Oros
+230960;Ce-Pacajus
+230970;Ce-Pacatuba
+230980;Ce-Pacoti
+230990;Ce-Pacuja
+231000;Ce-Palhano
+231010;Ce-Palmacia
+231020;Ce-Paracuru
+231025;Ce-Paraipaba
+231030;Ce-Parambu
+231040;Ce-Paramoti
+231050;Ce-Pedra Branca
+231060;Ce-Penaforte
+231070;Ce-Pentecoste
+231080;Ce-Pereiro
+231085;Ce-Pindoretama
+231090;Ce-Piquet Carneiro
+231095;Ce-Pires Ferreira
+231100;Ce-Poranga
+231110;Ce-Porteiras
+231120;Ce-Potengi
+231123;Ce-Potiretama
+231126;Ce-Quiterianopolis
+231130;Ce-Quixada
+231135;Ce-Quixelo
+231140;Ce-Quixeramobim
+231150;Ce-Quixere
+231160;Ce-Redencao
+231170;Ce-Reriutaba
+231180;Ce-Russas
+231190;Ce-Saboeiro
+231195;Ce-Salitre
+231200;Ce-Santana do Acarau
+231210;Ce-Santana do Cariri
+231220;Ce-Santa Quiteria
+231230;Ce-Sao Benedito
+231240;Ce-Sao Goncalo do Amarante
+231250;Ce-Sao Joao do Jaguaribe
+231260;Ce-Sao Luis do Curu
+231270;Ce-Senador Pompeu
+231280;Ce-Senador Sa
+231290;Ce-Sobral
+231300;Ce-Solonopole
+231310;Ce-Tabuleiro do Norte
+231320;Ce-Tamboril
+231325;Ce-Tarrafas
+231330;Ce-Taua
+231335;Ce-Tejucuoca
+231340;Ce-Tiangua
+231350;Ce-Trairi
+231355;Ce-Tururu
+231360;Ce-Ubajara
+231370;Ce-Umari
+231375;Ce-Umirim
+231380;Ce-Uruburetama
+231390;Ce-Uruoca
+231395;Ce-Varjota
+231400;Ce-Varzea Alegre
+231410;Ce-Vicosa do Ceara
+239999;Ce-Ignorado
+240010;Rn-Acari
+240020;Rn-Acu
+240030;Rn-Afonso Bezerra
+240040;Rn-Agua Nova
+240050;Rn-Alexandria
+240060;Rn-Almino Afonso
+240070;Rn-Alto do Rodrigues
+240080;Rn-Angicos
+240090;Rn-Antonio Martins
+240100;Rn-Apodi
+240110;Rn-Areia Branca
+240120;Rn-Ares
+240130;Rn-Augusto Severo
+240140;Rn-Baia Formosa
+240145;Rn-Barauna
+240150;Rn-Barcelona
+240160;Rn-Bento Fernandes
+240165;Rn-Bodo
+240170;Rn-Bom Jesus
+240180;Rn-Brejinho
+240185;Rn-Caicara do Norte
+240190;Rn-Caicara do Rio do Vento
+240200;Rn-Caico
+240210;Rn-Campo Redondo
+240220;Rn-Canguaretama
+240230;Rn-Caraubas
+240240;Rn-Carnauba dos Dantas
+240250;Rn-Carnaubais
+240260;Rn-Ceara-Mirim
+240270;Rn-Cerro Cora
+240280;Rn-Coronel Ezequiel
+240290;Rn-Coronel Joao Pessoa
+240300;Rn-Cruzeta
+240310;Rn-Currais Novos
+240320;Rn-Doutor Severiano
+240325;Rn-Parnamirim
+240330;Rn-Encanto
+240340;Rn-Equador
+240350;Rn-Espirito Santo
+240360;Rn-Extremoz
+240370;Rn-Felipe Guerra
+240375;Rn-Fernando Pedrosa
+240380;Rn-Florania
+240390;Rn-Francisco Dantas
+240400;Rn-Frutuoso Gomes
+240410;Rn-Galinhos
+240420;Rn-Goianinha
+240430;Rn-Governador Dix-Sept Rosado
+240440;Rn-Grossos
+240450;Rn-Guamare
+240460;Rn-Ielmo Marinho
+240470;Rn-Ipanguacu
+240480;Rn-Ipueira
+240485;Rn-Itaja
+240490;Rn-Itau
+240500;Rn-Jacana
+240510;Rn-Jandaira
+240520;Rn-Janduis
+240530;Rn-Boa Saude
+240540;Rn-Japi
+240550;Rn-Jardim de Angicos
+240560;Rn-Jardim de Piranhas
+240570;Rn-Jardim do Serido
+240580;Rn-Joao Camara
+240590;Rn-Joao Dias
+240600;Rn-Jose da Penha
+240610;Rn-Jucurutu
+240615;Rn-Jundia
+240620;Rn-Lagoa D Anta
+240630;Rn-Lagoa de Pedras
+240640;Rn-Lagoa de Velhos
+240650;Rn-Lagoa Nova
+240660;Rn-Lagoa Salgada
+240670;Rn-Lajes
+240680;Rn-Lajes Pintadas
+240690;Rn-Lucrecia
+240700;Rn-Luis Gomes
+240710;Rn-Macaiba
+240720;Rn-Macau
+240725;Rn-Major Sales
+240730;Rn-Marcelino Vieira
+240740;Rn-Martins
+240750;Rn-Maxaranguape
+240760;Rn-Messias Targino
+240770;Rn-Montanhas
+240780;Rn-Monte Alegre
+240790;Rn-Monte das Gameleiras
+240800;Rn-Mossoro
+240810;Rn-Natal
+240820;Rn-Nisia Floresta
+240830;Rn-Nova Cruz
+240840;Rn-Olho D Agua do Borges
+240850;Rn-Ouro Branco
+240860;Rn-Parana
+240870;Rn-Parau
+240880;Rn-Parazinho
+240890;Rn-Parelhas
+240895;Rn-Rio do Fogo
+240910;Rn-Passa e Fica
+240920;Rn-Passagem
+240930;Rn-Patu
+240933;Rn-Santa Maria
+240940;Rn-Pau dos Ferros
+240950;Rn-Pedra Grande
+240960;Rn-Pedra Preta
+240970;Rn-Pedro Avelino
+240980;Rn-Pedro Velho
+240990;Rn-Pendencias
+241000;Rn-Piloes
+241010;Rn-Poco Branco
+241020;Rn-Portalegre
+241025;Rn-Porto do Mangue
+241030;Rn-Serra Caiada
+241040;Rn-Pureza
+241050;Rn-Rafael Fernandes
+241060;Rn-Rafael Godeiro
+241070;Rn-Riacho da Cruz
+241080;Rn-Riacho de Santana
+241090;Rn-Riachuelo
+241100;Rn-Rodolfo Fernandes
+241105;Rn-Tibau
+241110;Rn-Ruy Barbosa
+241120;Rn-Santa Cruz
+241140;Rn-Santana do Matos
+241142;Rn-Santana do Serido
+241150;Rn-Santo Antonio
+241160;Rn-Sao Bento do Norte
+241170;Rn-Sao Bento do Trairi
+241180;Rn-Sao Fernando
+241190;Rn-Sao Francisco do Oeste
+241200;Rn-Sao Goncalo do Amarante
+241210;Rn-Sao Joao do Sabugi
+241220;Rn-Sao Jose de Mipibu
+241230;Rn-Sao Jose do Campestre
+241240;Rn-Sao Jose do Serido
+241250;Rn-Sao Miguel
+241255;Rn-Sao Miguel de Touros
+241260;Rn-Sao Paulo do Potengi
+241270;Rn-Sao Pedro
+241280;Rn-Sao Rafael
+241290;Rn-Sao Tome
+241300;Rn-Sao Vicente
+241310;Rn-Senador Eloi de Souza
+241320;Rn-Senador Georgino Avelino
+241330;Rn-Serra de Sao Bento
+241335;Rn-Serra do Mel
+241340;Rn-Serra Negra do Norte
+241350;Rn-Serrinha
+241355;Rn-Serrinha dos Pintos
+241360;Rn-Severiano Melo
+241370;Rn-Sitio Novo
+241380;Rn-Taboleiro Grande
+241390;Rn-Taipu
+241400;Rn-Tangara
+241410;Rn-Tenente Ananias
+241415;Rn-Tenente Laurentino Cruz
+241420;Rn-Tibau do Sul
+241430;Rn-Timbauba dos Batistas
+241440;Rn-Touros
+241445;Rn-Triunfo Potiguar
+241450;Rn-Umarizal
+241460;Rn-Upanema
+241470;Rn-Varzea
+241475;Rn-Venha-Ver
+241480;Rn-Vera Cruz
+241490;Rn-Vicosa
+241500;Rn-Vila Flor
+249999;Rn-Ignorado
+250010;Pb-Agua Branca
+250020;Pb-Aguiar
+250030;Pb-Alagoa Grande
+250040;Pb-Alagoa Nova
+250050;Pb-Alagoinha
+250053;Pb-Alcantil
+250057;Pb-Algodao de Jandaira
+250060;Pb-Alhandra
+250070;Pb-Sao Joao do Rio do Peixe
+250073;Pb-Amparo
+250077;Pb-Aparecida
+250080;Pb-Aracagi
+250090;Pb-Arara
+250100;Pb-Araruna
+250110;Pb-Areia
+250115;Pb-Areia de Baraunas
+250120;Pb-Areial
+250130;Pb-Aroeiras
+250135;Pb-Assuncao
+250140;Pb-Baia da Traicao
+250150;Pb-Bananeiras
+250153;Pb-Barauna
+250157;Pb-Barra de Santana
+250160;Pb-Barra de Santa Rosa
+250170;Pb-Barra de Sao Miguel
+250180;Pb-Bayeux
+250190;Pb-Belem
+250200;Pb-Belem do Brejo do Cruz
+250205;Pb-Bernardino Batista
+250210;Pb-Boa Ventura
+250215;Pb-Boa Vista
+250220;Pb-Bom Jesus
+250230;Pb-Bom Sucesso
+250240;Pb-Bonito de Santa Fe
+250250;Pb-Boqueirao
+250260;Pb-Igaracy
+250270;Pb-Borborema
+250280;Pb-Brejo do Cruz
+250290;Pb-Brejo dos Santos
+250300;Pb-Caapora
+250310;Pb-Cabaceiras
+250320;Pb-Cabedelo
+250330;Pb-Cachoeira dos Indios
+250340;Pb-Cacimba de Areia
+250350;Pb-Cacimba de Dentro
+250355;Pb-Cacimbas
+250360;Pb-Caicara
+250370;Pb-Cajazeiras
+250375;Pb-Cajazeirinhas
+250380;Pb-Caldas Brandao
+250390;Pb-Camalau
+250400;Pb-Campina Grande
+250403;Pb-Capim
+250407;Pb-Caraubas
+250410;Pb-Carrapateira
+250415;Pb-Casserengue
+250420;Pb-Catingueira
+250430;Pb-Catole do Rocha
+250435;Pb-Caturite
+250440;Pb-Conceicao
+250450;Pb-Condado
+250460;Pb-Conde
+250470;Pb-Congo
+250480;Pb-Coremas
+250485;Pb-Coxixola
+250490;Pb-Cruz do Espirito Santo
+250500;Pb-Cubati
+250510;Pb-Cuite
+250520;Pb-Cuitegi
+250523;Pb-Cuite de Mamanguape
+250527;Pb-Curral de Cima
+250530;Pb-Curral Velho
+250535;Pb-Damiao
+250540;Pb-Desterro
+250550;Pb-Vista Serrana
+250560;Pb-Diamante
+250570;Pb-Dona Ines
+250580;Pb-Duas Estradas
+250590;Pb-Emas
+250600;Pb-Esperanca
+250610;Pb-Fagundes
+250620;Pb-Frei Martinho
+250625;Pb-Gado Bravo
+250630;Pb-Guarabira
+250640;Pb-Gurinhem
+250650;Pb-Gurjao
+250660;Pb-Ibiara
+250670;Pb-Imaculada
+250680;Pb-Inga
+250690;Pb-Itabaiana
+250700;Pb-Itaporanga
+250710;Pb-Itapororoca
+250720;Pb-Itatuba
+250730;Pb-Jacarau
+250740;Pb-Jerico
+250750;Pb-Joao Pessoa
+250760;Pb-Juarez Tavora
+250770;Pb-Juazeirinho
+250780;Pb-Junco do Serido
+250790;Pb-Juripiranga
+250800;Pb-Juru
+250810;Pb-Lagoa
+250820;Pb-Lagoa de Dentro
+250830;Pb-Lagoa Seca
+250840;Pb-Lastro
+250850;Pb-Livramento
+250855;Pb-Logradouro
+250860;Pb-Lucena
+250870;Pb-Mae D Agua
+250880;Pb-Malta
+250890;Pb-Mamanguape
+250900;Pb-Manaira
+250905;Pb-Marcacao
+250910;Pb-Mari
+250915;Pb-Marizopolis
+250920;Pb-Massaranduba
+250930;Pb-Mataraca
+250933;Pb-Matinhas
+250937;Pb-Mato Grosso
+250939;Pb-Matureia
+250940;Pb-Mogeiro
+250950;Pb-Montadas
+250960;Pb-Monte Horebe
+250970;Pb-Monteiro
+250980;Pb-Mulungu
+250990;Pb-Natuba
+251000;Pb-Nazarezinho
+251010;Pb-Nova Floresta
+251020;Pb-Nova Olinda
+251030;Pb-Nova Palmeira
+251040;Pb-Olho D Agua
+251050;Pb-Olivedos
+251060;Pb-Ouro Velho
+251065;Pb-Parari
+251070;Pb-Passagem
+251080;Pb-Patos
+251090;Pb-Paulista
+251100;Pb-Pedra Branca
+251110;Pb-Pedra Lavrada
+251120;Pb-Pedras de Fogo
+251130;Pb-Pianco
+251140;Pb-Picui
+251150;Pb-Pilar
+251160;Pb-Piloes
+251170;Pb-Piloezinhos
+251180;Pb-Pirpirituba
+251190;Pb-Pitimbu
+251200;Pb-Pocinhos
+251203;Pb-Poco Dantas
+251207;Pb-Poco de Jose de Moura
+251210;Pb-Pombal
+251220;Pb-Prata
+251230;Pb-Princesa Isabel
+251240;Pb-Puxinana
+251250;Pb-Queimadas
+251260;Pb-Quixaba
+251270;Pb-Remigio
+251272;Pb-Pedro Regio
+251274;Pb-Riachao
+251275;Pb-Riachao do Bacamarte
+251276;Pb-Riachao do Poco
+251278;Pb-Riacho de Santo Antonio
+251280;Pb-Riacho dos Cavalos
+251290;Pb-Rio Tinto
+251300;Pb-Salgadinho
+251310;Pb-Salgado de Sao Felix
+251315;Pb-Santa Cecilia
+251320;Pb-Santa Cruz
+251330;Pb-Santa Helena
+251335;Pb-Santa Ines
+251340;Pb-Santa Luzia
+251350;Pb-Santana de Mangueira
+251360;Pb-Santana dos Garrotes
+251365;Pb-Santarem
+251370;Pb-Santa Rita
+251380;Pb-Santa Teresinha
+251385;Pb-Santo Andre
+251390;Pb-Sao Bento
+251392;Pb-Sao Bentinho
+251394;Pb-Sao Domingos do Cariri
+251396;Pb-Sao Domingos de Pombal
+251398;Pb-Sao Francisco
+251400;Pb-Sao Joao do Cariri
+251410;Pb-Sao Joao do Tigre
+251420;Pb-Sao Jose da Lagoa Tapada
+251430;Pb-Sao Jose de Caiana
+251440;Pb-Sao Jose de Espinharas
+251445;Pb-Sao Jose dos Ramos
+251450;Pb-Sao Jose de Piranhas
+251455;Pb-Sao Jose de Princesa
+251460;Pb-Sao Jose do Bonfim
+251465;Pb-Sao Jose do Brejo do Cruz
+251470;Pb-Sao Jose do Sabugi
+251480;Pb-Sao Jose dos Cordeiros
+251490;Pb-Sao Mamede
+251500;Pb-Sao Miguel de Taipu
+251510;Pb-Sao Sebastiao de Lagoa de Roca
+251520;Pb-Sao Sebastiao do Umbuzeiro
+251530;Pb-Sape
+251540;Pb-Serido
+251550;Pb-Serra Branca
+251560;Pb-Serra da Raiz
+251570;Pb-Serra Grande
+251580;Pb-Serra Redonda
+251590;Pb-Serraria
+251593;Pb-Sertaozinho
+251597;Pb-Sobrado
+251600;Pb-Solanea
+251610;Pb-Soledade
+251615;Pb-Sossego
+251620;Pb-Sousa
+251630;Pb-Sume
+251640;Pb-Campo de Santana
+251650;Pb-Taperoa
+251660;Pb-Tavares
+251670;Pb-Teixeira
+251675;Pb-Tenorio
+251680;Pb-Triunfo
+251690;Pb-Uirauna
+251700;Pb-Umbuzeiro
+251710;Pb-Varzea
+251720;Pb-Vieiropolis
+251740;Pb-Zabele
+259999;Pb-Ignorado
+260005;Pe-Abreu e Lima
+260010;Pe-Afogados da Ingazeira
+260020;Pe-Afranio
+260030;Pe-Agrestina
+260040;Pe-Agua Preta
+260050;Pe-Aguas Belas
+260060;Pe-Alagoinha
+260070;Pe-Alianca
+260080;Pe-Altinho
+260090;Pe-Amaraji
+260100;Pe-Angelim
+260105;Pe-Aracoiaba
+260110;Pe-Araripina
+260120;Pe-Arcoverde
+260130;Pe-Barra de Guabiraba
+260140;Pe-Barreiros
+260150;Pe-Belem de Maria
+260160;Pe-Belem de Sao Francisco
+260170;Pe-Belo Jardim
+260180;Pe-Betania
+260190;Pe-Bezerros
+260200;Pe-Bodoco
+260210;Pe-Bom Conselho
+260220;Pe-Bom Jardim
+260230;Pe-Bonito
+260240;Pe-Brejao
+260250;Pe-Brejinho
+260260;Pe-Brejo da Madre de Deus
+260270;Pe-Buenos Aires
+260280;Pe-Buique
+260290;Pe-Cabo de Santo Agostinho
+260300;Pe-Cabrobo
+260310;Pe-Cachoeirinha
+260320;Pe-Caetes
+260330;Pe-Calcado
+260340;Pe-Calumbi
+260345;Pe-Camaragibe
+260350;Pe-Camocim de Sao Felix
+260360;Pe-Camutanga
+260370;Pe-Canhotinho
+260380;Pe-Capoeiras
+260390;Pe-Carnaiba
+260392;Pe-Carnaubeira da Penha
+260400;Pe-Carpina
+260410;Pe-Caruaru
+260415;Pe-Casinhas
+260420;Pe-Catende
+260430;Pe-Cedro
+260440;Pe-Cha de Alegria
+260450;Pe-Cha Grande
+260460;Pe-Condado
+260470;Pe-Correntes
+260480;Pe-Cortes
+260490;Pe-Cumaru
+260500;Pe-Cupira
+260510;Pe-Custodia
+260515;Pe-Dormentes
+260520;Pe-Escada
+260530;Pe-Exu
+260540;Pe-Feira Nova
+260545;Pe-Fernando de Noronha
+260550;Pe-Ferreiros
+260560;Pe-Flores
+260570;Pe-Floresta
+260580;Pe-Frei Miguelinho
+260590;Pe-Gameleira
+260600;Pe-Garanhuns
+260610;Pe-Gloria do Goita
+260620;Pe-Goiana
+260630;Pe-Granito
+260640;Pe-Gravata
+260650;Pe-Iati
+260660;Pe-Ibimirim
+260670;Pe-Ibirajuba
+260680;Pe-Igarassu
+260690;Pe-Iguaraci
+260700;Pe-Inaja
+260710;Pe-Ingazeira
+260720;Pe-Ipojuca
+260730;Pe-Ipubi
+260740;Pe-Itacuruba
+260750;Pe-Itaiba
+260760;Pe-Itamaraca
+260765;Pe-Itambe
+260770;Pe-Itapetim
+260775;Pe-Itapissuma
+260780;Pe-Itaquitinga
+260790;Pe-Jaboatao dos Guararapes
+260795;Pe-Jaqueira
+260800;Pe-Jatauba
+260805;Pe-Jatoba
+260810;Pe-Joao Alfredo
+260820;Pe-Joaquim Nabuco
+260825;Pe-Jucati
+260830;Pe-Jupi
+260840;Pe-Jurema
+260845;Pe-Lagoa do Carro
+260850;Pe-Lagoa do Itaenga
+260860;Pe-Lagoa do Ouro
+260870;Pe-Lagoa dos Gatos
+260875;Pe-Lagoa Grande
+260880;Pe-Lajedo
+260890;Pe-Limoeiro
+260900;Pe-Macaparana
+260910;Pe-Machados
+260915;Pe-Manari
+260920;Pe-Maraial
+260930;Pe-Mirandiba
+260940;Pe-Moreno
+260950;Pe-Nazare da Mata
+260960;Pe-Olinda
+260970;Pe-Orobo
+260980;Pe-Oroco
+260990;Pe-Ouricuri
+261000;Pe-Palmares
+261010;Pe-Palmeirina
+261020;Pe-Panelas
+261030;Pe-Paranatama
+261040;Pe-Parnamirim
+261050;Pe-Passira
+261060;Pe-Paudalho
+261070;Pe-Paulista
+261080;Pe-Pedra
+261090;Pe-Pesqueira
+261100;Pe-Petrolandia
+261110;Pe-Petrolina
+261120;Pe-Pocao
+261130;Pe-Pombos
+261140;Pe-Primavera
+261150;Pe-Quipapa
+261153;Pe-Quixaba
+261160;Pe-Recife
+261170;Pe-Riacho das Almas
+261180;Pe-Ribeirao
+261190;Pe-Rio Formoso
+261200;Pe-Saire
+261210;Pe-Salgadinho
+261220;Pe-Salgueiro
+261230;Pe-Saloa
+261240;Pe-Sanharo
+261245;Pe-Santa Cruz
+261247;Pe-Santa Cruz da Baixa Verde
+261250;Pe-Santa Cruz do Capibaribe
+261255;Pe-Santa Filomena
+261260;Pe-Santa Maria da Boa Vista
+261270;Pe-Santa Maria do Cambuca
+261280;Pe-Santa Terezinha
+261290;Pe-Sao Benedito do Sul
+261300;Pe-Sao Bento do Una
+261310;Pe-Sao Caitano
+261320;Pe-Sao Joao
+261330;Pe-Sao Joaquim do Monte
+261340;Pe-Sao Jose da Coroa Grande
+261350;Pe-Sao Jose do Belmonte
+261360;Pe-Sao Jose do Egito
+261370;Pe-Sao Lourenco da Mata
+261380;Pe-Sao Vicente Ferrer
+261390;Pe-Serra Talhada
+261400;Pe-Serrita
+261410;Pe-Sertania
+261420;Pe-Sirinhaem
+261430;Pe-Moreilandia
+261440;Pe-Solidao
+261450;Pe-Surubim
+261460;Pe-Tabira
+261470;Pe-Tacaimbo
+261480;Pe-Tacaratu
+261485;Pe-Tamandare
+261500;Pe-Taquaritinga do Norte
+261510;Pe-Terezinha
+261520;Pe-Terra Nova
+261530;Pe-Timbauba
+261540;Pe-Toritama
+261550;Pe-Tracunhaem
+261560;Pe-Trindade
+261570;Pe-Triunfo
+261580;Pe-Tupanatinga
+261590;Pe-Tuparetama
+261600;Pe-Venturosa
+261610;Pe-Verdejante
+261618;Pe-Vertente do Lerio
+261620;Pe-Vertentes
+261630;Pe-Vicencia
+261640;Pe-Vitoria de Santo Antao
+261650;Pe-Xexeu
+269999;Pe-Ignorado
+270010;Al-Agua Branca
+270020;Al-Anadia
+270030;Al-Arapiraca
+270040;Al-Atalaia
+270050;Al-Barra de Santo Antonio
+270060;Al-Barra de Sao Miguel
+270070;Al-Batalha
+270080;Al-Belem
+270090;Al-Belo Monte
+270100;Al-Boca da Mata
+270110;Al-Branquinha
+270120;Al-Cacimbinhas
+270130;Al-Cajueiro
+270135;Al-Campestre
+270140;Al-Campo Alegre
+270150;Al-Campo Grande
+270160;Al-Canapi
+270170;Al-Capela
+270180;Al-Carneiros
+270190;Al-Cha Preta
+270200;Al-Coite do Noia
+270210;Al-Colonia Leopoldina
+270220;Al-Coqueiro Seco
+270230;Al-Coruripe
+270235;Al-Craibas
+270240;Al-Delmiro Gouveia
+270250;Al-Dois Riachos
+270255;Al-Estrela de Alagoas
+270260;Al-Feira Grande
+270270;Al-Feliz Deserto
+270280;Al-Flexeiras
+270290;Al-Girau do Ponciano
+270300;Al-Ibateguara
+270310;Al-Igaci
+270320;Al-Igreja Nova
+270330;Al-Inhapi
+270340;Al-Jacare dos Homens
+270350;Al-Jacuipe
+270360;Al-Japaratinga
+270370;Al-Jaramataia
+270375;Al-Jequia da Praia
+270380;Al-Joaquim Gomes
+270390;Al-Jundia
+270400;Al-Junqueiro
+270410;Al-Lagoa da Canoa
+270420;Al-Limoeiro de Anadia
+270430;Al-Maceio
+270440;Al-Major Isidoro
+270450;Al-Maragogi
+270460;Al-Maravilha
+270470;Al-Marechal Deodoro
+270480;Al-Maribondo
+270490;Al-Mar Vermelho
+270500;Al-Mata Grande
+270510;Al-Matriz de Camaragibe
+270520;Al-Messias
+270530;Al-Minador do Negrao
+270540;Al-Monteiropolis
+270550;Al-Murici
+270560;Al-Novo Lino
+270570;Al-Olho D Agua das Flores
+270580;Al-Olho D Agua do Casado
+270590;Al-Olho D Agua Grande
+270600;Al-Olivenca
+270610;Al-Ouro Branco
+270620;Al-Palestina
+270630;Al-Palmeira dos Indios
+270640;Al-Pao de Acucar
+270642;Al-Pariconha
+270644;Al-Paripueira
+270650;Al-Passo de Camaragibe
+270660;Al-Paulo Jacinto
+270670;Al-Penedo
+270680;Al-Piacabucu
+270690;Al-Pilar
+270700;Al-Pindoba
+270710;Al-Piranhas
+270720;Al-Poco das Trincheiras
+270730;Al-Porto Calvo
+270740;Al-Porto de Pedras
+270750;Al-Porto Real do Colegio
+270760;Al-Quebrangulo
+270770;Al-Rio Largo
+270780;Al-Roteiro
+270790;Al-Santa Luzia do Norte
+270800;Al-Santana do Ipanema
+270810;Al-Santana do Mundau
+270820;Al-Sao Bras
+270830;Al-Sao Jose da Laje
+270840;Al-Sao Jose da Tapera
+270850;Al-Sao Luis do Quitunde
+270860;Al-Sao Miguel dos Campos
+270870;Al-Sao Miguel dos Milagres
+270880;Al-Sao Sebastiao
+270890;Al-Satuba
+270895;Al-Senador Rui Palmeira
+270900;Al-Tanque D Arca
+270910;Al-Taquarana
+270915;Al-Teotonio Vilela
+270920;Al-Traipu
+270930;Al-Uniao dos Palmares
+270940;Al-Vicosa
+279999;Al-Ignorado
+280010;Se-Amparo de Sao Francisco
+280020;Se-Aquidaba
+280030;Se-Aracaju
+280040;Se-Araua
+280050;Se-Areia Branca
+280060;Se-Barra dos Coqueiros
+280067;Se-Boquim
+280070;Se-Brejo Grande
+280100;Se-Campo do Brito
+280110;Se-Canhoba
+280120;Se-Caninde de Sao Francisco
+280130;Se-Capela
+280140;Se-Carira
+280150;Se-Carmopolis
+280160;Se-Cedro de Sao Joao
+280170;Se-Cristinapolis
+280190;Se-Cumbe
+280200;Se-Divina Pastora
+280210;Se-Estancia
+280220;Se-Feira Nova
+280230;Se-Frei Paulo
+280240;Se-Gararu
+280250;Se-General Maynard
+280260;Se-Gracho Cardoso
+280270;Se-Ilha das Flores
+280280;Se-Indiaroba
+280290;Se-Itabaiana
+280300;Se-Itabaianinha
+280310;Se-Itabi
+280320;Se-Itaporanga D Ajuda
+280330;Se-Japaratuba
+280340;Se-Japoata
+280350;Se-Lagarto
+280360;Se-Laranjeiras
+280370;Se-Macambira
+280380;Se-Malhada dos Bois
+280390;Se-Malhador
+280400;Se-Maruim
+280410;Se-Moita Bonita
+280420;Se-Monte Alegre de Sergipe
+280430;Se-Muribeca
+280440;Se-Neopolis
+280445;Se-Nossa Senhora Aparecida
+280450;Se-Nossa Senhora da Gloria
+280460;Se-Nossa Senhora das Dores
+280470;Se-Nossa Senhora de Lourdes
+280480;Se-Nossa Senhora do Socorro
+280490;Se-Pacatuba
+280500;Se-Pedra Mole
+280510;Se-Pedrinhas
+280520;Se-Pinhao
+280530;Se-Pirambu
+280540;Se-Poco Redondo
+280550;Se-Poco Verde
+280560;Se-Porto da Folha
+280570;Se-Propria
+280580;Se-Riachao do Dantas
+280590;Se-Riachuelo
+280600;Se-Ribeiropolis
+280610;Se-Rosario do Catete
+280620;Se-Salgado
+280630;Se-Santa Luzia do Itanhy
+280640;Se-Santana do Sao Francisco
+280650;Se-Santa Rosa de Lima
+280660;Se-Santo Amaro das Brotas
+280670;Se-Sao Cristovao
+280680;Se-Sao Domingos
+280690;Se-Sao Francisco
+280700;Se-Sao Miguel do Aleixo
+280710;Se-Simao Dias
+280720;Se-Siriri
+280730;Se-Telha
+280740;Se-Tobias Barreto
+280750;Se-Tomar do Geru
+280760;Se-Umbauba
+289999;Se-Ignorado
+290010;Ba-Abaira
+290020;Ba-Abare
+290030;Ba-Acajutiba
+290035;Ba-Adustina
+290040;Ba-Agua Fria
+290050;Ba-Erico Cardoso
+290060;Ba-Aiquara
+290070;Ba-Alagoinhas
+290080;Ba-Alcobaca
+290090;Ba-Almadina
+290100;Ba-Amargosa
+290110;Ba-Amelia Rodrigues
+290115;Ba-America Dourada
+290120;Ba-Anage
+290130;Ba-Andarai
+290135;Ba-Andorinha
+290140;Ba-Angical
+290150;Ba-Anguera
+290160;Ba-Antas
+290170;Ba-Antonio Cardoso
+290180;Ba-Antonio Goncalves
+290190;Ba-Apora
+290195;Ba-Apuarema
+290200;Ba-Aracatu
+290205;Ba-Aracas
+290210;Ba-Araci
+290220;Ba-Aramari
+290225;Ba-Arataca
+290230;Ba-Aratuipe
+290240;Ba-Aurelino Leal
+290250;Ba-Baianopolis
+290260;Ba-Baixa Grande
+290265;Ba-Banzae
+290270;Ba-Barra
+290280;Ba-Barra da Estiva
+290290;Ba-Barra do Choca
+290300;Ba-Barra do Mendes
+290310;Ba-Barra do Rocha
+290320;Ba-Barreiras
+290323;Ba-Barro Alto
+290327;Ba-Barrocas
+290330;Ba-Barro Preto
+290340;Ba-Belmonte
+290350;Ba-Belo Campo
+290360;Ba-Biritinga
+290370;Ba-Boa Nova
+290380;Ba-Boa Vista do Tupim
+290390;Ba-Bom Jesus da Lapa
+290395;Ba-Bom Jesus da Serra
+290400;Ba-Boninal
+290405;Ba-Bonito
+290410;Ba-Boquira
+290420;Ba-Botupora
+290430;Ba-Brejoes
+290440;Ba-Brejolandia
+290450;Ba-Brotas de Macaubas
+290460;Ba-Brumado
+290470;Ba-Buerarema
+290475;Ba-Buritirama
+290480;Ba-Caatiba
+290485;Ba-Cabaceiras do Paraguacu
+290490;Ba-Cachoeira
+290500;Ba-Cacule
+290510;Ba-Caem
+290515;Ba-Caetanos
+290520;Ba-Caetite
+290530;Ba-Cafarnaum
+290540;Ba-Cairu
+290550;Ba-Caldeirao Grande
+290560;Ba-Camacan
+290570;Ba-Camacari
+290580;Ba-Camamu
+290590;Ba-Campo Alegre de Lourdes
+290600;Ba-Campo Formoso
+290610;Ba-Canapolis
+290620;Ba-Canarana
+290630;Ba-Canavieiras
+290640;Ba-Candeal
+290650;Ba-Candeias
+290660;Ba-Candiba
+290670;Ba-Candido Sales
+290680;Ba-Cansancao
+290682;Ba-Canudos
+290685;Ba-Capela do Alto Alegre
+290687;Ba-Capim Grosso
+290689;Ba-Caraibas
+290690;Ba-Caravelas
+290700;Ba-Cardeal da Silva
+290710;Ba-Carinhanha
+290720;Ba-Casa Nova
+290730;Ba-Castro Alves
+290740;Ba-Catolandia
+290750;Ba-Catu
+290755;Ba-Caturama
+290760;Ba-Central
+290770;Ba-Chorrocho
+290780;Ba-Cicero Dantas
+290790;Ba-Cipo
+290800;Ba-Coaraci
+290810;Ba-Cocos
+290820;Ba-Conceicao da Feira
+290830;Ba-Conceicao do Almeida
+290840;Ba-Conceicao do Coite
+290850;Ba-Conceicao do Jacuipe
+290860;Ba-Conde
+290870;Ba-Condeuba
+290880;Ba-Contendas do Sincora
+290890;Ba-Coracao de Maria
+290900;Ba-Cordeiros
+290910;Ba-Coribe
+290920;Ba-Coronel Joao Sa
+290930;Ba-Correntina
+290940;Ba-Cotegipe
+290950;Ba-Cravolandia
+290960;Ba-Crisopolis
+290970;Ba-Cristopolis
+290980;Ba-Cruz das Almas
+290990;Ba-Curaca
+291000;Ba-Dario Meira
+291005;Ba-Dias D Avila
+291010;Ba-Dom Basilio
+291020;Ba-Dom Macedo Costa
+291030;Ba-Elisio Medrado
+291040;Ba-Encruzilhada
+291050;Ba-Entre Rios
+291060;Ba-Esplanada
+291070;Ba-Euclides da Cunha
+291072;Ba-Eunapolis
+291075;Ba-Fatima
+291077;Ba-Feira da Mata
+291080;Ba-Feira de Santana
+291085;Ba-Filadelfia
+291090;Ba-Firmino Alves
+291100;Ba-Floresta Azul
+291110;Ba-Formosa do Rio Preto
+291120;Ba-Gandu
+291125;Ba-Gaviao
+291130;Ba-Gentio do Ouro
+291140;Ba-Gloria
+291150;Ba-Gongogi
+291160;Ba-Governador Mangabeira
+291165;Ba-Guajeru
+291170;Ba-Guanambi
+291180;Ba-Guaratinga
+291185;Ba-Heliopolis
+291190;Ba-Iacu
+291200;Ba-Ibiassuce
+291210;Ba-Ibicarai
+291220;Ba-Ibicoara
+291230;Ba-Ibicui
+291240;Ba-Ibipeba
+291250;Ba-Ibipitanga
+291260;Ba-Ibiquera
+291270;Ba-Ibirapitanga
+291280;Ba-Ibirapua
+291290;Ba-Ibirataia
+291300;Ba-Ibitiara
+291310;Ba-Ibitita
+291320;Ba-Ibotirama
+291330;Ba-Ichu
+291340;Ba-Igapora
+291345;Ba-Igrapiuna
+291350;Ba-Iguai
+291360;Ba-Ilheus
+291370;Ba-Inhambupe
+291380;Ba-Ipecaeta
+291390;Ba-Ipiau
+291400;Ba-Ipira
+291410;Ba-Ipupiara
+291420;Ba-Irajuba
+291430;Ba-Iramaia
+291440;Ba-Iraquara
+291450;Ba-Irara
+291460;Ba-Irece
+291465;Ba-Itabela
+291470;Ba-Itaberaba
+291480;Ba-Itabuna
+291490;Ba-Itacare
+291500;Ba-Itaete
+291510;Ba-Itagi
+291520;Ba-Itagiba
+291530;Ba-Itagimirim
+291535;Ba-Itaguacu da Bahia
+291540;Ba-Itaju do Colonia
+291550;Ba-Itajuipe
+291560;Ba-Itamaraju
+291570;Ba-Itamari
+291580;Ba-Itambe
+291590;Ba-Itanagra
+291600;Ba-Itanhem
+291610;Ba-Itaparica
+291620;Ba-Itape
+291630;Ba-Itapebi
+291640;Ba-Itapetinga
+291650;Ba-Itapicuru
+291660;Ba-Itapitanga
+291670;Ba-Itaquara
+291680;Ba-Itarantim
+291685;Ba-Itatim
+291690;Ba-Itirucu
+291700;Ba-Itiuba
+291710;Ba-Itororo
+291720;Ba-Ituacu
+291730;Ba-Itubera
+291733;Ba-Iuiu
+291735;Ba-Jaborandi
+291740;Ba-Jacaraci
+291750;Ba-Jacobina
+291760;Ba-Jaguaquara
+291770;Ba-Jaguarari
+291780;Ba-Jaguaripe
+291790;Ba-Jandaira
+291800;Ba-Jequie
+291810;Ba-Jeremoabo
+291820;Ba-Jiquirica
+291830;Ba-Jitauna
+291835;Ba-Joao Dourado
+291840;Ba-Juazeiro
+291845;Ba-Jucurucu
+291850;Ba-Jussara
+291855;Ba-Jussari
+291860;Ba-Jussiape
+291870;Ba-Lafaiete Coutinho
+291875;Ba-Lagoa Real
+291880;Ba-Laje
+291890;Ba-Lajedao
+291900;Ba-Lajedinho
+291905;Ba-Lajedo do Tabocal
+291910;Ba-Lamarao
+291915;Ba-Lapao
+291920;Ba-Lauro de Freitas
+291930;Ba-Lencois
+291940;Ba-Licinio de Almeida
+291950;Ba-Livramento de Nossa Senhora
+291955;Ba-Luis Eduardo Magalhaes
+291960;Ba-Macajuba
+291970;Ba-Macarani
+291980;Ba-Macaubas
+291990;Ba-Macurure
+291992;Ba-Madre de Deus
+291995;Ba-Maetinga
+292000;Ba-Maiquinique
+292010;Ba-Mairi
+292020;Ba-Malhada
+292030;Ba-Malhada de Pedras
+292040;Ba-Manoel Vitorino
+292045;Ba-Mansidao
+292050;Ba-Maracas
+292060;Ba-Maragogipe
+292070;Ba-Marau
+292080;Ba-Marcionilio Souza
+292090;Ba-Mascote
+292100;Ba-Mata de Sao Joao
+292105;Ba-Matina
+292110;Ba-Medeiros Neto
+292120;Ba-Miguel Calmon
+292130;Ba-Milagres
+292140;Ba-Mirangaba
+292145;Ba-Mirante
+292150;Ba-Monte Santo
+292160;Ba-Morpara
+292170;Ba-Morro do Chapeu
+292180;Ba-Mortugaba
+292190;Ba-Mucuge
+292200;Ba-Mucuri
+292205;Ba-Mulungu do Morro
+292210;Ba-Mundo Novo
+292220;Ba-Muniz Ferreira
+292225;Ba-Muquem de Sao Francisco
+292230;Ba-Muritiba
+292240;Ba-Mutuipe
+292250;Ba-Nazare
+292260;Ba-Nilo Pecanha
+292265;Ba-Nordestina
+292270;Ba-Nova Canaa
+292273;Ba-Nova Fatima
+292275;Ba-Nova Ibia
+292280;Ba-Nova Itarana
+292285;Ba-Nova Redencao
+292290;Ba-Nova Soure
+292300;Ba-Nova Vicosa
+292303;Ba-Novo Horizonte
+292305;Ba-Novo Triunfo
+292310;Ba-Olindina
+292320;Ba-Oliveira dos Brejinhos
+292330;Ba-Ouricangas
+292335;Ba-Ourolandia
+292340;Ba-Palmas de Monte Alto
+292350;Ba-Palmeiras
+292360;Ba-Paramirim
+292370;Ba-Paratinga
+292380;Ba-Paripiranga
+292390;Ba-Pau Brasil
+292400;Ba-Paulo Afonso
+292405;Ba-Pe de Serra
+292410;Ba-Pedrao
+292420;Ba-Pedro Alexandre
+292430;Ba-Piata
+292440;Ba-Pilao Arcado
+292450;Ba-Pindai
+292460;Ba-Pindobacu
+292465;Ba-Pintadas
+292467;Ba-Pirai do Norte
+292470;Ba-Piripa
+292480;Ba-Piritiba
+292490;Ba-Planaltino
+292500;Ba-Planalto
+292510;Ba-Pocoes
+292520;Ba-Pojuca
+292525;Ba-Ponto Novo
+292530;Ba-Porto Seguro
+292540;Ba-Potiragua
+292550;Ba-Prado
+292560;Ba-Presidente Dutra
+292570;Ba-Presidente Janio Quadros
+292575;Ba-Presidente Tancredo Neves
+292580;Ba-Queimadas
+292590;Ba-Quijingue
+292593;Ba-Quixabeira
+292595;Ba-Rafael Jambeiro
+292600;Ba-Remanso
+292610;Ba-Retirolandia
+292620;Ba-Riachao das Neves
+292630;Ba-Riachao do Jacuipe
+292640;Ba-Riacho de Santana
+292650;Ba-Ribeira do Amparo
+292660;Ba-Ribeira do Pombal
+292665;Ba-Ribeirao do Largo
+292670;Ba-Rio de Contas
+292680;Ba-Rio do Antonio
+292690;Ba-Rio do Pires
+292700;Ba-Rio Real
+292710;Ba-Rodelas
+292720;Ba-Ruy Barbosa
+292730;Ba-Salinas da Margarida
+292740;Ba-Salvador
+292750;Ba-Santa Barbara
+292760;Ba-Santa Brigida
+292770;Ba-Santa Cruz Cabralia
+292780;Ba-Santa Cruz da Vitoria
+292790;Ba-Santa Ines
+292800;Ba-Santaluz
+292805;Ba-Santa Luzia
+292810;Ba-Santa Maria da Vitoria
+292820;Ba-Santana
+292830;Ba-Santanopolis
+292840;Ba-Santa Rita de Cassia
+292850;Ba-Santa Teresinha
+292860;Ba-Santo Amaro
+292870;Ba-Santo Antonio de Jesus
+292880;Ba-Santo Estevao
+292890;Ba-Sao Desiderio
+292895;Ba-Sao Domingos
+292900;Ba-Sao Felix
+292905;Ba-Sao Felix do Coribe
+292910;Ba-Sao Felipe
+292920;Ba-Sao Francisco do Conde
+292925;Ba-Sao Gabriel
+292930;Ba-Sao Goncalo dos Campos
+292935;Ba-Sao Jose da Vitoria
+292937;Ba-Sao Jose do Jacuipe
+292940;Ba-Sao Miguel das Matas
+292950;Ba-Sao Sebastiao do Passe
+292960;Ba-Sapeacu
+292970;Ba-Satiro Dias
+292975;Ba-Saubara
+292980;Ba-Saude
+292990;Ba-Seabra
+293000;Ba-Sebastiao Laranjeiras
+293010;Ba-Senhor do Bonfim
+293015;Ba-Serra do Ramalho
+293020;Ba-Sento Se
+293030;Ba-Serra Dourada
+293040;Ba-Serra Preta
+293050;Ba-Serrinha
+293060;Ba-Serrolandia
+293070;Ba-Simoes Filho
+293075;Ba-Sitio do Mato
+293076;Ba-Sitio do Quinto
+293077;Ba-Sobradinho
+293080;Ba-Souto Soares
+293090;Ba-Tabocas do Brejo Velho
+293100;Ba-Tanhacu
+293105;Ba-Tanque Novo
+293110;Ba-Tanquinho
+293120;Ba-Taperoa
+293130;Ba-Tapiramuta
+293135;Ba-Teixeira de Freitas
+293140;Ba-Teodoro Sampaio
+293150;Ba-Teofilandia
+293160;Ba-Teolandia
+293170;Ba-Terra Nova
+293180;Ba-Tremedal
+293190;Ba-Tucano
+293200;Ba-Uaua
+293210;Ba-Ubaira
+293220;Ba-Ubaitaba
+293230;Ba-Ubata
+293240;Ba-Uibai
+293245;Ba-Umburanas
+293250;Ba-Una
+293260;Ba-Urandi
+293270;Ba-Urucuca
+293280;Ba-Utinga
+293290;Ba-Valenca
+293300;Ba-Valente
+293305;Ba-Varzea da Roca
+293310;Ba-Varzea do Poco
+293315;Ba-Varzea Nova
+293317;Ba-Varzedo
+293320;Ba-Vera Cruz
+293325;Ba-Vereda
+293330;Ba-Vitoria da Conquista
+293340;Ba-Wagner
+293345;Ba-Wanderley
+293350;Ba-Wenceslau Guimaraes
+293360;Ba-Xique-Xique
+299999;Ba-Ignorado
+310010;Mg-Abadia dos Dourados
+310020;Mg-Abaete
+310030;Mg-Abre Campo
+310040;Mg-Acaiaca
+310050;Mg-Acucena
+310060;Mg-Agua Boa
+310070;Mg-Agua Comprida
+310080;Mg-Aguanil
+310090;Mg-Aguas Formosas
+310100;Mg-Aguas Vermelhas
+310110;Mg-Aimores
+310120;Mg-Aiuruoca
+310130;Mg-Alagoa
+310140;Mg-Albertina
+310150;Mg-Alem Paraiba
+310160;Mg-Alfenas
+310163;Mg-Alfredo Vasconcelos
+310170;Mg-Almenara
+310180;Mg-Alpercata
+310190;Mg-Alpinopolis
+310200;Mg-Alterosa
+310205;Mg-Alto Caparao
+310210;Mg-Alto Rio Doce
+310220;Mg-Alvarenga
+310230;Mg-Alvinopolis
+310240;Mg-Alvorada de Minas
+310250;Mg-Amparo do Serra
+310260;Mg-Andradas
+310270;Mg-Cachoeira de Pajeu
+310280;Mg-Andrelandia
+310285;Mg-Angelandia
+310290;Mg-Antonio Carlos
+310300;Mg-Antonio Dias
+310310;Mg-Antonio Prado de Minas
+310320;Mg-Aracai
+310330;Mg-Aracitaba
+310340;Mg-Aracuai
+310350;Mg-Araguari
+310360;Mg-Arantina
+310370;Mg-Araponga
+310375;Mg-Arapora
+310380;Mg-Arapua
+310390;Mg-Araujos
+310400;Mg-Araxa
+310410;Mg-Arceburgo
+310420;Mg-Arcos
+310430;Mg-Areado
+310440;Mg-Argirita
+310445;Mg-Aricanduva
+310450;Mg-Arinos
+310460;Mg-Astolfo Dutra
+310470;Mg-Ataleia
+310480;Mg-Augusto de Lima
+310490;Mg-Baependi
+310500;Mg-Baldim
+310510;Mg-Bambui
+310520;Mg-Bandeira
+310530;Mg-Bandeira do Sul
+310540;Mg-Barao de Cocais
+310550;Mg-Barao de Monte Alto
+310560;Mg-Barbacena
+310570;Mg-Barra Longa
+310590;Mg-Barroso
+310600;Mg-Bela Vista de Minas
+310610;Mg-Belmiro Braga
+310620;Mg-Belo Horizonte
+310630;Mg-Belo Oriente
+310640;Mg-Belo Vale
+310650;Mg-Berilo
+310660;Mg-Bertopolis
+310665;Mg-Berizal
+310670;Mg-Betim
+310680;Mg-Bias Fortes
+310690;Mg-Bicas
+310700;Mg-Biquinhas
+310710;Mg-Boa Esperanca
+310720;Mg-Bocaina de Minas
+310730;Mg-Bocaiuva
+310740;Mg-Bom Despacho
+310750;Mg-Bom Jardim de Minas
+310760;Mg-Bom Jesus da Penha
+310770;Mg-Bom Jesus do Amparo
+310780;Mg-Bom Jesus do Galho
+310790;Mg-Bom Repouso
+310800;Mg-Bom Sucesso
+310810;Mg-Bonfim
+310820;Mg-Bonfinopolis de Minas
+310825;Mg-Bonito de Minas
+310830;Mg-Borda da Mata
+310840;Mg-Botelhos
+310850;Mg-Botumirim
+310855;Mg-Brasilandia de Minas
+310860;Mg-Brasilia de Minas
+310870;Mg-Bras Pires
+310880;Mg-Braunas
+310890;Mg-Brasopolis
+310900;Mg-Brumadinho
+310910;Mg-Bueno Brandao
+310920;Mg-Buenopolis
+310925;Mg-Bugre
+310930;Mg-Buritis
+310940;Mg-Buritizeiro
+310945;Mg-Cabeceira Grande
+310950;Mg-Cabo Verde
+310960;Mg-Cachoeira da Prata
+310970;Mg-Cachoeira de Minas
+310980;Mg-Cachoeira Dourada
+310990;Mg-Caetanopolis
+311000;Mg-Caete
+311010;Mg-Caiana
+311020;Mg-Cajuri
+311030;Mg-Caldas
+311040;Mg-Camacho
+311050;Mg-Camanducaia
+311060;Mg-Cambui
+311070;Mg-Cambuquira
+311080;Mg-Campanario
+311090;Mg-Campanha
+311100;Mg-Campestre
+311110;Mg-Campina Verde
+311115;Mg-Campo Azul
+311120;Mg-Campo Belo
+311130;Mg-Campo do Meio
+311140;Mg-Campo Florido
+311150;Mg-Campos Altos
+311160;Mg-Campos Gerais
+311170;Mg-Canaa
+311180;Mg-Canapolis
+311190;Mg-Cana Verde
+311200;Mg-Candeias
+311205;Mg-Cantagalo
+311210;Mg-Caparao
+311220;Mg-Capela Nova
+311230;Mg-Capelinha
+311240;Mg-Capetinga
+311250;Mg-Capim Branco
+311260;Mg-Capinopolis
+311265;Mg-Capitao Andrade
+311270;Mg-Capitao Eneas
+311280;Mg-Capitolio
+311290;Mg-Caputira
+311300;Mg-Carai
+311310;Mg-Caranaiba
+311320;Mg-Carandai
+311330;Mg-Carangola
+311340;Mg-Caratinga
+311350;Mg-Carbonita
+311360;Mg-Careacu
+311370;Mg-Carlos Chagas
+311380;Mg-Carmesia
+311390;Mg-Carmo da Cachoeira
+311400;Mg-Carmo da Mata
+311410;Mg-Carmo de Minas
+311420;Mg-Carmo do Cajuru
+311430;Mg-Carmo do Paranaiba
+311440;Mg-Carmo do Rio Claro
+311450;Mg-Carmopolis de Minas
+311455;Mg-Carneirinho
+311460;Mg-Carrancas
+311470;Mg-Carvalhopolis
+311480;Mg-Carvalhos
+311490;Mg-Casa Grande
+311500;Mg-Cascalho Rico
+311510;Mg-Cassia
+311520;Mg-Conceicao da Barra de Minas
+311530;Mg-Cataguases
+311535;Mg-Catas Altas
+311540;Mg-Catas Altas da Noruega
+311545;Mg-Catuji
+311547;Mg-Catuti
+311550;Mg-Caxambu
+311560;Mg-Cedro do Abaete
+311570;Mg-Central de Minas
+311580;Mg-Centralina
+311590;Mg-Chacara
+311600;Mg-Chale
+311610;Mg-Chapada do Norte
+311615;Mg-Chapada Gaucha
+311620;Mg-Chiador
+311630;Mg-Cipotanea
+311640;Mg-Claraval
+311650;Mg-Claro dos Pocoes
+311660;Mg-Claudio
+311670;Mg-Coimbra
+311680;Mg-Coluna
+311690;Mg-Comendador Gomes
+311700;Mg-Comercinho
+311710;Mg-Conceicao da Aparecida
+311720;Mg-Conceicao das Pedras
+311730;Mg-Conceicao das Alagoas
+311740;Mg-Conceicao de Ipanema
+311750;Mg-Conceicao do Mato Dentro
+311760;Mg-Conceicao do Para
+311770;Mg-Conceicao do Rio Verde
+311780;Mg-Conceicao dos Ouros
+311783;Mg-Conego Marinho
+311787;Mg-Confins
+311790;Mg-Congonhal
+311800;Mg-Congonhas
+311810;Mg-Congonhas do Norte
+311820;Mg-Conquista
+311830;Mg-Conselheiro Lafaiete
+311840;Mg-Conselheiro Pena
+311850;Mg-Consolacao
+311860;Mg-Contagem
+311870;Mg-Coqueiral
+311880;Mg-Coracao de Jesus
+311890;Mg-Cordisburgo
+311900;Mg-Cordislandia
+311910;Mg-Corinto
+311920;Mg-Coroaci
+311930;Mg-Coromandel
+311940;Mg-Coronel Fabriciano
+311950;Mg-Coronel Murta
+311960;Mg-Coronel Pacheco
+311970;Mg-Coronel Xavier Chaves
+311980;Mg-Corrego Danta
+311990;Mg-Corrego do Bom Jesus
+311995;Mg-Corrego Fundo
+312000;Mg-Corrego Novo
+312010;Mg-Couto de Magalhaes de Minas
+312015;Mg-Crisolita
+312020;Mg-Cristais
+312030;Mg-Cristalia
+312040;Mg-Cristiano Otoni
+312050;Mg-Cristina
+312060;Mg-Crucilandia
+312070;Mg-Cruzeiro da Fortaleza
+312080;Mg-Cruzilia
+312083;Mg-Cuparaque
+312087;Mg-Curral de Dentro
+312090;Mg-Curvelo
+312100;Mg-Datas
+312110;Mg-Delfim Moreira
+312120;Mg-Delfinopolis
+312125;Mg-Delta
+312130;Mg-Descoberto
+312140;Mg-Desterro de Entre Rios
+312150;Mg-Desterro do Melo
+312160;Mg-Diamantina
+312170;Mg-Diogo de Vasconcelos
+312180;Mg-Dionisio
+312190;Mg-Divinesia
+312200;Mg-Divino
+312210;Mg-Divino das Laranjeiras
+312220;Mg-Divinolandia de Minas
+312230;Mg-Divinopolis
+312235;Mg-Divisa Alegre
+312240;Mg-Divisa Nova
+312245;Mg-Divisopolis
+312247;Mg-Dom Bosco
+312250;Mg-Dom Cavati
+312260;Mg-Dom Joaquim
+312270;Mg-Dom Silverio
+312280;Mg-Dom Vicoso
+312290;Mg-Dona Euzebia
+312300;Mg-Dores de Campos
+312310;Mg-Dores de Guanhaes
+312320;Mg-Dores do Indaia
+312330;Mg-Dores do Turvo
+312340;Mg-Doresopolis
+312350;Mg-Douradoquara
+312352;Mg-Durande
+312360;Mg-Eloi Mendes
+312370;Mg-Engenheiro Caldas
+312380;Mg-Engenheiro Navarro
+312385;Mg-Entre Folhas
+312390;Mg-Entre Rios de Minas
+312400;Mg-Ervalia
+312410;Mg-Esmeraldas
+312420;Mg-Espera Feliz
+312430;Mg-Espinosa
+312440;Mg-Espirito Santo do Dourado
+312450;Mg-Estiva
+312460;Mg-Estrela Dalva
+312470;Mg-Estrela do Indaia
+312480;Mg-Estrela do Sul
+312490;Mg-Eugenopolis
+312500;Mg-Ewbank da Camara
+312510;Mg-Extrema
+312520;Mg-Fama
+312530;Mg-Faria Lemos
+312540;Mg-Felicio dos Santos
+312550;Mg-Sao Goncalo do Rio Preto
+312560;Mg-Felisburgo
+312570;Mg-Felixlandia
+312580;Mg-Fernandes Tourinho
+312590;Mg-Ferros
+312595;Mg-Fervedouro
+312600;Mg-Florestal
+312610;Mg-Formiga
+312620;Mg-Formoso
+312630;Mg-Fortaleza de Minas
+312640;Mg-Fortuna de Minas
+312650;Mg-Francisco Badaro
+312660;Mg-Francisco Dumont
+312670;Mg-Francisco Sa
+312675;Mg-Franciscopolis
+312680;Mg-Frei Gaspar
+312690;Mg-Frei Inocencio
+312695;Mg-Frei Lagonegro
+312700;Mg-Fronteira
+312705;Mg-Fronteira dos Vales
+312707;Mg-Fruta de Leite
+312710;Mg-Frutal
+312720;Mg-Funilandia
+312730;Mg-Galileia
+312733;Mg-Gameleiras
+312735;Mg-Glaucilandia
+312737;Mg-Goiabeira
+312738;Mg-Goiana
+312740;Mg-Goncalves
+312750;Mg-Gonzaga
+312760;Mg-Gouvea
+312770;Mg-Governador Valadares
+312780;Mg-Grao Mogol
+312790;Mg-Grupiara
+312800;Mg-Guanhaes
+312810;Mg-Guape
+312820;Mg-Guaraciaba
+312825;Mg-Guaraciama
+312830;Mg-Guaranesia
+312840;Mg-Guarani
+312850;Mg-Guarara
+312860;Mg-Guarda-Mor
+312870;Mg-Guaxupe
+312880;Mg-Guidoval
+312890;Mg-Guimarania
+312900;Mg-Guiricema
+312910;Mg-Gurinhata
+312920;Mg-Heliodora
+312930;Mg-Iapu
+312940;Mg-Ibertioga
+312950;Mg-Ibia
+312960;Mg-Ibiai
+312965;Mg-Ibiracatu
+312970;Mg-Ibiraci
+312980;Mg-Ibirite
+312990;Mg-Ibitiura de Minas
+313000;Mg-Ibituruna
+313005;Mg-Icarai de Minas
+313010;Mg-Igarape
+313020;Mg-Igaratinga
+313030;Mg-Iguatama
+313040;Mg-Ijaci
+313050;Mg-Ilicinea
+313055;Mg-Imbe de Minas
+313060;Mg-Inconfidentes
+313065;Mg-Indaiabira
+313070;Mg-Indianopolis
+313080;Mg-Ingai
+313090;Mg-Inhapim
+313100;Mg-Inhauma
+313110;Mg-Inimutaba
+313115;Mg-Ipaba
+313120;Mg-Ipanema
+313130;Mg-Ipatinga
+313140;Mg-Ipiacu
+313150;Mg-Ipuiuna
+313160;Mg-Irai de Minas
+313170;Mg-Itabira
+313180;Mg-Itabirinha de Mantena
+313190;Mg-Itabirito
+313200;Mg-Itacambira
+313210;Mg-Itacarambi
+313220;Mg-Itaguara
+313230;Mg-Itaipe
+313240;Mg-Itajuba
+313250;Mg-Itamarandiba
+313260;Mg-Itamarati de Minas
+313270;Mg-Itambacuri
+313280;Mg-Itambe do Mato Dentro
+313290;Mg-Itamogi
+313300;Mg-Itamonte
+313310;Mg-Itanhandu
+313320;Mg-Itanhomi
+313330;Mg-Itaobim
+313340;Mg-Itapagipe
+313350;Mg-Itapecerica
+313360;Mg-Itapeva
+313370;Mg-Itatiaiucu
+313375;Mg-Itau de Minas
+313380;Mg-Itauna
+313390;Mg-Itaverava
+313400;Mg-Itinga
+313410;Mg-Itueta
+313420;Mg-Ituiutaba
+313430;Mg-Itumirim
+313440;Mg-Iturama
+313450;Mg-Itutinga
+313460;Mg-Jaboticatubas
+313470;Mg-Jacinto
+313480;Mg-Jacui
+313490;Mg-Jacutinga
+313500;Mg-Jaguaracu
+313505;Mg-Jaiba
+313507;Mg-Jampruca
+313510;Mg-Janauba
+313520;Mg-Januaria
+313530;Mg-Japaraiba
+313535;Mg-Japonvar
+313540;Mg-Jeceaba
+313545;Mg-Jenipapo de Minas
+313550;Mg-Jequeri
+313560;Mg-Jequitai
+313570;Mg-Jequitiba
+313580;Mg-Jequitinhonha
+313590;Mg-Jesuania
+313600;Mg-Joaima
+313610;Mg-Joanesia
+313620;Mg-Joao Monlevade
+313630;Mg-Joao Pinheiro
+313640;Mg-Joaquim Felicio
+313650;Mg-Jordania
+313652;Mg-Jose Goncalves de Minas
+313655;Mg-Jose Raydan
+313657;Mg-Josenopolis
+313660;Mg-Nova Uniao
+313665;Mg-Juatuba
+313670;Mg-Juiz de Fora
+313680;Mg-Juramento
+313690;Mg-Juruaia
+313695;Mg-Juvenilia
+313700;Mg-Ladainha
+313710;Mg-Lagamar
+313720;Mg-Lagoa da Prata
+313730;Mg-Lagoa dos Patos
+313740;Mg-Lagoa Dourada
+313750;Mg-Lagoa Formosa
+313753;Mg-Lagoa Grande
+313760;Mg-Lagoa Santa
+313770;Mg-Lajinha
+313780;Mg-Lambari
+313790;Mg-Lamim
+313800;Mg-Laranjal
+313810;Mg-Lassance
+313820;Mg-Lavras
+313830;Mg-Leandro Ferreira
+313835;Mg-Leme do Prado
+313840;Mg-Leopoldina
+313850;Mg-Liberdade
+313860;Mg-Lima Duarte
+313862;Mg-Limeira do Oeste
+313865;Mg-Lontra
+313867;Mg-Luisburgo
+313868;Mg-Luislandia
+313870;Mg-Luminarias
+313880;Mg-Luz
+313890;Mg-Machacalis
+313900;Mg-Machado
+313910;Mg-Madre de Deus de Minas
+313920;Mg-Malacacheta
+313925;Mg-Mamonas
+313930;Mg-Manga
+313940;Mg-Manhuacu
+313950;Mg-Manhumirim
+313960;Mg-Mantena
+313970;Mg-Maravilhas
+313980;Mg-Mar de Espanha
+313990;Mg-Maria da Fe
+314000;Mg-Mariana
+314010;Mg-Marilac
+314015;Mg-Mario Campos
+314020;Mg-Maripa de Minas
+314030;Mg-Marlieria
+314040;Mg-Marmelopolis
+314050;Mg-Martinho Campos
+314053;Mg-Martins Soares
+314055;Mg-Mata Verde
+314060;Mg-Materlandia
+314070;Mg-Mateus Leme
+314080;Mg-Matias Barbosa
+314085;Mg-Matias Cardoso
+314090;Mg-Matipo
+314100;Mg-Mato Verde
+314110;Mg-Matozinhos
+314120;Mg-Matutina
+314130;Mg-Medeiros
+314140;Mg-Medina
+314150;Mg-Mendes Pimentel
+314160;Mg-Merces
+314170;Mg-Mesquita
+314180;Mg-Minas Novas
+314190;Mg-Minduri
+314200;Mg-Mirabela
+314210;Mg-Miradouro
+314220;Mg-Mirai
+314225;Mg-Miravania
+314230;Mg-Moeda
+314240;Mg-Moema
+314250;Mg-Monjolos
+314260;Mg-Monsenhor Paulo
+314270;Mg-Montalvania
+314280;Mg-Monte Alegre de Minas
+314290;Mg-Monte Azul
+314300;Mg-Monte Belo
+314310;Mg-Monte Carmelo
+314315;Mg-Monte Formoso
+314320;Mg-Monte Santo de Minas
+314330;Mg-Montes Claros
+314340;Mg-Monte Siao
+314345;Mg-Montezuma
+314350;Mg-Morada Nova de Minas
+314360;Mg-Morro da Garca
+314370;Mg-Morro do Pilar
+314380;Mg-Munhoz
+314390;Mg-Muriae
+314400;Mg-Mutum
+314410;Mg-Muzambinho
+314420;Mg-Nacip Raydan
+314430;Mg-Nanuque
+314435;Mg-Naque
+314437;Mg-Natalandia
+314440;Mg-Natercia
+314450;Mg-Nazareno
+314460;Mg-Nepomuceno
+314465;Mg-Ninheira
+314467;Mg-Nova Belem
+314470;Mg-Nova Era
+314480;Mg-Nova Lima
+314490;Mg-Nova Modica
+314500;Mg-Nova Ponte
+314505;Mg-Nova Porteirinha
+314510;Mg-Nova Resende
+314520;Mg-Nova Serrana
+314530;Mg-Novo Cruzeiro
+314535;Mg-Novo Oriente de Minas
+314537;Mg-Novorizonte
+314540;Mg-Olaria
+314545;Mg-Olhos D Agua
+314550;Mg-Olimpio Noronha
+314560;Mg-Oliveira
+314570;Mg-Oliveira Fortes
+314580;Mg-Onca de Pitangui
+314585;Mg-Oratorios
+314587;Mg-Orizania
+314590;Mg-Ouro Branco
+314600;Mg-Ouro Fino
+314610;Mg-Ouro Preto
+314620;Mg-Ouro Verde de Minas
+314625;Mg-Padre Carvalho
+314630;Mg-Padre Paraiso
+314640;Mg-Paineiras
+314650;Mg-Pains
+314655;Mg-Pai Pedro
+314660;Mg-Paiva
+314670;Mg-Palma
+314675;Mg-Palmopolis
+314690;Mg-Papagaios
+314700;Mg-Paracatu
+314710;Mg-Para de Minas
+314720;Mg-Paraguacu
+314730;Mg-Paraisopolis
+314740;Mg-Paraopeba
+314750;Mg-Passabem
+314760;Mg-Passa Quatro
+314770;Mg-Passa Tempo
+314780;Mg-Passa Vinte
+314790;Mg-Passos
+314795;Mg-Patis
+314800;Mg-Patos de Minas
+314810;Mg-Patrocinio
+314820;Mg-Patrocinio do Muriae
+314830;Mg-Paula Candido
+314840;Mg-Paulistas
+314850;Mg-Pavao
+314860;Mg-Pecanha
+314870;Mg-Pedra Azul
+314875;Mg-Pedra Bonita
+314880;Mg-Pedra do Anta
+314890;Mg-Pedra do Indaia
+314900;Mg-Pedra Dourada
+314910;Mg-Pedralva
+314915;Mg-Pedras de Maria da Cruz
+314920;Mg-Pedrinopolis
+314930;Mg-Pedro Leopoldo
+314940;Mg-Pedro Teixeira
+314950;Mg-Pequeri
+314960;Mg-Pequi
+314970;Mg-Perdigao
+314980;Mg-Perdizes
+314990;Mg-Perdoes
+314995;Mg-Periquito
+315000;Mg-Pescador
+315010;Mg-Piau
+315015;Mg-Piedade de Caratinga
+315020;Mg-Piedade de Ponte Nova
+315030;Mg-Piedade do Rio Grande
+315040;Mg-Piedade dos Gerais
+315050;Mg-Pimenta
+315053;Mg-Pingo D Agua
+315057;Mg-Pintopolis
+315060;Mg-Piracema
+315070;Mg-Pirajuba
+315080;Mg-Piranga
+315090;Mg-Pirangucu
+315100;Mg-Piranguinho
+315110;Mg-Pirapetinga
+315120;Mg-Pirapora
+315130;Mg-Pirauba
+315140;Mg-Pitangui
+315150;Mg-Piumhi
+315160;Mg-Planura
+315170;Mg-Poco Fundo
+315180;Mg-Pocos de Caldas
+315190;Mg-Pocrane
+315200;Mg-Pompeu
+315210;Mg-Ponte Nova
+315213;Mg-Ponto Chique
+315217;Mg-Ponto dos Volantes
+315220;Mg-Porteirinha
+315230;Mg-Porto Firme
+315240;Mg-Pote
+315250;Mg-Pouso Alegre
+315260;Mg-Pouso Alto
+315270;Mg-Prados
+315280;Mg-Prata
+315290;Mg-Pratapolis
+315300;Mg-Pratinha
+315310;Mg-Presidente Bernardes
+315320;Mg-Presidente Juscelino
+315330;Mg-Presidente Kubitschek
+315340;Mg-Presidente Olegario
+315350;Mg-Alto Jequitiba
+315360;Mg-Prudente de Morais
+315370;Mg-Quartel Geral
+315380;Mg-Queluzita
+315390;Mg-Raposos
+315400;Mg-Raul Soares
+315410;Mg-Recreio
+315415;Mg-Reduto
+315420;Mg-Resende Costa
+315430;Mg-Resplendor
+315440;Mg-Ressaquinha
+315445;Mg-Riachinho
+315450;Mg-Riacho dos Machados
+315460;Mg-Ribeirao das Neves
+315470;Mg-Ribeirao Vermelho
+315480;Mg-Rio Acima
+315490;Mg-Rio Casca
+315500;Mg-Rio Doce
+315510;Mg-Rio do Prado
+315520;Mg-Rio Espera
+315530;Mg-Rio Manso
+315540;Mg-Rio Novo
+315550;Mg-Rio Paranaiba
+315560;Mg-Rio Pardo de Minas
+315570;Mg-Rio Piracicaba
+315580;Mg-Rio Pomba
+315590;Mg-Rio Preto
+315600;Mg-Rio Vermelho
+315610;Mg-Ritapolis
+315620;Mg-Rochedo de Minas
+315630;Mg-Rodeiro
+315640;Mg-Romaria
+315645;Mg-Rosario da Limeira
+315650;Mg-Rubelita
+315660;Mg-Rubim
+315670;Mg-Sabara
+315680;Mg-Sabinopolis
+315690;Mg-Sacramento
+315700;Mg-Salinas
+315710;Mg-Salto da Divisa
+315720;Mg-Santa Barbara
+315725;Mg-Santa Barbara do Leste
+315727;Mg-Santa Barbara do Monte Verde
+315730;Mg-Santa Barbara do Tugurio
+315733;Mg-Santa Cruz de Minas
+315737;Mg-Santa Cruz de Salinas
+315740;Mg-Santa Cruz do Escalvado
+315750;Mg-Santa Efigenia de Minas
+315760;Mg-Santa Fe de Minas
+315765;Mg-Santa Helena de Minas
+315770;Mg-Santa Juliana
+315780;Mg-Santa Luzia
+315790;Mg-Santa Margarida
+315800;Mg-Santa Maria de Itabira
+315810;Mg-Santa Maria do Salto
+315820;Mg-Santa Maria do Suacui
+315830;Mg-Santana da Vargem
+315840;Mg-Santana de Cataguases
+315850;Mg-Santana de Pirapama
+315860;Mg-Santana do Deserto
+315870;Mg-Santana do Garambeu
+315880;Mg-Santana do Jacare
+315890;Mg-Santana do Manhuacu
+315895;Mg-Santana do Paraiso
+315900;Mg-Santana do Riacho
+315910;Mg-Santana dos Montes
+315920;Mg-Santa Rita de Caldas
+315930;Mg-Santa Rita de Jacutinga
+315935;Mg-Santa Rita de Minas
+315940;Mg-Santa Rita do Ibitipoca
+315950;Mg-Santa Rita do Itueto
+315960;Mg-Santa Rita do Sapucai
+315970;Mg-Santa Rosa da Serra
+315980;Mg-Santa Vitoria
+315990;Mg-Santo Antonio do Amparo
+316000;Mg-Santo Antonio do Aventureiro
+316010;Mg-Santo Antonio do Grama
+316020;Mg-Santo Antonio do Itambe
+316030;Mg-Santo Antonio do Jacinto
+316040;Mg-Santo Antonio do Monte
+316045;Mg-Santo Antonio do Retiro
+316050;Mg-Santo Antonio do Rio Abaixo
+316060;Mg-Santo Hipolito
+316070;Mg-Santos Dumont
+316080;Mg-Sao Bento Abade
+316090;Mg-Sao Bras do Suacui
+316095;Mg-Sao Domingos das Dores
+316100;Mg-Sao Domingos do Prata
+316105;Mg-Sao Felix de Minas
+316110;Mg-Sao Francisco
+316120;Mg-Sao Francisco de Paula
+316130;Mg-Sao Francisco de Sales
+316140;Mg-Sao Francisco do Gloria
+316150;Mg-Sao Geraldo
+316160;Mg-Sao Geraldo da Piedade
+316165;Mg-Sao Geraldo do Baixio
+316170;Mg-Sao Goncalo do Abaete
+316180;Mg-Sao Goncalo do Para
+316190;Mg-Sao Goncalo do Rio Abaixo
+316200;Mg-Sao Goncalo do Sapucai
+316210;Mg-Sao Gotardo
+316220;Mg-Sao Joao Batista do Gloria
+316225;Mg-Sao Joao da Lagoa
+316230;Mg-Sao Joao da Mata
+316240;Mg-Sao Joao da Ponte
+316245;Mg-Sao Joao das Missoes
+316250;Mg-Sao Joao Del Rei
+316255;Mg-Sao Joao do Manhuacu
+316257;Mg-Sao Joao do Manteninha
+316260;Mg-Sao Joao do Oriente
+316265;Mg-Sao Joao do Pacui
+316270;Mg-Sao Joao do Paraiso
+316280;Mg-Sao Joao Evangelista
+316290;Mg-Sao Joao Nepomuceno
+316292;Mg-Sao Joaquim de Bicas
+316294;Mg-Sao Jose da Barra
+316295;Mg-Sao Jose da Lapa
+316300;Mg-Sao Jose da Safira
+316310;Mg-Sao Jose da Varginha
+316320;Mg-Sao Jose do Alegre
+316330;Mg-Sao Jose do Divino
+316340;Mg-Sao Jose do Goiabal
+316350;Mg-Sao Jose do Jacuri
+316360;Mg-Sao Jose do Mantimento
+316370;Mg-Sao Lourenco
+316380;Mg-Sao Miguel do Anta
+316390;Mg-Sao Pedro da Uniao
+316400;Mg-Sao Pedro dos Ferros
+316410;Mg-Sao Pedro do Suacui
+316420;Mg-Sao Romao
+316430;Mg-Sao Roque de Minas
+316440;Mg-Sao Sebastiao da Bela Vista
+316443;Mg-Sao Sebastiao da Vargem Alegre
+316447;Mg-Sao Sebastiao do Anta
+316450;Mg-Sao Sebastiao do Maranhao
+316460;Mg-Sao Sebastiao do Oeste
+316470;Mg-Sao Sebastiao do Paraiso
+316480;Mg-Sao Sebastiao do Rio Preto
+316490;Mg-Sao Sebastiao do Rio Verde
+316500;Mg-Sao Tiago
+316510;Mg-Sao Tomas de Aquino
+316520;Mg-Sao Tome das Letras
+316530;Mg-Sao Vicente de Minas
+316540;Mg-Sapucai-Mirim
+316550;Mg-Sardoa
+316553;Mg-Sarzedo
+316555;Mg-Setubinha
+316556;Mg-Sem-Peixe
+316557;Mg-Senador Amaral
+316560;Mg-Senador Cortes
+316570;Mg-Senador Firmino
+316580;Mg-Senador Jose Bento
+316590;Mg-Senador Modestino Goncalves
+316600;Mg-Senhora de Oliveira
+316610;Mg-Senhora do Porto
+316620;Mg-Senhora dos Remedios
+316630;Mg-Sericita
+316640;Mg-Seritinga
+316650;Mg-Serra Azul de Minas
+316660;Mg-Serra da Saudade
+316670;Mg-Serra dos Aimores
+316680;Mg-Serra do Salitre
+316690;Mg-Serrania
+316695;Mg-Serranopolis de Minas
+316700;Mg-Serranos
+316710;Mg-Serro
+316720;Mg-Sete Lagoas
+316730;Mg-Silveirania
+316740;Mg-Silvianopolis
+316750;Mg-Simao Pereira
+316760;Mg-Simonesia
+316770;Mg-Sobralia
+316780;Mg-Soledade de Minas
+316790;Mg-Tabuleiro
+316800;Mg-Taiobeiras
+316805;Mg-Taparuba
+316810;Mg-Tapira
+316820;Mg-Tapirai
+316830;Mg-Taquaracu de Minas
+316840;Mg-Tarumirim
+316850;Mg-Teixeiras
+316860;Mg-Teofilo Otoni
+316870;Mg-Timoteo
+316880;Mg-Tiradentes
+316890;Mg-Tiros
+316900;Mg-Tocantins
+316905;Mg-Tocos do Moji
+316910;Mg-Toledo
+316920;Mg-Tombos
+316930;Mg-Tres Coracoes
+316935;Mg-Tres Marias
+316940;Mg-Tres Pontas
+316950;Mg-Tumiritinga
+316960;Mg-Tupaciguara
+316970;Mg-Turmalina
+316980;Mg-Turvolandia
+316990;Mg-Uba
+317000;Mg-Ubai
+317005;Mg-Ubaporanga
+317010;Mg-Uberaba
+317020;Mg-Uberlandia
+317030;Mg-Umburatiba
+317040;Mg-Unai
+317043;Mg-Uniao de Minas
+317047;Mg-Uruana de Minas
+317050;Mg-Urucania
+317052;Mg-Urucuia
+317057;Mg-Vargem Alegre
+317060;Mg-Vargem Bonita
+317065;Mg-Vargem Grande do Rio Pardo
+317070;Mg-Varginha
+317075;Mg-Varjao de Minas
+317080;Mg-Varzea da Palma
+317090;Mg-Varzelandia
+317100;Mg-Vazante
+317103;Mg-Verdelandia
+317107;Mg-Veredinha
+317110;Mg-Verissimo
+317115;Mg-Vermelho Novo
+317120;Mg-Vespasiano
+317130;Mg-Vicosa
+317140;Mg-Vieiras
+317150;Mg-Mathias Lobato
+317160;Mg-Virgem da Lapa
+317170;Mg-Virginia
+317180;Mg-Virginopolis
+317190;Mg-Virgolandia
+317200;Mg-Visconde do Rio Branco
+317210;Mg-Volta Grande
+317220;Mg-Wenceslau Braz
+319999;Mg-Ignorado
+320010;Es-Afonso Claudio
+320013;Es-Aguia Branca
+320016;Es-Agua Doce do Norte
+320020;Es-Alegre
+320030;Es-Alfredo Chaves
+320035;Es-Alto Rio Novo
+320040;Es-Anchieta
+320050;Es-Apiaca
+320060;Es-Aracruz
+320070;Es-Atilio Vivacqua
+320080;Es-Baixo Guandu
+320090;Es-Barra de Sao Francisco
+320100;Es-Boa Esperanca
+320110;Es-Bom Jesus do Norte
+320115;Es-Brejetuba
+320120;Es-Cachoeiro de Itapemirim
+320130;Es-Cariacica
+320140;Es-Castelo
+320150;Es-Colatina
+320160;Es-Conceicao da Barra
+320170;Es-Conceicao do Castelo
+320180;Es-Divino de Sao Lourenco
+320190;Es-Domingos Martins
+320200;Es-Dores do Rio Preto
+320210;Es-Ecoporanga
+320220;Es-Fundao
+320225;Es-Governador Lindenberg
+320230;Es-Guacui
+320240;Es-Guarapari
+320245;Es-Ibatiba
+320250;Es-Ibiracu
+320255;Es-Ibitirama
+320260;Es-Iconha
+320265;Es-Irupi
+320270;Es-Itaguacu
+320280;Es-Itapemirim
+320290;Es-Itarana
+320300;Es-Iuna
+320305;Es-Jaguare
+320310;Es-Jeronimo Monteiro
+320313;Es-Joao Neiva
+320316;Es-Laranja da Terra
+320320;Es-Linhares
+320330;Es-Mantenopolis
+320332;Es-Marataizes
+320334;Es-Marechal Floriano
+320335;Es-Marilandia
+320340;Es-Mimoso do Sul
+320350;Es-Montanha
+320360;Es-Mucurici
+320370;Es-Muniz Freire
+320380;Es-Muqui
+320390;Es-Nova Venecia
+320400;Es-Pancas
+320405;Es-Pedro Canario
+320410;Es-Pinheiros
+320420;Es-Piuma
+320425;Es-Ponto Belo
+320430;Es-Presidente Kennedy
+320435;Es-Rio Bananal
+320440;Es-Rio Novo do Sul
+320450;Es-Santa Leopoldina
+320455;Es-Santa Maria de Jetiba
+320460;Es-Santa Teresa
+320465;Es-Sao Domingos do Norte
+320470;Es-Sao Gabriel da Palha
+320480;Es-Sao Jose do Calcado
+320490;Es-Sao Mateus
+320495;Es-Sao Roque do Canaa
+320500;Es-Serra
+320501;Es-Sooretama
+320503;Es-Vargem Alta
+320506;Es-Venda Nova do Imigrante
+320510;Es-Viana
+320515;Es-Vila Pavao
+320517;Es-Vila Valerio
+320520;Es-Vila Velha
+320530;Es-Vitoria
+329999;Es-Ignorado
+330010;Rj-Angra dos Reis
+330015;Rj-Aperibe
+330020;Rj-Araruama
+330022;Rj-Areal
+330023;Rj-Armacao de Buzios
+330025;Rj-Arraial do Cabo
+330030;Rj-Barra do Pirai
+330040;Rj-Barra Mansa
+330045;Rj-Belford Roxo
+330050;Rj-Bom Jardim
+330060;Rj-Bom Jesus do Itabapoana
+330070;Rj-Cabo Frio
+330080;Rj-Cachoeiras de Macacu
+330090;Rj-Cambuci
+330093;Rj-Carapebus
+330095;Rj-Comendador Levy Gasparian
+330100;Rj-Campos dos Goytacazes
+330110;Rj-Cantagalo
+330115;Rj-Cardoso Moreira
+330120;Rj-Carmo
+330130;Rj-Casimiro de Abreu
+330140;Rj-Conceicao de Macabu
+330150;Rj-Cordeiro
+330160;Rj-Duas Barras
+330170;Rj-Duque de Caxias
+330180;Rj-Engenheiro Paulo de Frontin
+330185;Rj-Guapimirim
+330187;Rj-Iguaba Grande
+330190;Rj-Itaborai
+330200;Rj-Itaguai
+330205;Rj-Italva
+330210;Rj-Itaocara
+330220;Rj-Itaperuna
+330225;Rj-Itatiaia
+330227;Rj-Japeri
+330230;Rj-Laje do Muriae
+330240;Rj-Macae
+330245;Rj-Macuco
+330250;Rj-Mage
+330260;Rj-Mangaratiba
+330270;Rj-Marica
+330280;Rj-Mendes
+330285;Rj-Mesquita
+330290;Rj-Miguel Pereira
+330300;Rj-Miracema
+330310;Rj-Natividade
+330320;Rj-Nilopolis
+330330;Rj-Niteroi
+330340;Rj-Nova Friburgo
+330350;Rj-Nova Iguacu
+330360;Rj-Paracambi
+330370;Rj-Paraiba do Sul
+330380;Rj-Parati
+330385;Rj-Paty do Alferes
+330390;Rj-Petropolis
+330395;Rj-Pinheiral
+330400;Rj-Pirai
+330410;Rj-Porciuncula
+330411;Rj-Porto Real
+330412;Rj-Quatis
+330414;Rj-Queimados
+330415;Rj-Quissama
+330420;Rj-Resende
+330430;Rj-Rio Bonito
+330440;Rj-Rio Claro
+330450;Rj-Rio das Flores
+330452;Rj-Rio das Ostras
+330455;Rj-Rio de Janeiro
+330460;Rj-Santa Maria Madalena
+330470;Rj-Santo Antonio de Padua
+330475;Rj-Sao Francisco de Itabapoana
+330480;Rj-Sao Fidelis
+330490;Rj-Sao Goncalo
+330500;Rj-Sao Joao da Barra
+330510;Rj-Sao Joao de Meriti
+330513;Rj-Sao Jose de Uba
+330515;Rj-Sao Jose do Vale do Rio Preto
+330520;Rj-Sao Pedro da Aldeia
+330530;Rj-Sao Sebastiao do Alto
+330540;Rj-Sapucaia
+330550;Rj-Saquarema
+330555;Rj-Seropedica
+330560;Rj-Silva Jardim
+330570;Rj-Sumidouro
+330575;Rj-Tangua
+330580;Rj-Teresopolis
+330590;Rj-Trajano de Morais
+330600;Rj-Tres Rios
+330610;Rj-Valenca
+330615;Rj-Varre e Sai
+330620;Rj-Vassouras
+330630;Rj-Volta Redonda
+339999;Rj-Ignorado
+350010;Sp-Adamantina
+350020;Sp-Adolfo
+350030;Sp-Aguai
+350040;Sp-Aguas da Prata
+350050;Sp-Aguas de Lindoia
+350055;Sp-Aguas de Santa Barbara
+350060;Sp-Aguas de Sao Pedro
+350070;Sp-Agudos
+350075;Sp-Alambari
+350080;Sp-Alfredo Marcondes
+350090;Sp-Altair
+350100;Sp-Altinopolis
+350110;Sp-Alto Alegre
+350115;Sp-Aluminio
+350120;Sp-Alvares Florence
+350130;Sp-Alvares Machado
+350140;Sp-Alvaro de Carvalho
+350150;Sp-Alvinlandia
+350160;Sp-Americana
+350170;Sp-Americo Brasiliense
+350180;Sp-Americo de Campos
+350190;Sp-Amparo
+350200;Sp-Analandia
+350210;Sp-Andradina
+350220;Sp-Angatuba
+350230;Sp-Anhembi
+350240;Sp-Anhumas
+350250;Sp-Aparecida
+350260;Sp-Aparecida D Oeste
+350270;Sp-Apiai
+350275;Sp-Aracariguama
+350280;Sp-Aracatuba
+350290;Sp-Aracoiaba da Serra
+350300;Sp-Aramina
+350310;Sp-Arandu
+350315;Sp-Arapei
+350320;Sp-Araraquara
+350330;Sp-Araras
+350335;Sp-Arco-Iris
+350340;Sp-Arealva
+350350;Sp-Areias
+350360;Sp-Areiopolis
+350370;Sp-Ariranha
+350380;Sp-Artur Nogueira
+350390;Sp-Aruja
+350395;Sp-Aspasia
+350400;Sp-Assis
+350410;Sp-Atibaia
+350420;Sp-Auriflama
+350430;Sp-Avai
+350440;Sp-Avanhandava
+350450;Sp-Avare
+350460;Sp-Bady Bassitt
+350470;Sp-Balbinos
+350480;Sp-Balsamo
+350490;Sp-Bananal
+350500;Sp-Barao de Antonina
+350510;Sp-Barbosa
+350520;Sp-Bariri
+350530;Sp-Barra Bonita
+350535;Sp-Barra do Chapeu
+350540;Sp-Barra do Turvo
+350550;Sp-Barretos
+350560;Sp-Barrinha
+350570;Sp-Barueri
+350580;Sp-Bastos
+350590;Sp-Batatais
+350600;Sp-Bauru
+350610;Sp-Bebedouro
+350620;Sp-Bento de Abreu
+350630;Sp-Bernardino de Campos
+350635;Sp-Bertioga
+350640;Sp-Bilac
+350650;Sp-Birigui
+350660;Sp-Biritiba-Mirim
+350670;Sp-Boa Esperanca do Sul
+350680;Sp-Bocaina
+350690;Sp-Bofete
+350700;Sp-Boituva
+350710;Sp-Bom Jesus dos Perdoes
+350715;Sp-Bom Sucesso de Itarare
+350720;Sp-Bora
+350730;Sp-Boraceia
+350740;Sp-Borborema
+350745;Sp-Borebi
+350750;Sp-Botucatu
+350760;Sp-Braganca Paulista
+350770;Sp-Brauna
+350775;Sp-Brejo Alegre
+350780;Sp-Brodosqui
+350790;Sp-Brotas
+350800;Sp-Buri
+350810;Sp-Buritama
+350820;Sp-Buritizal
+350830;Sp-Cabralia Paulista
+350840;Sp-Cabreuva
+350850;Sp-Cacapava
+350860;Sp-Cachoeira Paulista
+350870;Sp-Caconde
+350880;Sp-Cafelandia
+350890;Sp-Caiabu
+350900;Sp-Caieiras
+350910;Sp-Caiua
+350920;Sp-Cajamar
+350925;Sp-Cajati
+350930;Sp-Cajobi
+350940;Sp-Cajuru
+350945;Sp-Campina do Monte Alegre
+350950;Sp-Campinas
+350960;Sp-Campo Limpo Paulista
+350970;Sp-Campos do Jordao
+350980;Sp-Campos Novos Paulista
+350990;Sp-Cananeia
+350995;Sp-Canas
+351000;Sp-Candido Mota
+351010;Sp-Candido Rodrigues
+351015;Sp-Canitar
+351020;Sp-Capao Bonito
+351030;Sp-Capela do Alto
+351040;Sp-Capivari
+351050;Sp-Caraguatatuba
+351060;Sp-Carapicuiba
+351070;Sp-Cardoso
+351080;Sp-Casa Branca
+351090;Sp-Cassia dos Coqueiros
+351100;Sp-Castilho
+351110;Sp-Catanduva
+351120;Sp-Catigua
+351130;Sp-Cedral
+351140;Sp-Cerqueira Cesar
+351150;Sp-Cerquilho
+351160;Sp-Cesario Lange
+351170;Sp-Charqueada
+351190;Sp-Clementina
+351200;Sp-Colina
+351210;Sp-Colombia
+351220;Sp-Conchal
+351230;Sp-Conchas
+351240;Sp-Cordeiropolis
+351250;Sp-Coroados
+351260;Sp-Coronel Macedo
+351270;Sp-Corumbatai
+351280;Sp-Cosmopolis
+351290;Sp-Cosmorama
+351300;Sp-Cotia
+351310;Sp-Cravinhos
+351320;Sp-Cristais Paulista
+351330;Sp-Cruzalia
+351340;Sp-Cruzeiro
+351350;Sp-Cubatao
+351360;Sp-Cunha
+351370;Sp-Descalvado
+351380;Sp-Diadema
+351385;Sp-Dirce Reis
+351390;Sp-Divinolandia
+351400;Sp-Dobrada
+351410;Sp-Dois Corregos
+351420;Sp-Dolcinopolis
+351430;Sp-Dourado
+351440;Sp-Dracena
+351450;Sp-Duartina
+351460;Sp-Dumont
+351470;Sp-Echapora
+351480;Sp-Eldorado
+351490;Sp-Elias Fausto
+351492;Sp-Elisiario
+351495;Sp-Embauba
+351500;Sp-Embu
+351510;Sp-Embu-Guacu
+351512;Sp-Emilianopolis
+351515;Sp-Engenheiro Coelho
+351518;Sp-Espirito Santo do Pinhal
+351519;Sp-Espirito Santo do Turvo
+351520;Sp-Estrela D Oeste
+351530;Sp-Estrela do Norte
+351535;Sp-Euclides da Cunha Paulista
+351540;Sp-Fartura
+351550;Sp-Fernandopolis
+351560;Sp-Fernando Prestes
+351565;Sp-Fernao
+351570;Sp-Ferraz de Vasconcelos
+351580;Sp-Flora Rica
+351590;Sp-Floreal
+351600;Sp-Florida Paulista
+351610;Sp-Florinea
+351620;Sp-Franca
+351630;Sp-Francisco Morato
+351640;Sp-Franco da Rocha
+351650;Sp-Gabriel Monteiro
+351660;Sp-Galia
+351670;Sp-Garca
+351680;Sp-Gastao Vidigal
+351685;Sp-Gaviao Peixoto
+351690;Sp-General Salgado
+351700;Sp-Getulina
+351710;Sp-Glicerio
+351720;Sp-Guaicara
+351730;Sp-Guaimbe
+351740;Sp-Guaira
+351750;Sp-Guapiacu
+351760;Sp-Guapiara
+351770;Sp-Guara
+351780;Sp-Guaracai
+351790;Sp-Guaraci
+351800;Sp-Guarani D Oeste
+351810;Sp-Guaranta
+351820;Sp-Guararapes
+351830;Sp-Guararema
+351840;Sp-Guaratingueta
+351850;Sp-Guarei
+351860;Sp-Guariba
+351870;Sp-Guaruja
+351880;Sp-Guarulhos
+351885;Sp-Guatapara
+351890;Sp-Guzolandia
+351900;Sp-Herculandia
+351905;Sp-Holambra
+351907;Sp-Hortolandia
+351910;Sp-Iacanga
+351920;Sp-Iacri
+351925;Sp-Iaras
+351930;Sp-Ibate
+351940;Sp-Ibira
+351950;Sp-Ibirarema
+351960;Sp-Ibitinga
+351970;Sp-Ibiuna
+351980;Sp-Icem
+351990;Sp-Iepe
+352000;Sp-Igaracu do Tiete
+352010;Sp-Igarapava
+352020;Sp-Igarata
+352030;Sp-Iguape
+352040;Sp-Ilhabela
+352042;Sp-Ilha Comprida
+352044;Sp-Ilha Solteira
+352050;Sp-Indaiatuba
+352060;Sp-Indiana
+352070;Sp-Indiapora
+352080;Sp-Inubia Paulista
+352090;Sp-Ipaucu
+352100;Sp-Ipero
+352110;Sp-Ipeuna
+352115;Sp-Ipigua
+352120;Sp-Iporanga
+352130;Sp-Ipua
+352140;Sp-Iracemapolis
+352150;Sp-Irapua
+352160;Sp-Irapuru
+352170;Sp-Itabera
+352180;Sp-Itai
+352190;Sp-Itajobi
+352200;Sp-Itaju
+352210;Sp-Itanhaem
+352215;Sp-Itaoca
+352220;Sp-Itapecerica da Serra
+352230;Sp-Itapetininga
+352240;Sp-Itapeva
+352250;Sp-Itapevi
+352260;Sp-Itapira
+352265;Sp-Itapirapua Paulista
+352270;Sp-Itapolis
+352280;Sp-Itaporanga
+352290;Sp-Itapui
+352300;Sp-Itapura
+352310;Sp-Itaquaquecetuba
+352320;Sp-Itarare
+352330;Sp-Itariri
+352340;Sp-Itatiba
+352350;Sp-Itatinga
+352360;Sp-Itirapina
+352370;Sp-Itirapua
+352380;Sp-Itobi
+352390;Sp-Itu
+352400;Sp-Itupeva
+352410;Sp-Ituverava
+352420;Sp-Jaborandi
+352430;Sp-Jaboticabal
+352440;Sp-Jacarei
+352450;Sp-Jaci
+352460;Sp-Jacupiranga
+352470;Sp-Jaguariuna
+352480;Sp-Jales
+352490;Sp-Jambeiro
+352500;Sp-Jandira
+352510;Sp-Jardinopolis
+352520;Sp-Jarinu
+352530;Sp-Jau
+352540;Sp-Jeriquara
+352550;Sp-Joanopolis
+352560;Sp-Joao Ramalho
+352570;Sp-Jose Bonifacio
+352580;Sp-Julio Mesquita
+352585;Sp-Jumirim
+352590;Sp-Jundiai
+352600;Sp-Junqueiropolis
+352610;Sp-Juquia
+352620;Sp-Juquitiba
+352630;Sp-Lagoinha
+352640;Sp-Laranjal Paulista
+352650;Sp-Lavinia
+352660;Sp-Lavrinhas
+352670;Sp-Leme
+352680;Sp-Lencois Paulista
+352690;Sp-Limeira
+352700;Sp-Lindoia
+352710;Sp-Lins
+352720;Sp-Lorena
+352725;Sp-Lourdes
+352730;Sp-Louveira
+352740;Sp-Lucelia
+352750;Sp-Lucianopolis
+352760;Sp-Luis Antonio
+352770;Sp-Luiziania
+352780;Sp-Lupercio
+352790;Sp-Lutecia
+352800;Sp-Macatuba
+352810;Sp-Macaubal
+352820;Sp-Macedonia
+352830;Sp-Magda
+352840;Sp-Mairinque
+352850;Sp-Mairipora
+352860;Sp-Manduri
+352870;Sp-Maraba Paulista
+352880;Sp-Maracai
+352885;Sp-Marapoama
+352890;Sp-Mariapolis
+352900;Sp-Marilia
+352910;Sp-Marinopolis
+352920;Sp-Martinopolis
+352930;Sp-Matao
+352940;Sp-Maua
+352950;Sp-Mendonca
+352960;Sp-Meridiano
+352965;Sp-Mesopolis
+352970;Sp-Miguelopolis
+352980;Sp-Mineiros do Tiete
+352990;Sp-Miracatu
+353000;Sp-Mira Estrela
+353010;Sp-Mirandopolis
+353020;Sp-Mirante do Paranapanema
+353030;Sp-Mirassol
+353040;Sp-Mirassolandia
+353050;Sp-Mococa
+353060;Sp-Mogi das Cruzes
+353070;Sp-Mogi-Guacu
+353080;Sp-Moji-Mirim
+353090;Sp-Mombuca
+353100;Sp-Moncoes
+353110;Sp-Mongagua
+353120;Sp-Monte Alegre do Sul
+353130;Sp-Monte Alto
+353140;Sp-Monte Aprazivel
+353150;Sp-Monte Azul Paulista
+353160;Sp-Monte Castelo
+353170;Sp-Monteiro Lobato
+353180;Sp-Monte Mor
+353190;Sp-Morro Agudo
+353200;Sp-Morungaba
+353205;Sp-Motuca
+353210;Sp-Murutinga do Sul
+353215;Sp-Nantes
+353220;Sp-Narandiba
+353230;Sp-Natividade da Serra
+353240;Sp-Nazare Paulista
+353250;Sp-Neves Paulista
+353260;Sp-Nhandeara
+353270;Sp-Nipoa
+353280;Sp-Nova Alianca
+353282;Sp-Nova Campina
+353284;Sp-Nova Canaa Paulista
+353286;Sp-Nova Castilho
+353290;Sp-Nova Europa
+353300;Sp-Nova Granada
+353310;Sp-Nova Guataporanga
+353320;Sp-Nova Independencia
+353325;Sp-Novais
+353330;Sp-Nova Luzitania
+353340;Sp-Nova Odessa
+353350;Sp-Novo Horizonte
+353360;Sp-Nuporanga
+353370;Sp-Ocaucu
+353380;Sp-Oleo
+353390;Sp-Olimpia
+353400;Sp-Onda Verde
+353410;Sp-Oriente
+353420;Sp-Orindiuva
+353430;Sp-Orlandia
+353440;Sp-Osasco
+353450;Sp-Oscar Bressane
+353460;Sp-Osvaldo Cruz
+353470;Sp-Ourinhos
+353475;Sp-Ouroeste
+353480;Sp-Ouro Verde
+353490;Sp-Pacaembu
+353500;Sp-Palestina
+353510;Sp-Palmares Paulista
+353520;Sp-Palmeira D Oeste
+353530;Sp-Palmital
+353540;Sp-Panorama
+353550;Sp-Paraguacu Paulista
+353560;Sp-Paraibuna
+353570;Sp-Paraiso
+353580;Sp-Paranapanema
+353590;Sp-Paranapua
+353600;Sp-Parapua
+353610;Sp-Pardinho
+353620;Sp-Pariquera-Acu
+353625;Sp-Parisi
+353630;Sp-Patrocinio Paulista
+353640;Sp-Pauliceia
+353650;Sp-Paulinia
+353657;Sp-Paulistania
+353660;Sp-Paulo de Faria
+353670;Sp-Pederneiras
+353680;Sp-Pedra Bela
+353690;Sp-Pedranopolis
+353700;Sp-Pedregulho
+353710;Sp-Pedreira
+353715;Sp-Pedrinhas Paulista
+353720;Sp-Pedro de Toledo
+353730;Sp-Penapolis
+353740;Sp-Pereira Barreto
+353750;Sp-Pereiras
+353760;Sp-Peruibe
+353770;Sp-Piacatu
+353780;Sp-Piedade
+353790;Sp-Pilar do Sul
+353800;Sp-Pindamonhangaba
+353810;Sp-Pindorama
+353820;Sp-Pinhalzinho
+353830;Sp-Piquerobi
+353850;Sp-Piquete
+353860;Sp-Piracaia
+353870;Sp-Piracicaba
+353880;Sp-Piraju
+353890;Sp-Pirajui
+353900;Sp-Pirangi
+353910;Sp-Pirapora do Bom Jesus
+353920;Sp-Pirapozinho
+353930;Sp-Pirassununga
+353940;Sp-Piratininga
+353950;Sp-Pitangueiras
+353960;Sp-Planalto
+353970;Sp-Platina
+353980;Sp-Poa
+353990;Sp-Poloni
+354000;Sp-Pompeia
+354010;Sp-Pongai
+354020;Sp-Pontal
+354025;Sp-Pontalinda
+354030;Sp-Pontes Gestal
+354040;Sp-Populina
+354050;Sp-Porangaba
+354060;Sp-Porto Feliz
+354070;Sp-Porto Ferreira
+354075;Sp-Potim
+354080;Sp-Potirendaba
+354085;Sp-Pracinha
+354090;Sp-Pradopolis
+354100;Sp-Praia Grande
+354105;Sp-Pratania
+354110;Sp-Presidente Alves
+354120;Sp-Presidente Bernardes
+354130;Sp-Presidente Epitacio
+354140;Sp-Presidente Prudente
+354150;Sp-Presidente Venceslau
+354160;Sp-Promissao
+354165;Sp-Quadra
+354170;Sp-Quata
+354180;Sp-Queiroz
+354190;Sp-Queluz
+354200;Sp-Quintana
+354210;Sp-Rafard
+354220;Sp-Rancharia
+354230;Sp-Redencao da Serra
+354240;Sp-Regente Feijo
+354250;Sp-Reginopolis
+354260;Sp-Registro
+354270;Sp-Restinga
+354280;Sp-Ribeira
+354290;Sp-Ribeirao Bonito
+354300;Sp-Ribeirao Branco
+354310;Sp-Ribeirao Corrente
+354320;Sp-Ribeirao do Sul
+354323;Sp-Ribeirao dos Indios
+354325;Sp-Ribeirao Grande
+354330;Sp-Ribeirao Pires
+354340;Sp-Ribeirao Preto
+354350;Sp-Riversul
+354360;Sp-Rifaina
+354370;Sp-Rincao
+354380;Sp-Rinopolis
+354390;Sp-Rio Claro
+354400;Sp-Rio das Pedras
+354410;Sp-Rio Grande da Serra
+354420;Sp-Riolandia
+354425;Sp-Rosana
+354430;Sp-Roseira
+354440;Sp-Rubiacea
+354450;Sp-Rubineia
+354460;Sp-Sabino
+354470;Sp-Sagres
+354480;Sp-Sales
+354490;Sp-Sales Oliveira
+354500;Sp-Salesopolis
+354510;Sp-Salmourao
+354515;Sp-Saltinho
+354520;Sp-Salto
+354530;Sp-Salto de Pirapora
+354540;Sp-Salto Grande
+354550;Sp-Sandovalina
+354560;Sp-Santa Adelia
+354570;Sp-Santa Albertina
+354580;Sp-Santa Barbara D Oeste
+354600;Sp-Santa Branca
+354610;Sp-Santa Clara D Oeste
+354620;Sp-Santa Cruz da Conceicao
+354625;Sp-Santa Cruz da Esperanca
+354630;Sp-Santa Cruz das Palmeiras
+354640;Sp-Santa Cruz do Rio Pardo
+354650;Sp-Santa Ernestina
+354660;Sp-Santa Fe do Sul
+354670;Sp-Santa Gertrudes
+354680;Sp-Santa Isabel
+354690;Sp-Santa Lucia
+354700;Sp-Santa Maria da Serra
+354710;Sp-Santa Mercedes
+354720;Sp-Santana da Ponte Pensa
+354730;Sp-Santana de Parnaiba
+354740;Sp-Santa Rita D Oeste
+354750;Sp-Santa Rita do Passa Quatro
+354760;Sp-Santa Rosa de Viterbo
+354765;Sp-Santa Salete
+354770;Sp-Santo Anastacio
+354780;Sp-Santo Andre
+354790;Sp-Santo Antonio da Alegria
+354800;Sp-Santo Antonio de Posse
+354805;Sp-Santo Antonio do Aracangua
+354810;Sp-Santo Antonio do Jardim
+354820;Sp-Santo Antonio do Pinhal
+354830;Sp-Santo Expedito
+354840;Sp-Santopolis do Aguapei
+354850;Sp-Santos
+354860;Sp-Sao Bento do Sapucai
+354870;Sp-Sao Bernardo do Campo
+354880;Sp-Sao Caetano do Sul
+354890;Sp-Sao Carlos
+354900;Sp-Sao Francisco
+354910;Sp-Sao Joao da Boa Vista
+354920;Sp-Sao Joao das Duas Pontes
+354925;Sp-Sao Joao de Iracema
+354930;Sp-Sao Joao do Pau D Alho
+354940;Sp-Sao Joaquim da Barra
+354950;Sp-Sao Jose da Bela Vista
+354960;Sp-Sao Jose do Barreiro
+354970;Sp-Sao Jose do Rio Pardo
+354980;Sp-Sao Jose do Rio Preto
+354990;Sp-Sao Jose dos Campos
+354995;Sp-Sao Lourenco da Serra
+355000;Sp-Sao Luis do Paraitinga
+355010;Sp-Sao Manuel
+355020;Sp-Sao Miguel Arcanjo
+355030;Sp-Sao Paulo
+355040;Sp-Sao Pedro
+355050;Sp-Sao Pedro do Turvo
+355060;Sp-Sao Roque
+355070;Sp-Sao Sebastiao
+355080;Sp-Sao Sebastiao da Grama
+355090;Sp-Sao Simao
+355100;Sp-Sao Vicente
+355110;Sp-Sarapui
+355120;Sp-Sarutaia
+355130;Sp-Sebastianopolis do Sul
+355140;Sp-Serra Azul
+355150;Sp-Serrana
+355160;Sp-Serra Negra
+355170;Sp-Sertaozinho
+355180;Sp-Sete Barras
+355190;Sp-Severinia
+355200;Sp-Silveiras
+355210;Sp-Socorro
+355220;Sp-Sorocaba
+355230;Sp-Sud Mennucci
+355240;Sp-Sumare
+355250;Sp-Suzano
+355255;Sp-Suzanapolis
+355260;Sp-Tabapua
+355270;Sp-Tabatinga
+355280;Sp-Taboao da Serra
+355290;Sp-Taciba
+355300;Sp-Taguai
+355310;Sp-Taiacu
+355320;Sp-Taiuva
+355330;Sp-Tambau
+355340;Sp-Tanabi
+355350;Sp-Tapirai
+355360;Sp-Tapiratiba
+355365;Sp-Taquaral
+355370;Sp-Taquaritinga
+355380;Sp-Taquarituba
+355385;Sp-Taquarivai
+355390;Sp-Tarabai
+355395;Sp-Taruma
+355400;Sp-Tatui
+355410;Sp-Taubate
+355420;Sp-Tejupa
+355430;Sp-Teodoro Sampaio
+355440;Sp-Terra Roxa
+355450;Sp-Tiete
+355460;Sp-Timburi
+355465;Sp-Torre de Pedra
+355470;Sp-Torrinha
+355475;Sp-Trabiju
+355480;Sp-Tremembe
+355490;Sp-Tres Fronteiras
+355495;Sp-Tuiuti
+355500;Sp-Tupa
+355510;Sp-Tupi Paulista
+355520;Sp-Turiuba
+355530;Sp-Turmalina
+355535;Sp-Ubarana
+355540;Sp-Ubatuba
+355550;Sp-Ubirajara
+355560;Sp-Uchoa
+355570;Sp-Uniao Paulista
+355580;Sp-Urania
+355590;Sp-Uru
+355600;Sp-Urupes
+355610;Sp-Valentim Gentil
+355620;Sp-Valinhos
+355630;Sp-Valparaiso
+355635;Sp-Vargem
+355640;Sp-Vargem Grande do Sul
+355645;Sp-Vargem Grande Paulista
+355650;Sp-Varzea Paulista
+355660;Sp-Vera Cruz
+355670;Sp-Vinhedo
+355680;Sp-Viradouro
+355690;Sp-Vista Alegre do Alto
+355695;Sp-Vitoria Brasil
+355700;Sp-Votorantim
+355710;Sp-Votuporanga
+355715;Sp-Zacarias
+355720;Sp-Chavantes
+355730;Sp-Estiva Gerbi
+359999;Sp-Ignorado
+410010;Pr-Abatia
+410020;Pr-Adrianopolis
+410030;Pr-Agudos do Sul
+410040;Pr-Almirante Tamandare
+410045;Pr-Altamira do Parana
+410050;Pr-Altonia
+410060;Pr-Alto Parana
+410070;Pr-Alto Piquiri
+410080;Pr-Alvorada do Sul
+410090;Pr-Amapora
+410100;Pr-Ampere
+410105;Pr-Anahy
+410110;Pr-Andira
+410115;Pr-Angulo
+410120;Pr-Antonina
+410130;Pr-Antonio Olinto
+410140;Pr-Apucarana
+410150;Pr-Arapongas
+410160;Pr-Arapoti
+410165;Pr-Arapua
+410170;Pr-Araruna
+410180;Pr-Araucaria
+410185;Pr-Ariranha do Ivai
+410190;Pr-Assai
+410200;Pr-Assis Chateaubriand
+410210;Pr-Astorga
+410220;Pr-Atalaia
+410230;Pr-Balsa Nova
+410240;Pr-Bandeirantes
+410250;Pr-Barbosa Ferraz
+410260;Pr-Barracao
+410270;Pr-Barra do Jacare
+410275;Pr-Bela Vista do Caroba
+410280;Pr-Bela Vista do Paraiso
+410290;Pr-Bituruna
+410300;Pr-Boa Esperanca
+410302;Pr-Boa Esperanca do Iguacu
+410304;Pr-Boa Ventura de Sao Roque
+410305;Pr-Boa Vista da Aparecida
+410310;Pr-Bocaiuva do Sul
+410315;Pr-Bom Jesus do Sul
+410320;Pr-Bom Sucesso
+410322;Pr-Bom Sucesso do Sul
+410330;Pr-Borrazopolis
+410335;Pr-Braganey
+410337;Pr-Brasilandia do Sul
+410340;Pr-Cafeara
+410345;Pr-Cafelandia
+410347;Pr-Cafezal do Sul
+410350;Pr-California
+410360;Pr-Cambara
+410370;Pr-Cambe
+410380;Pr-Cambira
+410390;Pr-Campina da Lagoa
+410395;Pr-Campina do Simao
+410400;Pr-Campina Grande do Sul
+410405;Pr-Campo Bonito
+410410;Pr-Campo do Tenente
+410420;Pr-Campo Largo
+410425;Pr-Campo Magro
+410430;Pr-Campo Mourao
+410440;Pr-Candido de Abreu
+410442;Pr-Candoi
+410445;Pr-Cantagalo
+410450;Pr-Capanema
+410460;Pr-Capitao Leonidas Marques
+410465;Pr-Carambei
+410470;Pr-Carlopolis
+410480;Pr-Cascavel
+410490;Pr-Castro
+410500;Pr-Catanduvas
+410510;Pr-Centenario do Sul
+410520;Pr-Cerro Azul
+410530;Pr-Ceu Azul
+410540;Pr-Chopinzinho
+410550;Pr-Cianorte
+410560;Pr-Cidade Gaucha
+410570;Pr-Clevelandia
+410580;Pr-Colombo
+410590;Pr-Colorado
+410600;Pr-Congonhinhas
+410610;Pr-Conselheiro Mairinck
+410620;Pr-Contenda
+410630;Pr-Corbelia
+410640;Pr-Cornelio Procopio
+410645;Pr-Coronel Domingos Soares
+410650;Pr-Coronel Vivida
+410655;Pr-Corumbatai do Sul
+410657;Pr-Cruzeiro do Iguacu
+410660;Pr-Cruzeiro do Oeste
+410670;Pr-Cruzeiro do Sul
+410680;Pr-Cruz Machado
+410685;Pr-Cruzmaltina
+410690;Pr-Curitiba
+410700;Pr-Curiuva
+410710;Pr-Diamante do Norte
+410712;Pr-Diamante do Sul
+410715;Pr-Diamante D Oeste
+410720;Pr-Dois Vizinhos
+410725;Pr-Douradina
+410730;Pr-Doutor Camargo
+410740;Pr-Eneas Marques
+410750;Pr-Engenheiro Beltrao
+410752;Pr-Esperanca Nova
+410753;Pr-Entre Rios do Oeste
+410754;Pr-Espigao Alto do Iguacu
+410755;Pr-Farol
+410760;Pr-Faxinal
+410765;Pr-Fazenda Rio Grande
+410770;Pr-Fenix
+410773;Pr-Fernandes Pinheiro
+410775;Pr-Figueira
+410780;Pr-Florai
+410785;Pr-Flor da Serra do Sul
+410790;Pr-Floresta
+410800;Pr-Florestopolis
+410810;Pr-Florida
+410820;Pr-Formosa do Oeste
+410830;Pr-Foz do Iguacu
+410832;Pr-Francisco Alves
+410840;Pr-Francisco Beltrao
+410845;Pr-Foz do Jordao
+410850;Pr-General Carneiro
+410855;Pr-Godoy Moreira
+410860;Pr-Goioere
+410865;Pr-Goioxim
+410870;Pr-Grandes Rios
+410880;Pr-Guaira
+410890;Pr-Guairaca
+410895;Pr-Guamiranga
+410900;Pr-Guapirama
+410910;Pr-Guaporema
+410920;Pr-Guaraci
+410930;Pr-Guaraniacu
+410940;Pr-Guarapuava
+410950;Pr-Guaraquecaba
+410960;Pr-Guaratuba
+410965;Pr-Honorio Serpa
+410970;Pr-Ibaiti
+410975;Pr-Ibema
+410980;Pr-Ibipora
+410990;Pr-Icaraima
+411000;Pr-Iguaracu
+411005;Pr-Iguatu
+411007;Pr-Imbau
+411010;Pr-Imbituva
+411020;Pr-Inacio Martins
+411030;Pr-Inaja
+411040;Pr-Indianopolis
+411050;Pr-Ipiranga
+411060;Pr-Ipora
+411065;Pr-Iracema do Oeste
+411070;Pr-Irati
+411080;Pr-Iretama
+411090;Pr-Itaguaje
+411095;Pr-Itaipulandia
+411100;Pr-Itambaraca
+411110;Pr-Itambe
+411120;Pr-Itapejara D Oeste
+411125;Pr-Itaperucu
+411130;Pr-Itauna do Sul
+411140;Pr-Ivai
+411150;Pr-Ivaipora
+411155;Pr-Ivate
+411160;Pr-Ivatuba
+411170;Pr-Jaboti
+411180;Pr-Jacarezinho
+411190;Pr-Jaguapita
+411200;Pr-Jaguariaiva
+411210;Pr-Jandaia do Sul
+411220;Pr-Janiopolis
+411230;Pr-Japira
+411240;Pr-Japura
+411250;Pr-Jardim Alegre
+411260;Pr-Jardim Olinda
+411270;Pr-Jataizinho
+411275;Pr-Jesuitas
+411280;Pr-Joaquim Tavora
+411290;Pr-Jundiai do Sul
+411295;Pr-Juranda
+411300;Pr-Jussara
+411310;Pr-Kalore
+411320;Pr-Lapa
+411325;Pr-Laranjal
+411330;Pr-Laranjeiras do Sul
+411340;Pr-Leopolis
+411342;Pr-Lidianopolis
+411345;Pr-Lindoeste
+411350;Pr-Loanda
+411360;Pr-Lobato
+411370;Pr-Londrina
+411373;Pr-Luiziana
+411375;Pr-Lunardelli
+411380;Pr-Lupionopolis
+411390;Pr-Mallet
+411400;Pr-Mambore
+411410;Pr-Mandaguacu
+411420;Pr-Mandaguari
+411430;Pr-Mandirituba
+411435;Pr-Manfrinopolis
+411440;Pr-Mangueirinha
+411450;Pr-Manoel Ribas
+411460;Pr-Marechal Candido Rondon
+411470;Pr-Maria Helena
+411480;Pr-Marialva
+411490;Pr-Marilandia do Sul
+411500;Pr-Marilena
+411510;Pr-Mariluz
+411520;Pr-Maringa
+411530;Pr-Mariopolis
+411535;Pr-Maripa
+411540;Pr-Marmeleiro
+411545;Pr-Marquinho
+411550;Pr-Marumbi
+411560;Pr-Matelandia
+411570;Pr-Matinhos
+411573;Pr-Mato Rico
+411575;Pr-Maua da Serra
+411580;Pr-Medianeira
+411585;Pr-Mercedes
+411590;Pr-Mirador
+411600;Pr-Miraselva
+411605;Pr-Missal
+411610;Pr-Moreira Sales
+411620;Pr-Morretes
+411630;Pr-Munhoz de Melo
+411640;Pr-Nossa Senhora das Gracas
+411650;Pr-Nova Alianca do Ivai
+411660;Pr-Nova America da Colina
+411670;Pr-Nova Aurora
+411680;Pr-Nova Cantu
+411690;Pr-Nova Esperanca
+411695;Pr-Nova Esperanca do Sudoeste
+411700;Pr-Nova Fatima
+411705;Pr-Nova Laranjeiras
+411710;Pr-Nova Londrina
+411720;Pr-Nova Olimpia
+411721;Pr-Nova Santa Barbara
+411722;Pr-Nova Santa Rosa
+411725;Pr-Nova Prata do Iguacu
+411727;Pr-Nova Tebas
+411729;Pr-Novo Itacolomi
+411730;Pr-Ortigueira
+411740;Pr-Ourizona
+411745;Pr-Ouro Verde do Oeste
+411750;Pr-Paicandu
+411760;Pr-Palmas
+411770;Pr-Palmeira
+411780;Pr-Palmital
+411790;Pr-Palotina
+411800;Pr-Paraiso do Norte
+411810;Pr-Paranacity
+411820;Pr-Paranagua
+411830;Pr-Paranapoema
+411840;Pr-Paranavai
+411845;Pr-Pato Bragado
+411850;Pr-Pato Branco
+411860;Pr-Paula Freitas
+411870;Pr-Paulo Frontin
+411880;Pr-Peabiru
+411885;Pr-Perobal
+411890;Pr-Perola
+411900;Pr-Perola D Oeste
+411910;Pr-Pien
+411915;Pr-Pinhais
+411920;Pr-Pinhalao
+411925;Pr-Pinhal de Sao Bento
+411930;Pr-Pinhao
+411940;Pr-Pirai do Sul
+411950;Pr-Piraquara
+411960;Pr-Pitanga
+411965;Pr-Pitangueiras
+411970;Pr-Planaltina do Parana
+411980;Pr-Planalto
+411990;Pr-Ponta Grossa
+411995;Pr-Pontal do Parana
+412000;Pr-Porecatu
+412010;Pr-Porto Amazonas
+412015;Pr-Porto Barreiro
+412020;Pr-Porto Rico
+412030;Pr-Porto Vitoria
+412033;Pr-Prado Ferreira
+412035;Pr-Pranchita
+412040;Pr-Presidente Castelo Branco
+412050;Pr-Primeiro de Maio
+412060;Pr-Prudentopolis
+412065;Pr-Quarto Centenario
+412070;Pr-Quatigua
+412080;Pr-Quatro Barras
+412085;Pr-Quatro Pontes
+412090;Pr-Quedas do Iguacu
+412100;Pr-Querencia do Norte
+412110;Pr-Quinta do Sol
+412120;Pr-Quitandinha
+412125;Pr-Ramilandia
+412130;Pr-Rancho Alegre
+412135;Pr-Rancho Alegre D Oeste
+412140;Pr-Realeza
+412150;Pr-Reboucas
+412160;Pr-Renascenca
+412170;Pr-Reserva
+412175;Pr-Reserva do Iguacu
+412180;Pr-Ribeirao Claro
+412190;Pr-Ribeirao do Pinhal
+412200;Pr-Rio Azul
+412210;Pr-Rio Bom
+412215;Pr-Rio Bonito do Iguacu
+412217;Pr-Rio Branco do Ivai
+412220;Pr-Rio Branco do Sul
+412230;Pr-Rio Negro
+412240;Pr-Rolandia
+412250;Pr-Roncador
+412260;Pr-Rondon
+412265;Pr-Rosario do Ivai
+412270;Pr-Sabaudia
+412280;Pr-Salgado Filho
+412290;Pr-Salto do Itarare
+412300;Pr-Salto do Lontra
+412310;Pr-Santa Amelia
+412320;Pr-Santa Cecilia do Pavao
+412330;Pr-Santa Cruz de Monte Castelo
+412340;Pr-Santa Fe
+412350;Pr-Santa Helena
+412360;Pr-Santa Ines
+412370;Pr-Santa Isabel do Ivai
+412380;Pr-Santa Izabel do Oeste
+412382;Pr-Santa Lucia
+412385;Pr-Santa Maria do Oeste
+412390;Pr-Santa Mariana
+412395;Pr-Santa Monica
+412400;Pr-Santana do Itarare
+412402;Pr-Santa Tereza do Oeste
+412405;Pr-Santa Terezinha de Itaipu
+412410;Pr-Santo Antonio da Platina
+412420;Pr-Santo Antonio do Caiua
+412430;Pr-Santo Antonio do Paraiso
+412440;Pr-Santo Antonio do Sudoeste
+412450;Pr-Santo Inacio
+412460;Pr-Sao Carlos do Ivai
+412470;Pr-Sao Jeronimo da Serra
+412480;Pr-Sao Joao
+412490;Pr-Sao Joao do Caiua
+412500;Pr-Sao Joao do Ivai
+412510;Pr-Sao Joao do Triunfo
+412520;Pr-Sao Jorge D Oeste
+412530;Pr-Sao Jorge do Ivai
+412535;Pr-Sao Jorge do Patrocinio
+412540;Pr-Sao Jose da Boa Vista
+412545;Pr-Sao Jose das Palmeiras
+412550;Pr-Sao Jose dos Pinhais
+412555;Pr-Sao Manoel do Parana
+412560;Pr-Sao Mateus do Sul
+412570;Pr-Sao Miguel do Iguacu
+412575;Pr-Sao Pedro do Iguacu
+412580;Pr-Sao Pedro do Ivai
+412590;Pr-Sao Pedro do Parana
+412600;Pr-Sao Sebastiao da Amoreira
+412610;Pr-Sao Tome
+412620;Pr-Sapopema
+412625;Pr-Sarandi
+412627;Pr-Saudade do Iguacu
+412630;Pr-Senges
+412635;Pr-Serranopolis do Iguacu
+412640;Pr-Sertaneja
+412650;Pr-Sertanopolis
+412660;Pr-Siqueira Campos
+412665;Pr-Sulina
+412667;Pr-Tamarana
+412670;Pr-Tamboara
+412680;Pr-Tapejara
+412690;Pr-Tapira
+412700;Pr-Teixeira Soares
+412710;Pr-Telemaco Borba
+412720;Pr-Terra Boa
+412730;Pr-Terra Rica
+412740;Pr-Terra Roxa
+412750;Pr-Tibagi
+412760;Pr-Tijucas do Sul
+412770;Pr-Toledo
+412780;Pr-Tomazina
+412785;Pr-Tres Barras do Parana
+412788;Pr-Tunas do Parana
+412790;Pr-Tuneiras do Oeste
+412795;Pr-Tupassi
+412796;Pr-Turvo
+412800;Pr-Ubirata
+412810;Pr-Umuarama
+412820;Pr-Uniao da Vitoria
+412830;Pr-Uniflor
+412840;Pr-Urai
+412850;Pr-Wenceslau Braz
+412853;Pr-Ventania
+412855;Pr-Vera Cruz do Oeste
+412860;Pr-Vere
+412862;Pr-Alto Paraiso
+412863;Pr-Doutor Ulysses
+412865;Pr-Virmond
+412870;Pr-Vitorino
+412880;Pr-Xambre
+419999;Pr-Ignorado
+420005;Sc-Abdon Batista
+420010;Sc-Abelardo Luz
+420020;Sc-Agrolandia
+420030;Sc-Agronomica
+420040;Sc-Agua Doce
+420050;Sc-Aguas de Chapeco
+420055;Sc-Aguas Frias
+420060;Sc-Aguas Mornas
+420070;Sc-Alfredo Wagner
+420075;Sc-Alto Bela Vista
+420080;Sc-Anchieta
+420090;Sc-Angelina
+420100;Sc-Anita Garibaldi
+420110;Sc-Anitapolis
+420120;Sc-Antonio Carlos
+420125;Sc-Apiuna
+420127;Sc-Arabuta
+420130;Sc-Araquari
+420140;Sc-Ararangua
+420150;Sc-Armazem
+420160;Sc-Arroio Trinta
+420165;Sc-Arvoredo
+420170;Sc-Ascurra
+420180;Sc-Atalanta
+420190;Sc-Aurora
+420195;Sc-Balneario Arroio da Silva
+420200;Sc-Balneario Camboriu
+420205;Sc-Balneario Barra do Sul
+420207;Sc-Balneario Gaivota
+420208;Sc-Bandeirante
+420209;Sc-Barra Bonita
+420210;Sc-Barra Velha
+420213;Sc-Bela Vista do Toldo
+420215;Sc-Belmonte
+420220;Sc-Benedito Novo
+420230;Sc-Biguacu
+420240;Sc-Blumenau
+420243;Sc-Bocaina do Sul
+420245;Sc-Bombinhas
+420250;Sc-Bom Jardim da Serra
+420253;Sc-Bom Jesus
+420257;Sc-Bom Jesus do Oeste
+420260;Sc-Bom Retiro
+420270;Sc-Botuvera
+420280;Sc-Braco do Norte
+420285;Sc-Braco do Trombudo
+420287;Sc-Brunopolis
+420290;Sc-Brusque
+420300;Sc-Cacador
+420310;Sc-Caibi
+420315;Sc-Calmon
+420320;Sc-Camboriu
+420325;Sc-Capao Alto
+420330;Sc-Campo Alegre
+420340;Sc-Campo Belo do Sul
+420350;Sc-Campo Ere
+420360;Sc-Campos Novos
+420370;Sc-Canelinha
+420380;Sc-Canoinhas
+420390;Sc-Capinzal
+420395;Sc-Capivari de Baixo
+420400;Sc-Catanduvas
+420410;Sc-Caxambu do Sul
+420415;Sc-Celso Ramos
+420417;Sc-Cerro Negro
+420419;Sc-Chapadao do Lageado
+420420;Sc-Chapeco
+420425;Sc-Cocal do Sul
+420430;Sc-Concordia
+420435;Sc-Cordilheira Alta
+420440;Sc-Coronel Freitas
+420445;Sc-Coronel Martins
+420450;Sc-Corupa
+420455;Sc-Correia Pinto
+420460;Sc-Criciuma
+420470;Sc-Cunha Pora
+420475;Sc-Cunhatai
+420480;Sc-Curitibanos
+420490;Sc-Descanso
+420500;Sc-Dionisio Cerqueira
+420510;Sc-Dona Emma
+420515;Sc-Doutor Pedrinho
+420517;Sc-Entre Rios
+420519;Sc-Ermo
+420520;Sc-Erval Velho
+420530;Sc-Faxinal dos Guedes
+420535;Sc-Flor do Sertao
+420540;Sc-Florianopolis
+420543;Sc-Formosa do Sul
+420545;Sc-Forquilhinha
+420550;Sc-Fraiburgo
+420555;Sc-Frei Rogerio
+420560;Sc-Galvao
+420570;Sc-Garopaba
+420580;Sc-Garuva
+420590;Sc-Gaspar
+420600;Sc-Governador Celso Ramos
+420610;Sc-Grao Para
+420620;Sc-Gravatal
+420630;Sc-Guabiruba
+420640;Sc-Guaraciaba
+420650;Sc-Guaramirim
+420660;Sc-Guaruja do Sul
+420665;Sc-Guatambu
+420670;Sc-Herval D Oeste
+420675;Sc-Ibiam
+420680;Sc-Ibicare
+420690;Sc-Ibirama
+420700;Sc-Icara
+420710;Sc-Ilhota
+420720;Sc-Imarui
+420730;Sc-Imbituba
+420740;Sc-Imbuia
+420750;Sc-Indaial
+420757;Sc-Iomere
+420760;Sc-Ipira
+420765;Sc-Ipora do Oeste
+420768;Sc-Ipuacu
+420770;Sc-Ipumirim
+420775;Sc-Iraceminha
+420780;Sc-Irani
+420785;Sc-Irati
+420790;Sc-Irineopolis
+420800;Sc-Ita
+420810;Sc-Itaiopolis
+420820;Sc-Itajai
+420830;Sc-Itapema
+420840;Sc-Itapiranga
+420845;Sc-Itapoa
+420850;Sc-Ituporanga
+420860;Sc-Jabora
+420870;Sc-Jacinto Machado
+420880;Sc-Jaguaruna
+420890;Sc-Jaragua do Sul
+420895;Sc-Jardinopolis
+420900;Sc-Joacaba
+420910;Sc-Joinville
+420915;Sc-Jose Boiteux
+420917;Sc-Jupia
+420920;Sc-Lacerdopolis
+420930;Sc-Lages
+420940;Sc-Laguna
+420945;Sc-Lajeado Grande
+420950;Sc-Laurentino
+420960;Sc-Lauro Muller
+420970;Sc-Lebon Regis
+420980;Sc-Leoberto Leal
+420985;Sc-Lindoia do Sul
+420990;Sc-Lontras
+421000;Sc-Luiz Alves
+421003;Sc-Luzerna
+421005;Sc-Macieira
+421010;Sc-Mafra
+421020;Sc-Major Gercino
+421030;Sc-Major Vieira
+421040;Sc-Maracaja
+421050;Sc-Maravilha
+421055;Sc-Marema
+421060;Sc-Massaranduba
+421070;Sc-Matos Costa
+421080;Sc-Meleiro
+421085;Sc-Mirim Doce
+421090;Sc-Modelo
+421100;Sc-Mondai
+421105;Sc-Monte Carlo
+421110;Sc-Monte Castelo
+421120;Sc-Morro da Fumaca
+421125;Sc-Morro Grande
+421130;Sc-Navegantes
+421140;Sc-Nova Erechim
+421145;Sc-Nova Itaberaba
+421150;Sc-Nova Trento
+421160;Sc-Nova Veneza
+421165;Sc-Novo Horizonte
+421170;Sc-Orleans
+421175;Sc-Otacilio Costa
+421180;Sc-Ouro
+421185;Sc-Ouro Verde
+421187;Sc-Paial
+421189;Sc-Painel
+421190;Sc-Palhoca
+421200;Sc-Palma Sola
+421205;Sc-Palmeira
+421210;Sc-Palmitos
+421220;Sc-Papanduva
+421223;Sc-Paraiso
+421225;Sc-Passo de Torres
+421227;Sc-Passos Maia
+421230;Sc-Paulo Lopes
+421240;Sc-Pedras Grandes
+421250;Sc-Penha
+421260;Sc-Peritiba
+421265;Sc-Pescaria Brava
+421270;Sc-Petrolandia
+421280;Sc-Picarras
+421290;Sc-Pinhalzinho
+421300;Sc-Pinheiro Preto
+421310;Sc-Piratuba
+421315;Sc-Planalto Alegre
+421320;Sc-Pomerode
+421330;Sc-Ponte Alta
+421335;Sc-Ponte Alta do Norte
+421340;Sc-Ponte Serrada
+421350;Sc-Porto Belo
+421360;Sc-Porto Uniao
+421370;Sc-Pouso Redondo
+421380;Sc-Praia Grande
+421390;Sc-Presidente Castelo Branco
+421400;Sc-Presidente Getulio
+421410;Sc-Presidente Nereu
+421415;Sc-Princesa
+421420;Sc-Quilombo
+421430;Sc-Rancho Queimado
+421440;Sc-Rio das Antas
+421450;Sc-Rio do Campo
+421460;Sc-Rio do Oeste
+421470;Sc-Rio dos Cedros
+421480;Sc-Rio do Sul
+421490;Sc-Rio Fortuna
+421500;Sc-Rio Negrinho
+421505;Sc-Rio Rufino
+421507;Sc-Riqueza
+421510;Sc-Rodeio
+421520;Sc-Romelandia
+421530;Sc-Salete
+421535;Sc-Saltinho
+421540;Sc-Salto Veloso
+421545;Sc-Sangao
+421550;Sc-Santa Cecilia
+421555;Sc-Santa Helena
+421560;Sc-Santa Rosa de Lima
+421565;Sc-Santa Rosa do Sul
+421567;Sc-Santa Terezinha
+421568;Sc-Santa Terezinha do Progresso
+421569;Sc-Santiago do Sul
+421570;Sc-Santo Amaro da Imperatriz
+421575;Sc-Sao Bernardino
+421580;Sc-Sao Bento do Sul
+421590;Sc-Sao Bonifacio
+421600;Sc-Sao Carlos
+421605;Sc-Sao Cristovao do Sul
+421610;Sc-Sao Domingos
+421620;Sc-Sao Francisco do Sul
+421625;Sc-Sao Joao do Oeste
+421630;Sc-Sao Joao Batista
+421635;Sc-Sao Joao do Itaperiu
+421640;Sc-Sao Joao do Sul
+421650;Sc-Sao Joaquim
+421660;Sc-Sao Jose
+421670;Sc-Sao Jose do Cedro
+421680;Sc-Sao Jose do Cerrito
+421690;Sc-Sao Lourenco do Oeste
+421700;Sc-Sao Ludgero
+421710;Sc-Sao Martinho
+421715;Sc-Sao Miguel da Boa Vista
+421720;Sc-Sao Miguel D Oeste
+421725;Sc-Sao Pedro de Alcantara
+421730;Sc-Saudades
+421740;Sc-Schroeder
+421750;Sc-Seara
+421755;Sc-Serra Alta
+421760;Sc-Sideropolis
+421770;Sc-Sombrio
+421775;Sc-Sul Brasil
+421780;Sc-Taio
+421790;Sc-Tangara
+421795;Sc-Tigrinhos
+421800;Sc-Tijucas
+421810;Sc-Timbe do Sul
+421820;Sc-Timbo
+421825;Sc-Timbo Grande
+421830;Sc-Tres Barras
+421835;Sc-Treviso
+421840;Sc-Treze de Maio
+421850;Sc-Treze Tilias
+421860;Sc-Trombudo Central
+421870;Sc-Tubarao
+421875;Sc-Tunapolis
+421880;Sc-Turvo
+421885;Sc-Uniao do Oeste
+421890;Sc-Urubici
+421895;Sc-Urupema
+421900;Sc-Urussanga
+421910;Sc-Vargeao
+421915;Sc-Vargem
+421917;Sc-Vargem Bonita
+421920;Sc-Vidal Ramos
+421930;Sc-Videira
+421935;Sc-Vitor Meireles
+421940;Sc-Witmarsum
+421950;Sc-Xanxere
+421960;Sc-Xavantina
+421970;Sc-Xaxim
+421985;Sc-Zortea
+422000;Sc-Balneario Rincao
+429999;Sc-Ignorado
+430003;Rs-Acegua
+430005;Rs-Agua Santa
+430010;Rs-Agudo
+430020;Rs-Ajuricaba
+430030;Rs-Alecrim
+430040;Rs-Alegrete
+430045;Rs-Alegria
+430047;Rs-Almirante Tamandare do Sul
+430050;Rs-Alpestre
+430055;Rs-Alto Alegre
+430057;Rs-Alto Feliz
+430060;Rs-Alvorada
+430063;Rs-Amaral Ferrador
+430064;Rs-Ametista do Sul
+430066;Rs-Andre da Rocha
+430070;Rs-Anta Gorda
+430080;Rs-Antonio Prado
+430085;Rs-Arambare
+430087;Rs-Ararica
+430090;Rs-Aratiba
+430100;Rs-Arroio do Meio
+430105;Rs-Arroio do Sal
+430107;Rs-Arroio do Padre
+430110;Rs-Arroio dos Ratos
+430120;Rs-Arroio do Tigre
+430130;Rs-Arroio Grande
+430140;Rs-Arvorezinha
+430150;Rs-Augusto Pestana
+430155;Rs-Aurea
+430160;Rs-Bage
+430163;Rs-Balneario Pinhal
+430165;Rs-Barao
+430170;Rs-Barao de Cotegipe
+430175;Rs-Barao do Triunfo
+430180;Rs-Barracao
+430185;Rs-Barra do Guarita
+430187;Rs-Barra do Quarai
+430190;Rs-Barra do Ribeiro
+430192;Rs-Barra do Rio Azul
+430195;Rs-Barra Funda
+430200;Rs-Barros Cassal
+430205;Rs-Benjamin Constant do Sul
+430210;Rs-Bento Goncalves
+430215;Rs-Boa Vista das Missoes
+430220;Rs-Boa Vista do Burica
+430222;Rs-Boa Vista do Cadeado
+430223;Rs-Boa Vista do Incra
+430225;Rs-Boa Vista do Sul
+430230;Rs-Bom Jesus
+430235;Rs-Bom Principio
+430237;Rs-Bom Progresso
+430240;Rs-Bom Retiro do Sul
+430245;Rs-Boqueirao do Leao
+430250;Rs-Bossoroca
+430258;Rs-Bozano
+430260;Rs-Braga
+430265;Rs-Brochier
+430270;Rs-Butia
+430280;Rs-Cacapava do Sul
+430290;Rs-Cacequi
+430300;Rs-Cachoeira do Sul
+430310;Rs-Cachoeirinha
+430320;Rs-Cacique Doble
+430330;Rs-Caibate
+430340;Rs-Caicara
+430350;Rs-Camaqua
+430355;Rs-Camargo
+430360;Rs-Cambara do Sul
+430367;Rs-Campestre da Serra
+430370;Rs-Campina das Missoes
+430380;Rs-Campinas do Sul
+430390;Rs-Campo Bom
+430400;Rs-Campo Novo
+430410;Rs-Campos Borges
+430420;Rs-Candelaria
+430430;Rs-Candido Godoi
+430435;Rs-Candiota
+430440;Rs-Canela
+430450;Rs-Cangucu
+430460;Rs-Canoas
+430461;Rs-Canudos do Vale
+430462;Rs-Capao Bonito do Sul
+430463;Rs-Capao da Canoa
+430465;Rs-Capao do Cipo
+430466;Rs-Capao do Leao
+430467;Rs-Capivari do Sul
+430468;Rs-Capela de Santana
+430469;Rs-Capitao
+430470;Rs-Carazinho
+430471;Rs-Caraa
+430480;Rs-Carlos Barbosa
+430485;Rs-Carlos Gomes
+430490;Rs-Casca
+430495;Rs-Caseiros
+430500;Rs-Catuipe
+430510;Rs-Caxias do Sul
+430511;Rs-Centenario
+430512;Rs-Cerrito
+430513;Rs-Cerro Branco
+430515;Rs-Cerro Grande
+430517;Rs-Cerro Grande do Sul
+430520;Rs-Cerro Largo
+430530;Rs-Chapada
+430535;Rs-Charqueadas
+430537;Rs-Charrua
+430540;Rs-Chiapeta
+430543;Rs-Chui
+430544;Rs-Chuvisca
+430545;Rs-Cidreira
+430550;Rs-Ciriaco
+430558;Rs-Colinas
+430560;Rs-Colorado
+430570;Rs-Condor
+430580;Rs-Constantina
+430583;Rs-Coqueiro Baixo
+430585;Rs-Coqueiros do Sul
+430587;Rs-Coronel Barros
+430590;Rs-Coronel Bicaco
+430593;Rs-Coronel Pilar
+430595;Rs-Cotipora
+430597;Rs-Coxilha
+430600;Rs-Crissiumal
+430605;Rs-Cristal
+430607;Rs-Cristal do Sul
+430610;Rs-Cruz Alta
+430613;Rs-Cruzaltense
+430620;Rs-Cruzeiro do Sul
+430630;Rs-David Canabarro
+430632;Rs-Derrubadas
+430635;Rs-Dezesseis de Novembro
+430637;Rs-Dilermando de Aguiar
+430640;Rs-Dois Irmaos
+430642;Rs-Dois Irmaos das Missoes
+430645;Rs-Dois Lajeados
+430650;Rs-Dom Feliciano
+430655;Rs-Dom Pedro de Alcantara
+430660;Rs-Dom Pedrito
+430670;Rs-Dona Francisca
+430673;Rs-Doutor Mauricio Cardoso
+430675;Rs-Doutor Ricardo
+430676;Rs-Eldorado do Sul
+430680;Rs-Encantado
+430690;Rs-Encruzilhada do Sul
+430692;Rs-Engenho Velho
+430693;Rs-Entre-Ijuis
+430695;Rs-Entre Rios do Sul
+430697;Rs-Erebango
+430700;Rs-Erechim
+430705;Rs-Ernestina
+430710;Rs-Herval
+430720;Rs-Erval Grande
+430730;Rs-Erval Seco
+430740;Rs-Esmeralda
+430745;Rs-Esperanca do Sul
+430750;Rs-Espumoso
+430755;Rs-Estacao
+430760;Rs-Estancia Velha
+430770;Rs-Esteio
+430780;Rs-Estrela
+430781;Rs-Estrela Velha
+430783;Rs-Eugenio de Castro
+430786;Rs-Fagundes Varela
+430790;Rs-Farroupilha
+430800;Rs-Faxinal do Soturno
+430805;Rs-Faxinalzinho
+430807;Rs-Fazenda Vilanova
+430810;Rs-Feliz
+430820;Rs-Flores da Cunha
+430825;Rs-Floriano Peixoto
+430830;Rs-Fontoura Xavier
+430840;Rs-Formigueiro
+430843;Rs-Forquetinha
+430845;Rs-Fortaleza dos Valos
+430850;Rs-Frederico Westphalen
+430860;Rs-Garibaldi
+430865;Rs-Garruchos
+430870;Rs-Gaurama
+430880;Rs-General Camara
+430885;Rs-Gentil
+430890;Rs-Getulio Vargas
+430900;Rs-Girua
+430905;Rs-Glorinha
+430910;Rs-Gramado
+430912;Rs-Gramado dos Loureiros
+430915;Rs-Gramado Xavier
+430920;Rs-Gravatai
+430925;Rs-Guabiju
+430930;Rs-Guaiba
+430940;Rs-Guapore
+430950;Rs-Guarani das Missoes
+430955;Rs-Harmonia
+430957;Rs-Herveiras
+430960;Rs-Horizontina
+430965;Rs-Hulha Negra
+430970;Rs-Humaita
+430975;Rs-Ibarama
+430980;Rs-Ibiaca
+430990;Rs-Ibiraiaras
+430995;Rs-Ibirapuita
+431000;Rs-Ibiruba
+431010;Rs-Igrejinha
+431020;Rs-Ijui
+431030;Rs-Ilopolis
+431033;Rs-Imbe
+431036;Rs-Imigrante
+431040;Rs-Independencia
+431041;Rs-Inhacora
+431043;Rs-Ipe
+431046;Rs-Ipiranga do Sul
+431050;Rs-Irai
+431053;Rs-Itaara
+431055;Rs-Itacurubi
+431057;Rs-Itapuca
+431060;Rs-Itaqui
+431065;Rs-Itati
+431070;Rs-Itatiba do Sul
+431075;Rs-Ivora
+431080;Rs-Ivoti
+431085;Rs-Jaboticaba
+431087;Rs-Jacuizinho
+431090;Rs-Jacutinga
+431100;Rs-Jaguarao
+431110;Rs-Jaguari
+431112;Rs-Jaquirana
+431113;Rs-Jari
+431115;Rs-Joia
+431120;Rs-Julio de Castilhos
+431123;Rs-Lagoa Bonita do Sul
+431125;Rs-Lagoao
+431127;Rs-Lagoa dos Tres Cantos
+431130;Rs-Lagoa Vermelha
+431140;Rs-Lajeado
+431142;Rs-Lajeado do Bugre
+431150;Rs-Lavras do Sul
+431160;Rs-Liberato Salzano
+431162;Rs-Lindolfo Collor
+431164;Rs-Linha Nova
+431170;Rs-Machadinho
+431171;Rs-Macambara
+431173;Rs-Mampituba
+431175;Rs-Manoel Viana
+431177;Rs-Maquine
+431179;Rs-Marata
+431180;Rs-Marau
+431190;Rs-Marcelino Ramos
+431198;Rs-Mariana Pimentel
+431200;Rs-Mariano Moro
+431205;Rs-Marques de Souza
+431210;Rs-Mata
+431213;Rs-Mato Castelhano
+431215;Rs-Mato Leitao
+431217;Rs-Mato Queimado
+431220;Rs-Maximiliano de Almeida
+431225;Rs-Minas do Leao
+431230;Rs-Miraguai
+431235;Rs-Montauri
+431237;Rs-Monte Alegre dos Campos
+431238;Rs-Monte Belo do Sul
+431240;Rs-Montenegro
+431242;Rs-Mormaco
+431244;Rs-Morrinhos do Sul
+431245;Rs-Morro Redondo
+431247;Rs-Morro Reuter
+431250;Rs-Mostardas
+431260;Rs-Mucum
+431261;Rs-Muitos Capoes
+431262;Rs-Muliterno
+431265;Rs-Nao-Me-Toque
+431267;Rs-Nicolau Vergueiro
+431270;Rs-Nonoai
+431275;Rs-Nova Alvorada
+431280;Rs-Nova Araca
+431290;Rs-Nova Bassano
+431295;Rs-Nova Boa Vista
+431300;Rs-Nova Brescia
+431301;Rs-Nova Candelaria
+431303;Rs-Nova Esperanca do Sul
+431306;Rs-Nova Hartz
+431308;Rs-Nova Padua
+431310;Rs-Nova Palma
+431320;Rs-Nova Petropolis
+431330;Rs-Nova Prata
+431333;Rs-Nova Ramada
+431335;Rs-Nova Roma do Sul
+431337;Rs-Nova Santa Rita
+431339;Rs-Novo Cabrais
+431340;Rs-Novo Hamburgo
+431342;Rs-Novo Machado
+431344;Rs-Novo Tiradentes
+431346;Rs-Novo Xingu
+431349;Rs-Novo Barreiro
+431350;Rs-Osorio
+431360;Rs-Paim Filho
+431365;Rs-Palmares do Sul
+431370;Rs-Palmeira das Missoes
+431380;Rs-Palmitinho
+431390;Rs-Panambi
+431395;Rs-Pantano Grande
+431400;Rs-Parai
+431402;Rs-Paraiso do Sul
+431403;Rs-Pareci Novo
+431405;Rs-Parobe
+431406;Rs-Passa Sete
+431407;Rs-Passo do Sobrado
+431410;Rs-Passo Fundo
+431413;Rs-Paulo Bento
+431415;Rs-Paverama
+431417;Rs-Pedras Altas
+431420;Rs-Pedro Osorio
+431430;Rs-Pejucara
+431440;Rs-Pelotas
+431442;Rs-Picada Cafe
+431445;Rs-Pinhal
+431446;Rs-Pinhal da Serra
+431447;Rs-Pinhal Grande
+431449;Rs-Pinheirinho do Vale
+431450;Rs-Pinheiro Machado
+431453;Rs-Pinto Bandeira
+431454;Rs-Pinto Bandeira
+431455;Rs-Pirapo
+431460;Rs-Piratini
+431470;Rs-Planalto
+431475;Rs-Poco das Antas
+431477;Rs-Pontao
+431478;Rs-Ponte Preta
+431480;Rs-Portao
+431490;Rs-Porto Alegre
+431500;Rs-Porto Lucena
+431505;Rs-Porto Maua
+431507;Rs-Porto Vera Cruz
+431510;Rs-Porto Xavier
+431513;Rs-Pouso Novo
+431514;Rs-Presidente Lucena
+431515;Rs-Progresso
+431517;Rs-Protasio Alves
+431520;Rs-Putinga
+431530;Rs-Quarai
+431531;Rs-Quatro Irmaos
+431532;Rs-Quevedos
+431535;Rs-Quinze de Novembro
+431540;Rs-Redentora
+431545;Rs-Relvado
+431550;Rs-Restinga Seca
+431555;Rs-Rio dos Indios
+431560;Rs-Rio Grande
+431570;Rs-Rio Pardo
+431575;Rs-Riozinho
+431580;Rs-Roca Sales
+431590;Rs-Rodeio Bonito
+431595;Rs-Rolador
+431600;Rs-Rolante
+431610;Rs-Ronda Alta
+431620;Rs-Rondinha
+431630;Rs-Roque Gonzales
+431640;Rs-Rosario do Sul
+431642;Rs-Sagrada Familia
+431643;Rs-Saldanha Marinho
+431645;Rs-Salto do Jacui
+431647;Rs-Salvador das Missoes
+431650;Rs-Salvador do Sul
+431660;Rs-Sananduva
+431670;Rs-Santa Barbara do Sul
+431673;Rs-Santa Cecilia do Sul
+431675;Rs-Santa Clara do Sul
+431680;Rs-Santa Cruz do Sul
+431690;Rs-Santa Maria
+431695;Rs-Santa Maria do Herval
+431697;Rs-Santa Margarida do Sul
+431700;Rs-Santana da Boa Vista
+431710;Rs-Santana do Livramento
+431720;Rs-Santa Rosa
+431725;Rs-Santa Tereza
+431730;Rs-Santa Vitoria do Palmar
+431740;Rs-Santiago
+431750;Rs-Santo Angelo
+431755;Rs-Santo Antonio do Palma
+431760;Rs-Santo Antonio da Patrulha
+431770;Rs-Santo Antonio das Missoes
+431775;Rs-Santo Antonio do Planalto
+431780;Rs-Santo Augusto
+431790;Rs-Santo Cristo
+431795;Rs-Santo Expedito do Sul
+431800;Rs-Sao Borja
+431805;Rs-Sao Domingos do Sul
+431810;Rs-Sao Francisco de Assis
+431820;Rs-Sao Francisco de Paula
+431830;Rs-Sao Gabriel
+431840;Rs-Sao Jeronimo
+431842;Rs-Sao Joao da Urtiga
+431843;Rs-Sao Joao do Polesine
+431844;Rs-Sao Jorge
+431845;Rs-Sao Jose das Missoes
+431846;Rs-Sao Jose do Herval
+431848;Rs-Sao Jose do Hortencio
+431849;Rs-Sao Jose do Inhacora
+431850;Rs-Sao Jose do Norte
+431860;Rs-Sao Jose do Ouro
+431861;Rs-Sao Jose do Sul
+431862;Rs-Sao Jose dos Ausentes
+431870;Rs-Sao Leopoldo
+431880;Rs-Sao Lourenco do Sul
+431890;Rs-Sao Luiz Gonzaga
+431900;Rs-Sao Marcos
+431910;Rs-Sao Martinho
+431912;Rs-Sao Martinho da Serra
+431915;Rs-Sao Miguel das Missoes
+431920;Rs-Sao Nicolau
+431930;Rs-Sao Paulo das Missoes
+431935;Rs-Sao Pedro da Serra
+431936;Rs-Sao Pedro das Missoes
+431937;Rs-Sao Pedro do Butia
+431940;Rs-Sao Pedro do Sul
+431950;Rs-Sao Sebastiao do Cai
+431960;Rs-Sao Sepe
+431970;Rs-Sao Valentim
+431971;Rs-Sao Valentim do Sul
+431973;Rs-Sao Valerio do Sul
+431975;Rs-Sao Vendelino
+431980;Rs-Sao Vicente do Sul
+431990;Rs-Sapiranga
+432000;Rs-Sapucaia do Sul
+432010;Rs-Sarandi
+432020;Rs-Seberi
+432023;Rs-Sede Nova
+432026;Rs-Segredo
+432030;Rs-Selbach
+432032;Rs-Senador Salgado Filho
+432035;Rs-Sentinela do Sul
+432040;Rs-Serafina Correa
+432045;Rs-Serio
+432050;Rs-Sertao
+432055;Rs-Sertao Santana
+432057;Rs-Sete de Setembro
+432060;Rs-Severiano de Almeida
+432065;Rs-Silveira Martins
+432067;Rs-Sinimbu
+432070;Rs-Sobradinho
+432080;Rs-Soledade
+432085;Rs-Tabai
+432090;Rs-Tapejara
+432100;Rs-Tapera
+432110;Rs-Tapes
+432120;Rs-Taquara
+432130;Rs-Taquari
+432132;Rs-Taquarucu do Sul
+432135;Rs-Tavares
+432140;Rs-Tenente Portela
+432143;Rs-Terra de Areia
+432145;Rs-Teutonia
+432146;Rs-Tio Hugo
+432147;Rs-Tiradentes do Sul
+432149;Rs-Toropi
+432150;Rs-Torres
+432160;Rs-Tramandai
+432162;Rs-Travesseiro
+432163;Rs-Tres Arroios
+432166;Rs-Tres Cachoeiras
+432170;Rs-Tres Coroas
+432180;Rs-Tres de Maio
+432183;Rs-Tres Forquilhas
+432185;Rs-Tres Palmeiras
+432190;Rs-Tres Passos
+432195;Rs-Trindade do Sul
+432200;Rs-Triunfo
+432210;Rs-Tucunduva
+432215;Rs-Tunas
+432218;Rs-Tupanci do Sul
+432220;Rs-Tupancireta
+432225;Rs-Tupandi
+432230;Rs-Tuparendi
+432232;Rs-Turucu
+432234;Rs-Ubiretama
+432235;Rs-Uniao da Serra
+432237;Rs-Unistalda
+432240;Rs-Uruguaiana
+432250;Rs-Vacaria
+432252;Rs-Vale Verde
+432253;Rs-Vale do Sol
+432254;Rs-Vale Real
+432255;Rs-Vanini
+432260;Rs-Venancio Aires
+432270;Rs-Vera Cruz
+432280;Rs-Veranopolis
+432285;Rs-Vespasiano Correa
+432290;Rs-Viadutos
+432300;Rs-Viamao
+432310;Rs-Vicente Dutra
+432320;Rs-Victor Graeff
+432330;Rs-Vila Flores
+432335;Rs-Vila Langaro
+432340;Rs-Vila Maria
+432345;Rs-Vila Nova do Sul
+432350;Rs-Vista Alegre
+432360;Rs-Vista Alegre do Prata
+432370;Rs-Vista Gaucha
+432375;Rs-Vitoria das Missoes
+432377;Rs-Westfalia
+432380;Rs-Xangri-La
+439999;Rs-Ignorado
+500020;Ms-Agua Clara
+500025;Ms-Alcinopolis
+500060;Ms-Amambai
+500070;Ms-Anastacio
+500080;Ms-Anaurilandia
+500085;Ms-Angelica
+500090;Ms-Antonio Joao
+500100;Ms-Aparecida do Taboado
+500110;Ms-Aquidauana
+500124;Ms-Aral Moreira
+500150;Ms-Bandeirantes
+500190;Ms-Bataguassu
+500200;Ms-Bataipora
+500210;Ms-Bela Vista
+500215;Ms-Bodoquena
+500220;Ms-Bonito
+500230;Ms-Brasilandia
+500240;Ms-Caarapo
+500260;Ms-Camapua
+500270;Ms-Campo Grande
+500280;Ms-Caracol
+500290;Ms-Cassilandia
+500295;Ms-Chapadao do Sul
+500310;Ms-Corguinho
+500315;Ms-Coronel Sapucaia
+500320;Ms-Corumba
+500325;Ms-Costa Rica
+500330;Ms-Coxim
+500345;Ms-Deodapolis
+500348;Ms-Dois Irmaos do Buriti
+500350;Ms-Douradina
+500370;Ms-Dourados
+500375;Ms-Eldorado
+500380;Ms-Fatima do Sul
+500390;Ms-Figueirao
+500400;Ms-Gloria de Dourados
+500410;Ms-Guia Lopes da Laguna
+500430;Ms-Iguatemi
+500440;Ms-Inocencia
+500450;Ms-Itapora
+500460;Ms-Itaquirai
+500470;Ms-Ivinhema
+500480;Ms-Japora
+500490;Ms-Jaraguari
+500500;Ms-Jardim
+500510;Ms-Jatei
+500515;Ms-Juti
+500520;Ms-Ladario
+500525;Ms-Laguna Carapa
+500540;Ms-Maracaju
+500560;Ms-Miranda
+500568;Ms-Mundo Novo
+500570;Ms-Navirai
+500580;Ms-Nioaque
+500600;Ms-Nova Alvorada do Sul
+500620;Ms-Nova Andradina
+500625;Ms-Novo Horizonte do Sul
+500627;Ms-Paraiso das Aguas
+500630;Ms-Paranaiba
+500635;Ms-Paranhos
+500640;Ms-Pedro Gomes
+500660;Ms-Ponta Pora
+500690;Ms-Porto Murtinho
+500710;Ms-Ribas do Rio Pardo
+500720;Ms-Rio Brilhante
+500730;Ms-Rio Negro
+500740;Ms-Rio Verde de Mato Grosso
+500750;Ms-Rochedo
+500755;Ms-Santa Rita do Pardo
+500769;Ms-Sao Gabriel do Oeste
+500770;Ms-Sete Quedas
+500780;Ms-Selviria
+500790;Ms-Sidrolandia
+500793;Ms-Sonora
+500795;Ms-Tacuru
+500797;Ms-Taquarussu
+500800;Ms-Terenos
+500830;Ms-Tres Lagoas
+500840;Ms-Vicentina
+509999;Ms-Ignorado
+510010;Mt-Acorizal
+510020;Mt-Agua Boa
+510025;Mt-Alta Floresta
+510030;Mt-Alto Araguaia
+510035;Mt-Alto Boa Vista
+510040;Mt-Alto Garcas
+510050;Mt-Alto Paraguai
+510060;Mt-Alto Taquari
+510080;Mt-Apiacas
+510100;Mt-Araguaiana
+510120;Mt-Araguainha
+510125;Mt-Araputanga
+510130;Mt-Arenapolis
+510140;Mt-Aripuana
+510160;Mt-Barao de Melgaco
+510170;Mt-Barra do Bugres
+510180;Mt-Barra do Garcas
+510185;Mt-Bom Jesus do Araguaia
+510190;Mt-Brasnorte
+510250;Mt-Caceres
+510260;Mt-Campinapolis
+510263;Mt-Campo Novo do Parecis
+510267;Mt-Campo Verde
+510268;Mt-Campos de Julio
+510269;Mt-Canabrava do Norte
+510270;Mt-Canarana
+510279;Mt-Carlinda
+510285;Mt-Castanheira
+510300;Mt-Chapada dos Guimaraes
+510305;Mt-Claudia
+510310;Mt-Cocalinho
+510320;Mt-Colider
+510325;Mt-Colniza
+510330;Mt-Comodoro
+510335;Mt-Confresa
+510336;Mt-Conquista D Oeste
+510337;Mt-Cotriguacu
+510340;Mt-Cuiaba
+510343;Mt-Curvelandia
+510345;Mt-Denise
+510350;Mt-Diamantino
+510360;Mt-Dom Aquino
+510370;Mt-Feliz Natal
+510380;Mt-Figueiropolis D Oeste
+510385;Mt-Gaucha do Norte
+510390;Mt-General Carneiro
+510395;Mt-Gloria D Oeste
+510410;Mt-Guaranta do Norte
+510420;Mt-Guiratinga
+510450;Mt-Indiavai
+510452;Mt-Ipiranga do Norte
+510454;Mt-Itanhanga
+510455;Mt-Itauba
+510460;Mt-Itiquira
+510480;Mt-Jaciara
+510490;Mt-Jangada
+510500;Mt-Jauru
+510510;Mt-Juara
+510515;Mt-Juina
+510517;Mt-Juruena
+510520;Mt-Juscimeira
+510523;Mt-Lambari D Oeste
+510525;Mt-Lucas do Rio Verde
+510530;Mt-Luciara
+510550;Mt-Vila Bela da Santissima Trindade
+510558;Mt-Marcelandia
+510560;Mt-Matupa
+510562;Mt-Mirassol D Oeste
+510590;Mt-Nobres
+510600;Mt-Nortelandia
+510610;Mt-Nossa Senhora do Livramento
+510615;Mt-Nova Bandeirantes
+510617;Mt-Nova Nazare
+510618;Mt-Nova Lacerda
+510619;Mt-Nova Santa Helena
+510620;Mt-Nova Brasilandia
+510621;Mt-Nova Canaa do Norte
+510622;Mt-Nova Mutum
+510623;Mt-Nova Olimpia
+510624;Mt-Nova Ubirata
+510625;Mt-Nova Xavantina
+510626;Mt-Novo Mundo
+510627;Mt-Novo Horizonte do Norte
+510628;Mt-Novo Sao Joaquim
+510629;Mt-Paranaita
+510630;Mt-Paranatinga
+510631;Mt-Novo Santo Antonio
+510637;Mt-Pedra Preta
+510642;Mt-Peixoto de Azevedo
+510645;Mt-Planalto da Serra
+510650;Mt-Pocone
+510665;Mt-Pontal do Araguaia
+510670;Mt-Ponte Branca
+510675;Mt-Pontes e Lacerda
+510677;Mt-Porto Alegre do Norte
+510680;Mt-Porto dos Gauchos
+510682;Mt-Porto Esperidiao
+510685;Mt-Porto Estrela
+510700;Mt-Poxoreo
+510704;Mt-Primavera do Leste
+510706;Mt-Querencia
+510710;Mt-Sao Jose dos Quatro Marcos
+510715;Mt-Reserva do Cabacal
+510718;Mt-Ribeirao Cascalheira
+510719;Mt-Ribeiraozinho
+510720;Mt-Rio Branco
+510724;Mt-Santa Carmem
+510726;Mt-Santo Afonso
+510729;Mt-Sao Jose do Povo
+510730;Mt-Sao Jose do Rio Claro
+510735;Mt-Sao Jose do Xingu
+510740;Mt-Sao Pedro da Cipa
+510757;Mt-Rondolandia
+510760;Mt-Rondonopolis
+510770;Mt-Rosario Oeste
+510774;Mt-Santa Cruz do Xingu
+510775;Mt-Salto do Ceu
+510776;Mt-Santa Rita do Trivelato
+510777;Mt-Santa Terezinha
+510779;Mt-Santo Antonio do Leste
+510780;Mt-Santo Antonio do Leverger
+510785;Mt-Sao Felix do Araguaia
+510787;Mt-Sapezal
+510788;Mt-Serra Nova Dourada
+510790;Mt-Sinop
+510792;Mt-Sorriso
+510794;Mt-Tabapora
+510795;Mt-Tangara da Serra
+510800;Mt-Tapurah
+510805;Mt-Terra Nova do Norte
+510810;Mt-Tesouro
+510820;Mt-Torixoreu
+510830;Mt-Uniao do Sul
+510835;Mt-Vale de Sao Domingos
+510840;Mt-Varzea Grande
+510850;Mt-Vera
+510860;Mt-Vila Rica
+510880;Mt-Nova Guarita
+510885;Mt-Nova Marilandia
+510890;Mt-Nova Maringa
+510895;Mt-Nova Monte Verde
+519999;Mt-Ignorado
+520005;Go-Abadia de Goias
+520010;Go-Abadiania
+520013;Go-Acreuna
+520015;Go-Adelandia
+520017;Go-Agua Fria de Goias
+520020;Go-Agua Limpa
+520025;Go-Aguas Lindas de Goias
+520030;Go-Alexania
+520040;Go-Almas
+520050;Go-Aloandia
+520055;Go-Alto Horizonte
+520060;Go-Alto Paraiso de Goias
+520070;Go-Alvorada
+520080;Go-Alvorada do Norte
+520082;Go-Amaralina
+520085;Go-Americano do Brasil
+520090;Go-Amorinopolis
+520100;Go-Ananas
+520110;Go-Anapolis
+520120;Go-Anhanguera
+520130;Go-Anicuns
+520140;Go-Aparecida de Goiania
+520145;Go-Aparecida do Rio Doce
+520150;Go-Apore
+520160;Go-Aracu
+520170;Go-Aragarcas
+520180;Go-Aragoiania
+520190;Go-Araguacema
+520200;Go-Araguacu
+520210;Go-Araguaina
+520215;Go-Araguapaz
+520220;Go-Araguatins
+520230;Go-Arapoema
+520235;Go-Arenopolis
+520240;Go-Arraias
+520250;Go-Aruana
+520255;Go-Augustinopolis
+520260;Go-Aurilandia
+520270;Go-Aurora do Norte
+520280;Go-Avelinopolis
+520290;Go-Axixa de Goias
+520300;Go-Babaculandia
+520310;Go-Baliza
+520320;Go-Barro Alto
+520330;Go-Bela Vista de Goias
+520340;Go-Bom Jardim de Goias
+520350;Go-Bom Jesus de Goias
+520355;Go-Bonfinopolis
+520357;Go-Bonopolis
+520360;Go-Brazabrantes
+520370;Go-Brejinho de Nazare
+520380;Go-Britania
+520390;Go-Buriti Alegre
+520393;Go-Buriti de Goias
+520396;Go-Buritinopolis
+520400;Go-Cabeceiras
+520410;Go-Cachoeira Alta
+520420;Go-Cachoeira de Goias
+520425;Go-Cachoeira Dourada
+520430;Go-Cacu
+520440;Go-Caiaponia
+520450;Go-Caldas Novas
+520455;Go-Caldazinha
+520460;Go-Campestre de Goias
+520465;Go-Campinacu
+520470;Go-Campinorte
+520480;Go-Campo Alegre de Goias
+520485;Go-Campo Limpo de Goias
+520490;Go-Campos Belos
+520495;Go-Campos Verdes
+520500;Go-Carmo do Rio Verde
+520505;Go-Castelandia
+520510;Go-Catalao
+520520;Go-Caturai
+520530;Go-Cavalcante
+520540;Go-Ceres
+520545;Go-Cezarina
+520547;Go-Chapadao do Ceu
+520549;Go-Cidade Ocidental
+520550;Go-Colinas de Goias
+520551;Go-Cocalzinho de Goias
+520552;Go-Colinas do Sul
+520560;Go-Conceicao do Norte
+520570;Go-Corrego do Ouro
+520580;Go-Corumba de Goias
+520590;Go-Corumbaiba
+520600;Go-Couto de Magalhaes
+520610;Go-Cristalandia
+520620;Go-Cristalina
+520630;Go-Cristianopolis
+520640;Go-Crixas
+520650;Go-Crominia
+520660;Go-Cumari
+520670;Go-Damianopolis
+520680;Go-Damolandia
+520690;Go-Davinopolis
+520700;Go-Dianopolis
+520710;Go-Diorama
+520720;Go-Dois Irmaos de Goias
+520725;Go-Doverlandia
+520730;Go-Duere
+520735;Go-Edealina
+520740;Go-Edeia
+520750;Go-Estrela do Norte
+520753;Go-Faina
+520755;Go-Fatima
+520760;Go-Fazenda Nova
+520765;Go-Figueiropolis
+520770;Go-Filadelfia
+520780;Go-Firminopolis
+520790;Go-Flores de Goias
+520800;Go-Formosa
+520810;Go-Formoso
+520815;Go-Gameleira de Goias
+520820;Go-Formoso do Araguaia
+520830;Go-Divinopolis de Goias
+520840;Go-Goianapolis
+520850;Go-Goiandira
+520860;Go-Goianesia
+520870;Go-Goiania
+520880;Go-Goianira
+520890;Go-Goias
+520900;Go-Goiatins
+520910;Go-Goiatuba
+520915;Go-Gouvelandia
+520920;Go-Guapo
+520929;Go-Guaraita
+520930;Go-Guarai
+520940;Go-Guarani de Goias
+520945;Go-Guarinos
+520950;Go-Gurupi
+520960;Go-Heitorai
+520970;Go-Hidrolandia
+520980;Go-Hidrolina
+520990;Go-Iaciara
+520993;Go-Inaciolandia
+520995;Go-Indiara
+521000;Go-Inhumas
+521010;Go-Ipameri
+521015;Go-Ipiranga de Goias
+521020;Go-Ipora
+521030;Go-Israelandia
+521040;Go-Itaberai
+521050;Go-Itacaja
+521056;Go-Itaguari
+521060;Go-Itaguaru
+521070;Go-Itaguatins
+521080;Go-Itaja
+521090;Go-Itapaci
+521100;Go-Itapirapua
+521110;Go-Itapora de Goias
+521120;Go-Itapuranga
+521130;Go-Itaruma
+521140;Go-Itaucu
+521150;Go-Itumbiara
+521160;Go-Ivolandia
+521170;Go-Jandaia
+521180;Go-Jaragua
+521190;Go-Jatai
+521200;Go-Jaupaci
+521205;Go-Jesupolis
+521210;Go-Joviania
+521220;Go-Jussara
+521225;Go-Lagoa Santa
+521230;Go-Leopoldo de Bulhoes
+521240;Go-Lizarda
+521250;Go-Luziania
+521260;Go-Mairipotaba
+521270;Go-Mambai
+521280;Go-Mara Rosa
+521290;Go-Marzagao
+521295;Go-Matrincha
+521300;Go-Maurilandia
+521305;Go-Mimoso de Goias
+521308;Go-Minacu
+521310;Go-Mineiros
+521320;Go-Miracema do Norte
+521330;Go-Miranorte
+521340;Go-Moipora
+521350;Go-Monte Alegre de Goias
+521360;Go-Monte do Carmo
+521370;Go-Montes Claros de Goias
+521375;Go-Montividiu
+521377;Go-Montividiu do Norte
+521380;Go-Morrinhos
+521385;Go-Morro Agudo de Goias
+521390;Go-Mossamedes
+521400;Go-Mozarlandia
+521405;Go-Mundo Novo
+521410;Go-Mutunopolis
+521420;Go-Natividade
+521430;Go-Nazare
+521440;Go-Nazario
+521450;Go-Neropolis
+521460;Go-Niquelandia
+521470;Go-Nova America
+521480;Go-Nova Aurora
+521483;Go-Nova Crixas
+521486;Go-Nova Gloria
+521487;Go-Nova Iguacu de Goias
+521488;Go-Nova Olinda
+521490;Go-Nova Roma
+521500;Go-Nova Veneza
+521510;Go-Novo Acordo
+521520;Go-Novo Brasil
+521523;Go-Novo Gama
+521525;Go-Novo Planalto
+521530;Go-Orizona
+521540;Go-Ouro Verde de Goias
+521550;Go-Ouvidor
+521560;Go-Padre Bernardo
+521565;Go-Palestina de Goias
+521570;Go-Palmeiras de Goias
+521575;Go-Palmeiropolis
+521580;Go-Palmelo
+521590;Go-Palminopolis
+521600;Go-Panama
+521610;Go-Paraiso do Norte de Goias
+521620;Go-Parana
+521630;Go-Paranaiguara
+521640;Go-Parauna
+521645;Go-Perolandia
+521650;Go-Pedro Afonso
+521660;Go-Peixe
+521670;Go-Colmeia
+521680;Go-Petrolina de Goias
+521690;Go-Pilar de Goias
+521700;Go-Pindorama de Goias
+521710;Go-Piracanjuba
+521720;Go-Piranhas
+521730;Go-Pirenopolis
+521740;Go-Pires do Rio
+521750;Go-Pium
+521760;Go-Planaltina
+521770;Go-Pontalina
+521780;Go-Ponte Alta do Bom Jesus
+521790;Go-Ponte Alta do Norte
+521800;Go-Porangatu
+521805;Go-Porteirao
+521810;Go-Portelandia
+521820;Go-Porto Nacional
+521830;Go-Posse
+521839;Go-Professor Jamil
+521840;Go-Presidente Kennedy
+521850;Go-Quirinopolis
+521860;Go-Rialma
+521870;Go-Rianapolis
+521875;Go-Rio Sono (Desativado)
+521878;Go-Rio Quente
+521880;Go-Rio Verde
+521890;Go-Rubiataba
+521900;Go-Sanclerlandia
+521910;Go-Santa Barbara de Goias
+521920;Go-Santa Cruz de Goias
+521925;Go-Santa Fe de Goias
+521930;Go-Santa Helena de Goias
+521935;Go-Santa Isabel
+521940;Go-Santa Rita do Araguaia
+521945;Go-Santa Rita do Novo Destino
+521950;Go-Santa Rosa de Goias
+521960;Go-Santa Tereza de Goias
+521970;Go-Santa Terezinha de Goias
+521971;Go-Santo Antonio da Barra
+521973;Go-Santo Antonio de Goias
+521975;Go-Santo Antonio do Descoberto
+521980;Go-Sao Domingos
+521990;Go-Sao Francisco de Goias
+522000;Go-Sao Joao D Alianca
+522005;Go-Sao Joao da Parauna
+522010;Go-Sao Luis de Montes Belos
+522015;Go-Sao Luiz do Norte
+522020;Go-Sao Miguel do Araguaia
+522026;Go-Sao Miguel do Passa Quatro
+522028;Go-Sao Patricio
+522030;Go-Sao Sebastiao do Tocantins
+522040;Go-Sao Simao
+522045;Go-Senador Canedo
+522050;Go-Serranopolis
+522060;Go-Silvania
+522065;Go-Silvanopolis
+522068;Go-Simolandia
+522070;Go-Sitio D Abadia
+522080;Go-Sitio Novo de Goias
+522090;Go-Taguatinga
+522100;Go-Taquaral de Goias
+522108;Go-Teresina de Goias
+522110;Go-Tocantinia
+522119;Go-Terezopolis de Goias
+522120;Go-Tocantinopolis
+522130;Go-Tres Ranchos
+522140;Go-Trindade
+522145;Go-Trombas
+522150;Go-Turvania
+522155;Go-Turvelandia
+522157;Go-Uirapuru
+522160;Go-Uruacu
+522170;Go-Uruana
+522180;Go-Urutai
+522185;Go-Valparaiso de Goias
+522190;Go-Varjao
+522200;Go-Vianopolis
+522205;Go-Vicentinopolis
+522208;Go-Wanderlandia
+522210;Go-Xambioa
+522220;Go-Vila Boa
+522230;Go-Vila Propicio
+529999;Go-Ignorado
+530010;Df-Brasilia
+539999;Df-Ignorado
+999999;{ñ class}
